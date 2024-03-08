@@ -25,14 +25,14 @@ export default defineConfig({
         text: 'Internmedicin',
         collapsed: false,
         items: [
-          { text: 'Erysipelas', link: '/klinikstatus/internmedicin/erysipelas'}, 
+          { text: 'Erysipelas', link: '/internmedicin/erysipelas'}, 
         ],
       },
       {
         text: 'Kardiologi',
         collapsed: false,
         items: [
-          { text: 'STEMI', link: '/klinikstatus/kardiologi/stemi'},
+          { text: 'STEMI', link: '/kardiologi/stemi'},
         ],
      },
      {
