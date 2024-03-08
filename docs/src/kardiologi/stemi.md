@@ -1,0 +1,1 @@
+# ST-höjningsinfarkt (STEMI)
