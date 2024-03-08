@@ -37,3 +37,6 @@ Navigeras enklast från listvyn i vänster spalt.
 7. Avslutande tankar
 
 ## 1. Sensitivitet
+::: info <gr> Beskriver en undersöknings sannolikhet att hitta sjukdom (true positive). Beräknas genom $\frac{true positive}{antal sjuka}$  </gr>
+
+:::
