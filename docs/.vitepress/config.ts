@@ -18,7 +18,7 @@ export default defineConfig({
         text: 'Kirurgi',
         collapsed: false,
         items: [
-          { text: 'Appendicit', link: '/docs/src/kirurgi/appendicit'},  
+          { text: 'Appendicit', link: '/src/kirurgi/appendicit'},  
         ],        
       },
       {
