@@ -1,1 +1,0 @@
-# Erysipelas (rosfeber)
