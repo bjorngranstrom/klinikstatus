@@ -80,6 +80,16 @@ Specificitet = $\frac{d}{b+d}$
 
 
 ### Hur man ska tänka
+
+::: info Bra eller inte?
+|       Värde   |             | 
+| ------------- | :-----------:                      | 
+| 0.8-0.89 (80-89%)          | Acceptabelt             | 
+| 0.9-1 (90-100%)            | Bra till mycket bra        | 
+:::
+
+> <bl> For a test to be useful, sensitivity+specificity should be at least 1.5 (halfway between 1, which is useless, and 2, which is perfect). </bl>
+
 För att en undersökning ska tillföra något värde måste den antingen öka eller minska sannolikheten för den sjukdom man undersöker för. 
 En bra undersökning har både hög sensitivitet och specifictet. Undersökningen ger då goda chanser att vägleda klinikern både vid positivt och negativt utfall. 
 
