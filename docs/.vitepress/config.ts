@@ -15,12 +15,33 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Kirurgi',
+        collapsed: false,
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
-        ]
-      }
+          { text: 'Appendicit', link: '/klinikstatus/kirurgi/appendicit'},  
+        ],        
+      },
+      {
+        text: 'Internmedicin',
+        collapsed: false,
+        items: [
+          { text: 'Erysipelas', link: '/klinikstatus/internmedicin/erysipelas'}, 
+        ],
+      },
+      {
+        text: 'Kardiologi',
+        collapsed: false,
+        items: [
+          { text: 'STEMI', link: '/klinikstatus/kardiologi/stemi'},
+        ],
+     },
+     {
+        text: 'Infektion',
+        collapsed: false,
+        items: [
+          { text: 'Diagnos 1'}
+      ],
+    },
     ],
 
     socialLinks: [
