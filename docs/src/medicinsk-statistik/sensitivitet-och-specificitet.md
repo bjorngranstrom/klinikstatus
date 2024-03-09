@@ -87,11 +87,6 @@ En bra undersökning har både hög sensitivitet och specifictet. Undersökninge
 
 ## 6. Applicering
 
+## 7. Källor
 
 
-1. Sensitivitet och Specificitet
-2. Likelyhood ratio (LR)
-3. Pre-test probability (PTP)
-4. Fagans nomogram
-5. Applicering
-6. Avslutande tankar
