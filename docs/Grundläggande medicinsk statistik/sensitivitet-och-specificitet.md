@@ -1,40 +1,17 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
-title: Klinikstatus
-description: Klinikerns statistikverktyg
+title: Grundläggande statistiklära
+description: Viktig kunskap om medicinsk statistik
 layout: doc
 ---
 
-<style>
-gr { color: #3BC851 }
-re { color: #C70039 }
-ye { color: #FFC300 }
-bl { color: #0CDFF2 }
-</style>
 
-# Akutläkarens handbok i statistik
+# Grundläggande medicinsk statistik
 
-## Vad är Klinikstatus
-
-<ye> 
-Klinikstatus används som vägledning i den kliniska diagnostiken med fokus på akutarbetet. Syftet är att använda denna databas som underlag för att undvika onödiga undersökningar och prioritera "high yield" undersökningar både för att spara resurser och effektivisera arbetet.  
-
-Här presenteras undersökningar för vanliga sjukdomar man stöter på i det akuta skedet och deras evidensgrad. Den huvudsakliga mätvariabeln är likelyhood ratio (LR). 
-
-Navigeras enklast från listvyn i vänster spalt. 
-</ye> 
-
-## Grundläggande statistiklära
 ::: info <gr> Kortfattad essentiell kunskap i statistik för att förstå nyckelbegrepp och hur de appliceras.</gr>
 <gr> Du kommer förstå varför ett likelyhood ratio (LR) på 1 är meningslöst och varför ett LR på 10 eller 0.1 agerar som rule-in eller rule-out undersökningar. </gr>  
 :::
 
-1. Sensitivitet och Specificitet
-2. Likelyhood ratio (LR)
-3. Pre-test probability (PTP)
-4. Fagans nomogram
-5. Applicering
-6. Avslutande tankar
+[[toc]]
 
 ## 1. Sensitivitet och Specificitet
 
@@ -93,4 +70,21 @@ Specificitet = $\frac{d}{b+d}$
 För att en undersökning ska tillföra något värde måste den antingen öka eller minska sannolikheten för den sjukdom man undersöker för. 
 En bra undersökning har både hög sensitivitet och specifictet. Undersökningen ger då goda chanser att vägleda klinikern både vid positivt och negativt utfall. 
 
+## 2. Positive/negative predictive value (PPV/NPV) 
 
+## 3. Likelyhood ratio (LR)
+
+## 4. Pretest probability (PTP)
+
+## 5. Fagans nomogram
+
+## 6. Applicering
+
+
+
+1. Sensitivitet och Specificitet
+2. Likelyhood ratio (LR)
+3. Pre-test probability (PTP)
+4. Fagans nomogram
+5. Applicering
+6. Avslutande tankar
