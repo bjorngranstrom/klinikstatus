@@ -15,7 +15,7 @@ export default defineConfig({
   },
 
   // changes source markdown directory to /src
-  //srcDir: 'src',
+  srcDir: 'src',
   base: '/klinikstatus/',
   title: "Klinikstatus",
   description: "Yes",
@@ -48,6 +48,7 @@ export default defineConfig({
     //Side bar
     sidebar: generateSidebar({
       documentRootPath: 'docs',
+      scanStartPath: 'src',
       collapsed: false,
       capitalizeFirst: true,
       hyphenToSpace: true,
@@ -57,6 +58,7 @@ export default defineConfig({
       useFolderLinkFromIndexFile: true,
       sortMenusByName: true,
       excludeFilesByFrontmatter: true
+    
     }),
     
     

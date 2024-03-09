@@ -8,7 +8,7 @@ layout: doc
 <style>
 gr { color: #3BC851 }
 re { color: #C70039 }
-ye { color: #FFC300 }
+ye { color: #D6AB1E }
 bl { color: #0CDFF2 }
 </style>
 
