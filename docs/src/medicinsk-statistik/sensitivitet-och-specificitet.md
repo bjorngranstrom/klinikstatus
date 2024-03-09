@@ -13,16 +13,17 @@ bl { color: #0CDFF2 }
 
 # Grundläggande medicinsk statistik
 
-::: info <gr> Kortfattad essentiell kunskap i statistik för att förstå nyckelbegrepp och hur de appliceras.</gr>
-<gr> Du kommer förstå varför ett likelyhood ratio (LR) på 1 är meningslöst och varför ett LR på 10 eller 0.1 agerar som rule-in eller rule-out undersökningar. </gr>  
+::: info Kortfattad essentiell kunskap i medicinsk statistik för att förstå nyckelbegrepp och hur de appliceras.
+Du kommer förstå varför ett likelyhood ratio (LR) på 1 är meningslöst och varför ett LR på 10 eller 0.1 agerar som rule-in eller rule-out undersökningar. 
 :::
 
-[[toc]]
+
+
 
 ## 1. Sensitivitet och Specificitet
 
 ### Sensitivitet
-::: info <gr> Beskriver en undersöknings sannolikhet att hitta sjukdom (true positive) utifrån en grupp med sjukdomen. </gr>
+::: info Beskriver en undersöknings sannolikhet att hitta sjukdom (true positive) utifrån en grupp med sjukdomen. 
 :::
 
 Beräknas genom: 
@@ -36,7 +37,7 @@ Med UL hittar man alltså 94/100 patienter med sjukdomen DVT. Det betyder också
 beskriver man då som <re> _falskt negativa_ </re>.
 
 ### Specificitet
-::: info <gr> Beskriver en undersöknings sannolikhet att inte hitta sjukdomen (true negative) utifrån en grupp utan sjukdomen. </gr>
+::: info Beskriver en undersöknings sannolikhet att inte hitta sjukdomen (true negative) utifrån en grupp utan sjukdomen. 
 :::
 
 Beräknas genom:
@@ -64,14 +65,14 @@ Specificitet = $\frac{d}{b+d}$
 
 ### Hur man ska tänka
 
-::: info Bra eller inte?
+
 |       Värde   |             | 
 | ------------- | :-----------:                      | 
 | 0.8-0.89 (80-89%)          | Acceptabelt             | 
 | 0.9-1 (90-100%)            | Bra till mycket bra        | 
-:::
 
-> <bl> For a test to be useful, sensitivity+specificity should be at least 1.5 (halfway between 1, which is useless, and 2, which is perfect). </bl>
+
+> <re> For a test to be useful, sensitivity+specificity should be at least 1.5 (halfway between 1, which is useless, and 2, which is perfect). </re>
 
 För att en undersökning ska tillföra något värde måste den antingen öka eller minska sannolikheten för den sjukdom man undersöker för. 
 En bra undersökning har både hög sensitivitet och specifictet. Undersökningen ger då goda chanser att vägleda klinikern både vid positivt och negativt utfall. 

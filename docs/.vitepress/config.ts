@@ -1,17 +1,20 @@
 import { defineConfig } from 'vitepress';
 import { generateSidebar } from 'vitepress-sidebar';
 
+
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
 
- 
+  head: [
+    ['link', { rel: 'stylesheet', href: '/custom.css' }]
+  ],
 
-  // Enables mathemathics module 
+  
   markdown: {  
     toc: {
       level: [2] // Specify which header levels to include in the TOC
     },                                 
-    math: true
+    math: true // Enables mathemathics module 
   },
 
   // changes source markdown directory to /src

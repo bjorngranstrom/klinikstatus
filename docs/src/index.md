@@ -16,11 +16,11 @@ bl { color: #0CDFF2 }
 
 ## Vad är Klinikstatus
 
-<ye> 
+<ye>
 Klinikstatus används som vägledning i den kliniska diagnostiken med fokus på akutarbetet. Syftet är att använda denna databas som underlag för att undvika onödiga undersökningar och prioritera "high yield" undersökningar både för att spara resurser och effektivisera arbetet.  
 
 Här presenteras undersökningar för vanliga sjukdomar man stöter på i det akuta skedet och deras evidensgrad. Den huvudsakliga mätvariabeln är likelyhood ratio (LR). 
 
 Navigeras enklast från listvyn i vänster spalt. 
-</ye> 
+</ye>
 
