@@ -72,7 +72,8 @@ Specificitet = $\frac{d}{b+d}$
 | 0.9-1 (90-100%)            | Bra till mycket bra        | 
 
 
-> <re> For a test to be useful, sensitivity+specificity should be at least 1.5 (halfway between 1, which is useless, and 2, which is perfect). </re>
+
+> <re> "For a test to be useful, sensitivity+specificity should be at least 1.5 (1 is useless, and 2 is perfect)." </re>
 
 För att en undersökning ska tillföra något värde måste den antingen öka eller minska sannolikheten för den sjukdom man undersöker för. 
 En bra undersökning har både hög sensitivitet och specifictet. Undersökningen ger då goda chanser att vägleda klinikern både vid positivt och negativt utfall. 

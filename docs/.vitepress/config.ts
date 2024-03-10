@@ -5,6 +5,7 @@ import { generateSidebar } from 'vitepress-sidebar';
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
 
+  // This object ensures custom CSS edit
   head: [
     ['link', { rel: 'stylesheet', href: '/custom.css' }]
   ],
