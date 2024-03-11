@@ -10,7 +10,12 @@ export default defineConfig({
     ['link', { rel: 'stylesheet', href: '/custom.css' }]
   ],
 
-  
+  // Force dark mode on first visit
+  appearance: 'dark',
+
+  // Removes .html tag on web URL
+  cleanUrls: true,
+
   markdown: {  
     toc: {
       level: [2] // Specify which header levels to include in the TOC
