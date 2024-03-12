@@ -12,7 +12,7 @@ ye { color: #D6AB1E }
 bl { color: #0CDFF2 }
 </style>
 
-# <gr> Akutläkarens handbok i statistik </gr>
+# Akutläkarens handbok i statistik 
 
 ## <gr> Vad är Klinikstatus </gr>
 
