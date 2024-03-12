@@ -6,21 +6,21 @@ layout: doc
 ---
 
 <style>
-gr { color: #3BC851 }
+gr { color: #30a46c }
 re { color: #C70039 }
 ye { color: #D6AB1E }
 bl { color: #0CDFF2 }
 </style>
 
-# Akutläkarens handbok i statistik
+# <gr> Akutläkarens handbok i statistik </gr>
 
-## Vad är Klinikstatus
+## <gr> Vad är Klinikstatus </gr>
 
 <ye>
 Klinikstatus används som vägledning i den kliniska diagnostiken med fokus på akutarbetet. Syftet är att använda denna databas som underlag för att undvika onödiga undersökningar och prioritera "high yield" undersökningar både för att spara resurser och effektivisera arbetet.  
 
 Här presenteras undersökningar för vanliga sjukdomar man stöter på i det akuta skedet och deras evidensgrad. Den huvudsakliga mätvariabeln är likelyhood ratio (LR). 
-h^2O
+
 Navigeras enklast från listvyn i vänster spalt. 
 </ye>
 

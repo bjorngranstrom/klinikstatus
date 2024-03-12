@@ -203,3 +203,12 @@ Custom block
    --vp-custom-block-details-code-bg: var(--vp-custom-block-info-code-bg);
  }
  
+
+ /* Customizes links with <a> tag. 
+ */
+a {
+  text-decoration: none !important; /* Removes underline*/
+  color: #30a46c !important; /* Change to your desired color */
+}
+
+
