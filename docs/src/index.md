@@ -14,7 +14,7 @@ bl { color: #0CDFF2 }
 
 # Akutläkarens handbok i statistik 
 
-## <gr> Vad är Klinikstatus </gr>
+##  Vad är Klinikstatus 
 
 <ye>
 Klinikstatus används som vägledning i den kliniska diagnostiken med fokus på akutarbetet. Syftet är att använda denna databas som underlag för att undvika onödiga undersökningar och prioritera "high yield" undersökningar både för att spara resurser och effektivisera arbetet.  
