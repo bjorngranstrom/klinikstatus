@@ -18,7 +18,7 @@ export default defineConfig({
 
   markdown: {  
     toc: {
-      level: [2] // Specify which header levels to include in the TOC
+      level: [1] // Specify which header levels to include in the TOC
     },                                 
     math: true // Enables mathemathics module 
   },
