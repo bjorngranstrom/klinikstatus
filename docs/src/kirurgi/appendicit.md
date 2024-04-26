@@ -2,10 +2,7 @@
 title: Appendicit
 description: 
 layout: doc
-next: {
-    text: '2. Positivt Prediktivt värde (PPV)',
-    link: 'medicinsk-statistik/2. Positivt-Prediktivt-värde-(PPV)'
-}
+
 ---
 
 
@@ -21,7 +18,12 @@ bl { color: #0CDFF2 }
 
 ## Epidemiologi
 
-|               | Har sjukdomen             | Har inte sjukdomen        |
-| ------------- | :-----------:             | :--------------------:    |
-| Test positiv  | a (True Positiv)          | b (False Positive)        |
-| Test negativ  | c (False Negative)        | d (True Negative)         |
+| <gr> Sjukdom </gr>            | <gr> Incidens </gr>             |    <gr> Fall / år </gr>  |
+| -------------                 | :-----------:                   |     :-------:
+| <ye> **Appendicit** </ye>     | <ye> **120 / 100 000** </ye>    |   <ye>  **11 000**   </ye>
+| Influensa (jämförelse)        | 5000 / 100 000                |     500 000
+
+![graf-appendicit](graf-appendicit.png)
+
+## Undersökningar
+
