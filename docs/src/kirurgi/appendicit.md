@@ -81,21 +81,33 @@ _Artikel av Roland Andersson et al, "Meta-analysis of the clinical and laborator
 
 ### <ye> Scoringsystem </ye>
 
-::: info I sverige används huvudsakligen Appendicits Inflammation Response (AIR) score som är ett validerat poängbaserat verktyg och kan användas som beslutsfattande underlag. Jämfört med Alvarado score inkluderar denna CRP och har i studier visat sig ha högre träffsäkerhet.
+::: info I sverige används huvudsakligen Appendicits Inflammation Response (AIR) score som är ett validerat poängbaserat verktyg och kan användas som beslutsfattande underlag. Den är särskilt bra för att identifiera komplicerad appendicit. Jämfört med Alvarado score inkluderar denna CRP och har i studier visat sig ha högre träffsäkerhet.
 :::
 
-![(tabell-air)](tabell-air.png)
+![tabell-air](tabell-air.png)
 
-|  Undersökning     | Sensitivitet (%)              | Specificitet               | LR +             | LR -                  |
-| -------------     | :-----------:             | :--------------------:    | :--------------------:     |    :--------------------:     |
-| AIR < 4p          | 99                        | b (False Positive)        |                             |                             |
-| AIR < 4-8 p       | c (False Negative)        | d (True Negative)         |                              |                               |
-| AIR > 8p          | c (False Negative)        | d (True Negative)         |                              |                               |
+|  Undersökning      | Sensitivitet (%)          | NPV (%)                       | Specificitet (%)                 | PPV (%)                   |
+| -------------      | :-----------:             | :--------------------:    | :--------------------:         |    :--------------------:       |
+| AIR < 4p           | 96                        | 94                        |      -                         |       -                         |
+| AIR < 4-8 p        | -                         | -                         |     -                          |        -                        |
+| AIR > 8p           | -                         | -                         |     98                         |        86                       |
+| AIR > 8p + < 15år  | -                         | -                         |     99                         |        96                       |
+| AIR > 8p + > 39år  | -                         | -                         |     99                         |        83                       |
+| AIR > 8p + kvinna  | -                         | -                         |     99                         |        84                       |
 
+Kommentar: 
 
 ### <ye> Bilddiagnostik </ye>
 
 |  Undersökning         | Sensitivitet              | Specificitet               | LR +  | LR - |
 | -------------         | :-----------:             | :--------------------:    | :--------------------:     |    :--------------------:     |
-| AIR < 4p          | a (True Positiv)          | b (False Positive)        |                             |                             |
+| AIR < 4p              | a (True Positiv)          | b (False Positive)        |                             |                             |
 | Test negativ          | c (False Negative)        | d (True Negative)         |                              |                               |
+
+### <ye> Diagnostiskt och beslutsfattande flödesschema </ye>
+
+![algortim-app](algoritm-app.png)
+
+::: details Källa 
+_Nationellt vårdprogram för akut appendicit, 2024._
+:::
