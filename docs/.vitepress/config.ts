@@ -18,7 +18,7 @@ export default defineConfig({
 
   markdown: {  
     toc: {
-      level: [1] // Specify which header levels to include in the TOC
+      level: [1,2,3] // Specify which header levels to include in the TOC
     },                                 
     math: true // Enables mathemathics module 
   },
@@ -33,6 +33,11 @@ export default defineConfig({
 
   // Customizes the website theme and displayed core elements.
   themeConfig: {
+    outline: {
+      level: 'deep',
+      label: 'Table of contents'
+
+    },
 
 
     // Displays in the footer section when the website was last updated. Ref: https://vitepress.dev/reference/default-theme-config#lastupdated
@@ -68,6 +73,8 @@ export default defineConfig({
       sortMenusByName: true,
       excludeFilesByFrontmatter: true
     
+  
+
     }),
     
     
