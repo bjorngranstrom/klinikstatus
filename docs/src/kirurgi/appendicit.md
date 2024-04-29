@@ -89,7 +89,7 @@ _Artikel av Roland Andersson et al, "Meta-analysis of the clinical and laborator
 |  Undersökning      | Sensitivitet (%)          | NPV (%)                       | Specificitet (%)                 | PPV (%)                   |
 | -------------      | :-----------:             | :--------------------:    | :--------------------:         |    :--------------------:       |
 | AIR < 4p           | 96                        | 94                        |      -                         |       -                         |
-| AIR < 4-8 p        | -                         | -                         |     -                          |        -                        |
+| AIR 4-8 p          | -                         | -                         |     -                          |        -                        |
 | AIR > 8p           | -                         | -                         |     98                         |        86                       |
 | AIR > 8p + < 15år  | -                         | -                         |     99                         |        96                       |
 | AIR > 8p + > 39år  | -                         | -                         |     99                         |        83                       |
