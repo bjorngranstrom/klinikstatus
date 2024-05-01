@@ -81,7 +81,7 @@ _Artikel av Roland Andersson et al, "Meta-analysis of the clinical and laborator
 
 ### <ye> Scoringsystem </ye>
 
-::: info I sverige används huvudsakligen Appendicits Inflammation Response (AIR) score som är ett validerat poängbaserat verktyg och kan användas som beslutsfattande underlag. Den är särskilt bra för att identifiera komplicerad appendicit. Jämfört med Alvarado score inkluderar denna CRP och har i studier visat sig ha högre träffsäkerhet.
+::: info I sverige används huvudsakligen Appendicits Inflammation Response (AIR) score som är ett validerat poängbaserat verktyg och kan användas som beslutsfattande underlag. Den är designad för att identifiera komplicerad appendicit. Jämfört med Alvarado score inkluderar denna CRP och har i studier visat sig ha högre träffsäkerhet.
 :::
 
 ![tabell-air](tabell-air.png)
@@ -96,8 +96,18 @@ _Artikel av Roland Andersson et al, "Meta-analysis of the clinical and laborator
 | AIR > 8p + kvinna  | -                         | -                         |     99                         |        84                       |
 
 Kommentar: 
+> <bl> För att bilddiagnostik ska vara kosteffektiv behöver risken för sjukdom vara <16% eller >95%. Detta beror på att man sällan kan helt utesluta appendicit vid mellanvärden. Hos grupper där fler differentialdiagnoser föreligger, som vid högre ålder (eg divertikulit, malignitet) och kvinnligt kön (eg salpingooforit, ovarialcysta), kan det vara av värde att gå vidare med bilddiagnostik när resultaten är tvetydiga. </bl>
+
+::: details Källa 
+_Nationellt vårdprogram för akut appendicit, 2024._
+
+_Jennings et al. Cost-effectiveness of imaging protocols for suspected appendicitis._
+:::
 
 ### <ye> Bilddiagnostik </ye>
+
+::: info Hög träffsäkerhet för appendicit. Kan vara av stort värde vid flera differentialdiagnoser, > 40 års ålder, och symptomduration > 3 dygn (risk för abscess som kan behandlas konservativt).
+:::
 
 |  Undersökning         | Sensitivitet              | Specificitet               | LR +  | LR - |
 | -------------         | :-----------:             | :--------------------:    | :--------------------:     |    :--------------------:     |
