@@ -44,7 +44,7 @@ _Artikel av Roland Andersson et al, "Meta-analysis of the clinical and laborator
 
 ### <ye> Status </ye>
 
-::: danger Stor variation av resultat förekommer mellan studier som forskat om bedside kliniska undersökningar. Eftersom det är personberoende och subjektivt förekommer stor variation i hur man undersöker och de slutsatser man drar. Här presenteras ett komposit från en betrodd källa.
+::: danger Stor variation av resultat förekommer mellan studier som forskat om bedside kliniska undersökningar. Eftersom det är personberoende och subjektivt förekommer stor variation i hur man undersöker och de slutsatser man drar. Här presenteras ett komposit från en akademisk källa.
 :::
 
 |  Undersökning              | Sensitivitet (%)          | Specificitet (%)          | LR +                         | LR -                          |
@@ -96,7 +96,7 @@ _Artikel av Roland Andersson et al, "Meta-analysis of the clinical and laborator
 | AIR > 8p + kvinna  | -                         | -                         |     99                         |        84                       |
 
 Kommentar: 
-> <bl> För att bilddiagnostik ska vara kosteffektiv behöver risken för sjukdom vara <16% eller >95%. Detta beror på att man sällan kan helt utesluta appendicit vid mellanvärden. Hos grupper där fler differentialdiagnoser föreligger, som vid högre ålder (eg divertikulit, malignitet) och kvinnligt kön (eg salpingooforit, ovarialcysta), kan det vara av värde att gå vidare med bilddiagnostik när resultaten är tvetydiga. </bl>
+> <bl> För att bilddiagnostik ska vara kostnadseffektiv behöver risken för sjukdom vara <16% eller >95%. Detta beror på att man sällan kan helt utesluta appendicit vid mellanvärden. Hos grupper där fler differentialdiagnoser föreligger, som vid högre ålder (eg divertikulit, malignitet) och kvinnligt kön (eg salpingooforit, ovarialcysta), kan det vara av värde att gå vidare med bilddiagnostik när resultaten är tvetydiga. </bl>
 
 ::: details Källa 
 _Nationellt vårdprogram för akut appendicit, 2024._
@@ -109,14 +109,36 @@ _Jennings et al. Cost-effectiveness of imaging protocols for suspected appendici
 ::: info Hög träffsäkerhet för appendicit. Kan vara av stort värde vid flera differentialdiagnoser, > 40 års ålder, och symptomduration > 3 dygn (risk för abscess som kan behandlas konservativt).
 :::
 
-|  Undersökning         | Sensitivitet              | Specificitet               | LR +  | LR - |
-| -------------         | :-----------:             | :--------------------:    | :--------------------:     |    :--------------------:     |
-| AIR < 4p              | a (True Positiv)          | b (False Positive)        |                             |                             |
-| Test negativ          | c (False Negative)        | d (True Negative)         |                              |                               |
+::: danger Bilddiagnostik är ett omdebatterad ämne för att rule in/out appendicit. En patient med hög sannoliket (AIR > 8p) för sjukdom kan bilddiagnostik sällan helt utesluta appendicit eller behovet av diagnostisk laparoskopi. Vid låg sannolikhet (AIR < 4) finns risk för överdiagnostik eller upptäckt av icke behandlingskrävande appendicit. De med intermediär risk (AIR = 4-8p) är de som har störst nytta av vidare bilddiagnostik när den kliniska bilden är oklar.
+:::
+
+Ultraljud är alltid försthandsvalet hos barn/gravida eftersom UL inte har hälsovådlig strålning. Är användarberoende och uttalad bukfetma försvårar undersökningen.
+::: details Ultraljudsfynd
+1. Appendix kan visualiseras med diameter > 6mm. För varje mm ökar sannolikheten. 
+2. Lokal ömhet över appendix. 
+3. Ibland appendikolit.
+4. Ökad ekogenicitet som tecken till inflammation.
+5. Fettretning.
+6. Vätska i fossa Douglasi (rektovesikala/rektouterina recessen).
+7. Flegmone.
+:::
+
+CT kan med fördel användas på äldre och kvinnor men har skadlig joniserande strålning samt njurbelastande kontrast. 
+
+MR kan utföras på utvalda fall där diagnostisken är komplicerad.
+
+|  Undersökning         | Sensitivitet (%)          | Specificitet (%)          | LR +                        | 
+| -------------         | :-----------:             | :--------------------:    | :--------------------:      |   
+| Ultraljud             | 85 - 90  (barn)           | 90 - 95 (barn)            |   18                        |  
+|                       | 80 - 85  (vuxna)          | 85 - 90 (vuxna)           |    8.5                      |  
+| CT med kontrast       | c (False Negative)        | d (True Negative)         |                             |  
+| MR                    | c (False Negative)        | d (True Negative)         |                             |   
 
 ### <ye> Diagnostiskt och beslutsfattande flödesschema </ye>
 
 ![algortim-app](algoritm-app.png)
+
+
 
 ::: details Källa 
 _Nationellt vårdprogram för akut appendicit, 2024._
