@@ -109,12 +109,12 @@ _Jennings et al. Cost-effectiveness of imaging protocols for suspected appendici
 ::: info Hög träffsäkerhet för appendicit. Kan vara av stort värde vid flera differentialdiagnoser, > 40 års ålder, och symptomduration > 3 dygn (risk för abscess som kan behandlas konservativt).
 :::
 
-::: danger Bilddiagnostik är ett omdebatterad ämne för att rule in/out appendicit. En patient med hög sannoliket (AIR > 8p) för sjukdom kan bilddiagnostik sällan helt utesluta appendicit eller behovet av diagnostisk laparoskopi. Vid låg sannolikhet (AIR < 4) finns risk för överdiagnostik eller upptäckt av icke behandlingskrävande appendicit. De med intermediär risk (AIR = 4-8p) är de som har störst nytta av vidare bilddiagnostik när den kliniska bilden är oklar.
+::: danger Bilddiagnostik är ett omdebatterat ämne för att rule in/out appendicit. En patient med hög sannoliket (AIR > 8p) för sjukdom så kan bilddiagnostik sällan helt utesluta appendicit eller behovet av diagnostisk laparoskopi. Vid låg sannolikhet (AIR < 4) finns risk för överdiagnostik eller upptäckt av icke behandlingskrävande appendicit. De med intermediär risk (AIR = 4-8p) är de som har störst nytta av vidare bilddiagnostik när den kliniska bilden är oklar.
 :::
 
-Ultraljud är alltid försthandsvalet hos barn/gravida eftersom UL inte har hälsovådlig strålning. Är användarberoende och uttalad bukfetma försvårar undersökningen.
+**<ye>Ultraljud</ye>** är alltid försthandsvalet hos barn/gravida eftersom UL inte har hälsovådlig strålning. Är användarberoende och uttalad bukfetma försvårar undersökningen.
 ::: details Ultraljudsfynd
-1. Appendix kan visualiseras med diameter > 6mm. För varje mm ökar sannolikheten. 
+1. Appendix kan visualiseras med diameter > 6 mm. För varje mm ökar sannolikheten. 
 2. Lokal ömhet över appendix. 
 3. Ibland appendikolit.
 4. Ökad ekogenicitet som tecken till inflammation.
@@ -123,16 +123,32 @@ Ultraljud är alltid försthandsvalet hos barn/gravida eftersom UL inte har häl
 7. Flegmone.
 :::
 
-CT kan med fördel användas på äldre och kvinnor men har skadlig joniserande strålning samt njurbelastande kontrast. 
+**<ye>CT</ye>** kan med fördel användas på äldre och kvinnor men har skadlig joniserande strålning samt njurbelastande kontrast. Kan med fördel utföras med lågdos CT på 3 mSv, ger inte försämrad diagnostik. Svårt att särskilja komplicerad från okomplicerad appendicit utan LPK, feber, och vätska i RLQ.
+::: details Indikationer för CT
+1. Lång anamnes (3-5 dagar)
+2. Oklar diagnos med påverkad patient där flera differentialdiagnoser finns.
+3. Malignitetsmisstanke
+:::
 
-MR kan utföras på utvalda fall där diagnostisken är komplicerad.
+::: details CT-fynd
+1. Appendix > 6 mm (appdiameter är inte helt tillförlitlig då normalvariationen sträcker sig över kriteriet).
+2. Väggförtjockning > 2 mm.
+3. Fettretning kring appendix.
+4. Appendikolit (25% av fallen)
+:::
+
+**<ye>MR</ye>** används främst på gravida där ultraljud varit inkonklusiv. 
 
 |  Undersökning         | Sensitivitet (%)          | Specificitet (%)          | LR +                        | 
 | -------------         | :-----------:             | :--------------------:    | :--------------------:      |   
 | Ultraljud             | 85 - 90  (barn)           | 90 - 95 (barn)            |   18                        |  
 |                       | 80 - 85  (vuxna)          | 85 - 90 (vuxna)           |    8.5                      |  
-| CT med kontrast       | c (False Negative)        | d (True Negative)         |                             |  
-| MR                    | c (False Negative)        | d (True Negative)         |                             |   
+| Lågdos CT med kontrast| 95                        | 95                        |     19                      |  
+| MR                    | 95                        | 93                        |      13.5                   |   
+
+::: details Källa 
+_Nationellt vårdprogram för akut appendicit, 2024._
+:::
 
 ### <ye> Diagnostiskt och beslutsfattande flödesschema </ye>
 
