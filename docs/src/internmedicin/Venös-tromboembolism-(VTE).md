@@ -95,7 +95,7 @@ _Artikel av Roland Andersson et al, "Meta-analysis of the clinical and laborator
 ::: info I sverige används huvudsakligen Appendicits Inflammation Response (AIR) score som är ett validerat poängbaserat verktyg och kan användas som beslutsfattande underlag. Den är designad för att identifiera komplicerad appendicit. Jämfört med Alvarado score inkluderar denna CRP och har i studier visat sig ha högre träffsäkerhet.
 :::
 
-![tabell-air](tabell-air.png)
+
 
 |  Undersökning      | Sensitivitet (%)          | NPV (%)                       | Specificitet (%)                 | PPV (%)                   |
 | -------------      | :-----------:             | :--------------------:    | :--------------------:         |    :--------------------:       |
