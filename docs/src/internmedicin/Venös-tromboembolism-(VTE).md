@@ -33,7 +33,7 @@ Förekomsten av VTE låg stabilt innan 2020. Därefter har mängd diagnosticerad
 | <ye> **VTE (cancer)** </ye>   | <ye> **400** </ye>              |   <ye>  **-**   </ye>       |
 | Influensa (jämförelse)        | 5000                            |     500 000                 |
 
-![graf-vte](graf-vte.png)
+![graf-vte](graf-vte-alla.png)
 
 
 ## <gr> Undersökningar </gr>
