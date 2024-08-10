@@ -34,7 +34,11 @@ Förekomsten av VTE låg stabilt innan 2020. Därefter har mängd diagnosticerad
 | Influensa (jämförelse)        | 5000                            |     500 000                 |
 
 ![graf-vte](graf-vte-alla.png)
+_**Graf 1.** Incidens av VTE (ICD I26 + I80) /100 000 invånare vid olika åldrar i Sverige 2022._
 
+* VTE < 16 år  = < 1 /100 000  Ovanligt 
+* VTE 16-50 år = 1 /10 000  Vanligt 
+*  VTE 80 år    = 1 /100  <re> MYCKET VANLIGT </re>
 
 ## <gr> Undersökningar </gr>
 
