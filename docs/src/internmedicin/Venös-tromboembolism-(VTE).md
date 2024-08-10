@@ -163,8 +163,6 @@ _Nationellt vårdprogram för akut appendicit, 2024._
 
 ### <ye> Diagnostiskt och beslutsfattande flödesschema </ye>
 
-![algortim-app](algoritm-app.png)
-
 
 
 ::: details Källa 
