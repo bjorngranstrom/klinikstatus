@@ -58,7 +58,7 @@ Källa: “SKIN FUNCTION AND WOUND HEALING PHYSIOLOGY.” (2006).
 
 ### <ye>  Hudens spänningslinjer (Langerlinjer eller Skin tension lines) </ye> ###
 ::: details Langerlinjer
-![Langer-lines](Langer-lines.jpg)
+![langer-lines](langer-lines.JPG)
 
 Källa: José María Arribas Blanco, Shabnan Habibi, Nuria Rodríguez Pata and José Ramón Castello - (2016). "Integrated Activities in Primary Care – Minor Surgery in Family Medicine". 
 :::
