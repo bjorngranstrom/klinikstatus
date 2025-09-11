@@ -88,18 +88,41 @@ Vi kommer ägna oss huvudsakligen åt klass 3 och 4 sår då alla öppna oavsikt
 
 | Typ | Mekanism | Djup | Risk |
 |:--|:-----|:--|:--|
-| Skrapsår (abrasion)| Hudskrapning/hudflåning | Ytlig | Infektion|
-| Kött-, skär-, rivsår (laceration) | Trubbig, slitning, skärning | Ytlig - djup | Blödning/infektion|
-| Avslitning (avulsion, degloving)| Kraftig slitning | Djup | Stor vävnads förlust |
+| Abrasion (skrapsår)| Hudskrapning/hudflåning | Ytlig | Infektion|
+| Laceration <br>(Kött-, skär-, rivsår) </br>| Trubbig, slitning, skärning | Ytlig - djup | Blödning/infektion|
+| Avulsion (Avslitning, degloving)| Kraftig slitning | Djup | Stor vävnads förlust |
 | Punktion (puncture) | Bett, taggar, nålar | Djup | Infektion |
 | Penetration | Kniv, kulor | Djup | Intern organskada |
 | Kontusion | Trubbigt | Subkutant | Hematom |
 
-## <gr> Sårtyper </gr>
+## <gr> Anamnes </gr>
 
-### <ye> Anamnes </ye>
+::: info För att kunna prognosticera sårets läkningsförmåga och infektionsrisken behöver man ta en god sjukdomshistoria. Detta kan vara avgörande för vilka åtgärder man väljer.
+:::  
 
-### <ye> Status </ye>
+### <ye> Tidigare / nuvarande sjukdomar / aktuellt </ye>
+
+- Perifer kärlsjukdom
+- Immunosupprimerad
+- Främmande föremål
+- Tetanusstatus
+
+### <re> Riskfaktorer som ökar infektionsrisk </re>
+
+- Efter 6 - 12 timmar ökar infektionsrisken dramatiskt.
+- Krosskada: Ofta rejält skadad vävnad utöver huden. Minskat blodflöde till sårkanterna. Ökar bakteriebördan upp till 100 gånger.
+- \> 5 cm lång sårskada
+- Djup sårskada (>6 mm; man kan se subcutis)
+- \> 65 år
+- Höghastighetsprojektil
+- Kontaminering: Saliv, jord, feces.
+- Punktionsskada (bett, tagg)
+
+::: warning Viktiga beaktanden
+- Primärsutur ska ske inom 8 - 12h. Data pekar dock på att timingen inte lika viktig som dom andra riskfaktorerna.
+- Fina och rena ansiktssår kan primärförslutas > 24h efter skadan
+- Trubbig laceration mot ben/lår kan förslutas med fördröjd primärförslutning, tidigast 4-6 timmar. Detta för att observera tecken till infektion.
+:::
 
 ### <ye> Lab </ye>
 
