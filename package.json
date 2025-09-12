@@ -2,8 +2,10 @@
   "type": "module",
   "devDependencies": {
     "markdown-it-mathjax3": "^4.3.2",
+    "mermaid": "^11.11.0",
     "sidebar": "^1.0.2",
     "vitepress": "^1.0.0-rc.45",
+    "vitepress-plugin-mermaid": "^2.0.17",
     "vitepress-sidebar": "^1.19.0"
   },
   "scripts": {

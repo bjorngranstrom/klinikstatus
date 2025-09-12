@@ -1,9 +1,9 @@
 import { defineConfig } from 'vitepress';
 import { generateSidebar } from 'vitepress-sidebar';
-
+import { withMermaid } from 'vitepress-plugin-mermaid';
 
 // https://vitepress.dev/reference/site-config
-export default defineConfig({
+export default withMermaid(defineConfig({
 
   // This object ensures custom CSS edit
   head: [
@@ -83,4 +83,4 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
     ]
   }
-})
+}))

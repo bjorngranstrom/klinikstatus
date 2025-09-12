@@ -1,6 +1,6 @@
 ---
 title: Sårvård
-description: 
+description: Översikt och handläggning av traumatiska sår, klassificering, behandling och tips för kliniker.
 layout: doc
 
 ---
@@ -15,7 +15,7 @@ bl { color: #0CDFF2 }
 
 # Sårvård på akuten
 
-::: info Översiktlig kunskap och handläggning för traumatiskt orsakade sår. 
+::: info Översiktlig kunskap och handläggning av traumatiskt orsakade sår. 
 Sårklassifikation, sårhantering, suturering, antibiotika. Denna korta artikel ska ge klinikern en känsla för enklare sårhantering på akuten.  
 Som källa används huvudsakligen _Rosens Emergency Medicine, 10th ed, chapter 50_. 
 :::
@@ -135,7 +135,7 @@ Sårlokalisation är en av dom viktigaste faktorerna vid bedömning av infektion
 
 Risk för infektion: Underben > lår > armar > fötter > bröst > rygg > ansikte > skalp
 
-::: info Det är den sammanvägda bedömningen med alla dessa faktorer som ska ligga till grund för klinikern om såret ska förslutas och om antibiotika är aktuellt.
+::: tip Det är den sammanvägda bedömningen med alla dessa faktorer som ska ligga till grund för klinikern om såret ska förslutas och om antibiotika är aktuellt.
 :::
 
 ## <gr> Status och Radiologi </gr>
@@ -146,8 +146,24 @@ På en sårskadad extremitet kan en blodtrycksmanschett  användas med fördel p
 
 ::: tip Främmande föremål
 Om man misstänker att ett föremål tagit sig in på djupet men man kan inte se eller palpera den så kan man med fördel nyttja olika typer av radiologi. Valet av bildmodalitet blir beroende på vad för objekt man misstänker. 
-- Traditionell slätröntgen hittar: Glas 75%; Metall 99%; Trä 7%.
-- CT Ser alla typer av främmande föremål vilket gör den golden standard. Dom uppenbara negativa aspekterna är strålning och kostnad.
+- Traditionell slätröntgen hittar: Metall 99%; Glas 75%;  Trä 7%.
+- CT Ser alla typer av främmande föremål vilket gör den golden standard. De uppenbara negativa aspekterna är strålning och kostnad.
 - Ultraljud: Bra men kan ibland ge dåligt resultat pga små föremål, luft, ödem, pus, blod, kalcifieringar.
+:::
 
 ## <gr>Handläggning</gr>
+
+::: info Nu kommer vi till den viktigaste delen i artikeln, nämligen hur vi stegvis handlägger ett sår.
+:::
+### <ye>Översikt</ye>
+
+```mermaid
+flowchart TD
+    A["Suturkrävande sår"] --> B["Lokalanestesi"]
+    B --> C["Debridering, rengöring, såradaptation"]
+    C --> D["Suturering"]
+    D --> E["Bra såradaptering?"]
+    E -->|Yes| Bra_Såradaptation["Omläggning"]
+    E -->|No| Såradaptation["Överväg sätta om stygn"]
+    
+```
