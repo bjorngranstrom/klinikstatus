@@ -1,4 +1,6 @@
+<meta name="google-site-verification" content="zZE85Bx0J2ejj3SU1rOIO42YpszUXy6W_GhgyiSeroU" />
 ---
+
 # https://vitepress.dev/reference/default-theme-home-page
 title: Klinikstatus
 description: Klinikerns statistikverktyg
