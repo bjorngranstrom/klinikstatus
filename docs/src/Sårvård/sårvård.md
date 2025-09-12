@@ -102,31 +102,40 @@ Vi kommer ägna oss huvudsakligen åt klass 3 och 4 sår då alla öppna oavsikt
 
 ### <ye> Tidigare / nuvarande sjukdomar / aktuellt </ye>
 
-- Perifer kärlsjukdom
+- Perifer kärlsjukdom (ffa diabetes och claudicatio)
 - Immunosupprimerad
 - Främmande föremål
 - Tetanusstatus
 
 ### <re> Riskfaktorer som ökar infektionsrisk </re>
 
-- Efter 6 - 12 timmar ökar infektionsrisken dramatiskt.
+- Efter 6 - 12 timmar har man traditionellt betraktat ett sår som klass 4. Detta är omdebatterat idag då sårrengöring blivit så mycket bättre.
 - Krosskada: Ofta rejält skadad vävnad utöver huden. Minskat blodflöde till sårkanterna. Ökar bakteriebördan upp till 100 gånger.
 - \> 5 cm lång sårskada
-- Djup sårskada (>6 mm; man kan se subcutis)
+- Djup sårskada (> 6 mm; man kan se subcutis)
 - \> 65 år
 - Höghastighetsprojektil
 - Kontaminering: Saliv, jord, feces.
 - Punktionsskada (bett, tagg)
 
 ::: warning Viktiga beaktanden
-- Primärsutur ska ske inom 8 - 12h. Data pekar dock på att timingen inte lika viktig som dom andra riskfaktorerna.
+- Primärsutur ska ske inom 8 - 12h. Data pekar dock på att timingen inte är lika viktig som dom andra riskfaktorerna eftersom rengöring och debridering blivit så pass bra.
 - Fina och rena ansiktssår kan primärförslutas > 24h efter skadan
-- Trubbig laceration mot ben/lår kan förslutas med fördröjd primärförslutning, tidigast 4-6 timmar. Detta för att observera tecken till infektion.
 :::
 
-### <ye> Lab </ye>
+### <ye> Sårlokalisation </ye> 
 
-### <ye> Scoringsystem </ye>
+Sårlokalisation är en av dom viktigaste faktorerna vid bedömning av infektionsrisk. Lår och framförallt underben har högst risk då kroniska sjukdomar ofta skadar kärl och hudstrukturen kring ankel och underben. Dåliga förutsättningar för sårläkning. Detta gör det särskilt riskabelt om kontamination föreligger.
 
+| Lokalisation | Infektionsrisk efter suturering |
+| :---|:----:|
+| Ansikte + skalp | < 4% |
+| Torso + andra extremiteter | > 10% |
+| Lår/underben | <re><b>20%</b></re> |
 
-### <ye> Bilddiagnostik </ye>
+Risk för infektion: Underben > lår > armar > fötter > bröst > rygg > ansikte > skalp
+
+::: info Det är den sammanvägda bedömningen med alla dessa faktorer som ska ligga till grund för klinikern om såret ska förslutas och om antibiotika är aktuellt.
+:::
+
+## <gr> Status och Radiologi </gr>
