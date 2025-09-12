@@ -1,4 +1,3 @@
-<meta name="google-site-verification" content="zZE85Bx0J2ejj3SU1rOIO42YpszUXy6W_GhgyiSeroU" />
 ---
 
 # https://vitepress.dev/reference/default-theme-home-page
@@ -6,7 +5,7 @@ title: Klinikstatus
 description: Klinikerns statistikverktyg
 layout: doc
 ---
-
+<meta name="google-site-verification" content="zZE85Bx0J2ejj3SU1rOIO42YpszUXy6W_GhgyiSeroU" />
 <style>
 gr { color: #30a46c }
 re { color: #C70039 }
