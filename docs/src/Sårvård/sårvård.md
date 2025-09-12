@@ -131,7 +131,7 @@ Sårlokalisation är en av dom viktigaste faktorerna vid bedömning av infektion
 | :---|:----:|
 | Ansikte + skalp | < 4% |
 | Torso + andra extremiteter | > 10% |
-| Lår/underben | <re><b>20%</b></re> |
+| Lår/underben | <re><b>> 20%</b></re> |
 
 Risk för infektion: Underben > lår > armar > fötter > bröst > rygg > ansikte > skalp
 
@@ -139,3 +139,15 @@ Risk för infektion: Underben > lår > armar > fötter > bröst > rygg > ansikte
 :::
 
 ## <gr> Status och Radiologi </gr>
+
+::: info Ibland kan det vara klurigt att förstå såret och se den för vad den är; framförallt om den blöder och ändrar skepnad hela tiden. Hemostas kan därför blottgöra och förenkla såråskådningen. 
+På en sårskadad extremitet kan en blodtrycksmanschett  användas med fördel proximalt om såret samtidigt som man höjer extremiteten 1-2 minuter. Manschetten kan vara på 2 timmar om man så önskar, men sannolikt så kommer patienten vara i så pass mycket smärta att det är självbegränsande.
+::: 
+
+::: tip Främmande föremål
+Om man misstänker att ett föremål tagit sig in på djupet men man kan inte se eller palpera den så kan man med fördel nyttja olika typer av radiologi. Valet av bildmodalitet blir beroende på vad för objekt man misstänker. 
+- Traditionell slätröntgen hittar: Glas 75%; Metall 99%; Trä 7%.
+- CT Ser alla typer av främmande föremål vilket gör den golden standard. Dom uppenbara negativa aspekterna är strålning och kostnad.
+- Ultraljud: Bra men kan ibland ge dåligt resultat pga små föremål, luft, ödem, pus, blod, kalcifieringar.
+
+## <gr>Handläggning</gr>
