@@ -56,8 +56,10 @@
   }
 
   /* custom.css */
+
+  /* Increase base font size for the whole site */
 body {
-    font-size: 16px; /* Adjusts the main body's font size */
+    font-size: 18px !important; /* Adjusts the main body's font size */
   }
 
 /**
@@ -159,7 +161,7 @@ Custom block
  * -------------------------------------------------------------------------- */
 
  :root {
-   --vp-custom-block-font-size: 16px;
+   --vp-custom-block-font-size: 18px !important;
    --vp-custom-block-code-font-size: 14px;
  
     --vp-custom-block-info-border: #30a46c42 !important;
@@ -203,12 +205,24 @@ a {
   color: #30a46c !important; /* Change to your desired color */
 }
 
-.mermaid {
+/* Mermaid flowchartdiagram centering */
+.vp-doc .mermaid > svg {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  text-align: center;
 }
 
 
-
+/* Custom table font size */
+.vp-doc table,
+/* Change font size and color of table header row */
+.vp-doc table th{
+  font-size: 18px !important;   /* Adjust size as needed */
+  color: #c4bcbc !important;    /* Change to your desired color */
+  background-color: transparent !important; /* Optional: header background */
+}
+/* Change font size and color of table data cells */
+.vp-doc table td {
+  font-size: 16px !important; /* Adjust as needed */
+  color: #c4bcbc !important; /* Change to your desired color */
+}
