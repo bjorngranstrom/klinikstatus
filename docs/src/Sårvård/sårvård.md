@@ -140,15 +140,20 @@ Risk för infektion: Underben > lår > armar > fötter > bröst > rygg > ansikte
 
 ## <gr> Status och Radiologi </gr>
 
-::: info Ibland kan det vara klurigt att förstå såret och se den för vad den är; framförallt om den blöder och ändrar skepnad hela tiden. Hemostas kan därför blottgöra och förenkla såråskådningen. 
+::: info Att förstå såret
+Ibland kan det vara klurigt att förstå såret och se den för vad den är; framförallt om den blöder och ändrar skepnad hela tiden. Hemostas kan därför blottgöra och förenkla såråskådningen. 
+
 På en sårskadad extremitet kan en blodtrycksmanschett  användas med fördel proximalt om såret samtidigt som man höjer extremiteten 1-2 minuter. Manschetten kan vara på 2 timmar om man så önskar, men sannolikt så kommer patienten vara i så pass mycket smärta att det är självbegränsande.
 ::: 
 
 ::: tip Främmande föremål
 Om man misstänker att ett föremål tagit sig in på djupet men man kan inte se eller palpera den så kan man med fördel nyttja olika typer av radiologi. Valet av bildmodalitet blir beroende på vad för objekt man misstänker. 
-- Traditionell slätröntgen hittar: Metall 99%; Glas 75%;  Trä 7%.
-- CT Ser alla typer av främmande föremål vilket gör den golden standard. De uppenbara negativa aspekterna är strålning och kostnad.
-- Ultraljud: Bra men kan ibland ge dåligt resultat pga små föremål, luft, ödem, pus, blod, kalcifieringar.
+- <ye><b>Slätröntgen</b></ye> 
+    <br> Metall 99%; Glas 75%;  Trä 7%.</br>
+- <ye><b>Skiktröntgen, CT </b></ye>
+    <br>Ser alla typer av främmande föremål vilket gör den golden standard. De uppenbara negativa aspekterna är strålning och kostnad.</br>
+- <ye><b>Ultraljud</b></ye>
+    <br>Bra men kan ibland ge dåligt resultat pga små föremål, luft, ödem, pus, blod, kalcifieringar.</br>
 :::
 
 ## <gr>Handläggning</gr>
@@ -163,7 +168,9 @@ flowchart TD
     B --> C["Debridering, rengöring, såradaptation"]
     C --> D["Suturering"]
     D --> E["Bra såradaptering?"]
-    E -->|Yes| Bra_Såradaptation["Omläggning"]
-    E -->|No| Såradaptation["Överväg sätta om stygn"]
+    E -->|Ja| Bra_Såradaptation["Omläggning"]
+    E -->|Nej| Dålig_Såradaptation["Överväg sätta om stygn"]
+    Dålig_Såradaptation --> Bra_Såradaptation
     
 ```
+

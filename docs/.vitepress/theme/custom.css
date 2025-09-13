@@ -212,6 +212,13 @@ a {
   margin-right: auto;
 }
 
+/* Custom font size and color for Mermaid diagrams */
+.vp-doc .mermaid * {
+  font-size: 15px !important;
+  fill: transparent !important;
+  font-family: Arial, sans-serif !important;
+}
+
 
 /* Custom table font size */
 .vp-doc table,
