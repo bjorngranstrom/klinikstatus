@@ -7,6 +7,7 @@ yarn-error.log*
 # VitePress build output
 docs/.vitepress/dist/
 docs/.vitepress/cache/
+.vitepress/cache/
 
 # OS generated files
 .DS_Store
