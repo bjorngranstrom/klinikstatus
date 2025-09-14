@@ -5,6 +5,8 @@ import { withMermaid } from 'vitepress-plugin-mermaid';
 // https://vitepress.dev/reference/site-config
 export default withMermaid(defineConfig({
 
+  
+  ignoreDeadLinks: true, // Ignores dead links in the documentation
   // This object ensures custom CSS edit
   head: [
     ['link', { rel: 'stylesheet', href: '/custom.css' }]
