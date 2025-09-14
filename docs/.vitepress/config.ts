@@ -55,8 +55,11 @@ export default withMermaid(defineConfig({
 
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Om', link: '/' },
-      { text: 'Länkar', link: '/' }
+      { text: 'Om', link: 'om.md' },
+      { text: 'Länkar', link: 'länkar.md' },
+      { text: 'Kontakt', link: 'kontakt.md' },
+      { text: 'Källkod', link: 'https://github.com/bjorngranstrom/klinikstatus' }
+      
     ],
 
     //Side bar
