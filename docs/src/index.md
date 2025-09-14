@@ -43,6 +43,6 @@ Du är själv ansvarig för dina egna beslut och slutsatser. På sätt och vis k
 * [Appendicit](kirurgi/appendicit.md)
 
 ## Blogg
-::: info [<ye>[Hippokrates Lärljunge]</ye>](blog/hippokrates-lärljunge.md)  
+::: info [<ye>[Hippokrates Lärljunge]</ye>](hippokrates-lärljunge/hippokrates-lärljunge.md)  
 Deliriska reflektioner från akutens frontlinje. Inlägg kommer ske sporadiskt. Fall presenteras där löpande.
 :::
