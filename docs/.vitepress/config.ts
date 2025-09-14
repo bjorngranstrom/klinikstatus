@@ -55,9 +55,11 @@ export default withMermaid(defineConfig({
 
     // https://vitepress.dev/reference/default-theme-config
     nav: [
+      { text: 'Hippokrates Lärljunge', link: 'blog/hippokrates-lärljunge.md' },
       { text: 'Om', link: 'om.md' },
       { text: 'Kontakt', link: 'kontakt.md' },
       { text: 'Källkod', link: 'https://github.com/bjorngranstrom/klinikstatus' }
+      
       
     ],
 
@@ -65,7 +67,7 @@ export default withMermaid(defineConfig({
     sidebar: generateSidebar({
       documentRootPath: 'docs',
       scanStartPath: 'src',
-      collapsed: false,
+      collapsed:true,
       capitalizeFirst: true,
       hyphenToSpace: true,
       useTitleFromFileHeading: false,
@@ -75,8 +77,8 @@ export default withMermaid(defineConfig({
       sortMenusByName: true,
       excludeFilesByFrontmatter: false,
       excludeFiles: ['om.md', 'kontakt.md'],
+      excludeFolders: [],
     
-  
 
     }),
     
