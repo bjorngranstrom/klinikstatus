@@ -70,11 +70,12 @@ export default withMermaid(defineConfig({
       capitalizeFirst: true,
       hyphenToSpace: true,
       useTitleFromFileHeading: false,
-      useTitleFromFrontmatter: false,
-      useFolderTitleFromIndexFile: true,
-      useFolderLinkFromIndexFile: true,
+      useTitleFromFrontmatter: true,
+      useFolderTitleFromIndexFile: false,
+      useFolderLinkFromIndexFile: false,
       sortMenusByName: true,
-      excludeFilesByFrontmatter: true
+      excludeFilesByFrontmatter: false,
+      excludeFiles: ['om.md', 'länkar.md', 'kontakt.md'],
     
   
 

@@ -238,3 +238,13 @@ a {
 .disclaimer-text {
   font-size: 14px !important; /* Adjust as needed */
 }
+
+/* Custom colors for text spans */
+
+gr { color: #30a46c }
+re { color: #C70039 }
+re2 { color: #B53311}
+ye { color: #D6AB1E }
+bl { color: #0CDFF2 }
+bl2 { color: #3C72DF}
+pu { color: #D61EDE }

@@ -1,19 +1,10 @@
 ---
-
-title: On
+title: Om
 description: Personlig information om upphovsmakaren till hemsidan Klinikstatus
 layout: doc
 ---
 
-<style>
-gr { color: #30a46c }
-re { color: #C70039 }
-ye { color: #D6AB1E }
-bl { color: #0CDFF2 }
-</style>
-
 # Om Björn Jr Alexander Granström
-
 
 ## <gr>Vem</gr>
 * 90-talist från Järfälla, Stockholm. 
