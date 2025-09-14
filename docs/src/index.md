@@ -39,7 +39,7 @@ Du är själv ansvarig för dina egna beslut och slutsatser. På sätt och vis k
 :::
 
 ## Senaste artiklar
-* [Sårvård](sårvård/sårvård.md)
+* [Sårvård](./sårvård/sårvård.md)
 * [Appendicit](kirurgi/appendicit.md)
 
 ## Blogg
