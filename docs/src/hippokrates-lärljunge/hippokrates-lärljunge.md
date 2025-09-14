@@ -10,4 +10,3 @@ layout: doc
 ## <ye>~2025</ye>
 
 - [14:e Aug 2025](2025/2025-09-14.md)
-- [Another Post](./2025-09-15-another-post.md)
