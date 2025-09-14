@@ -39,8 +39,9 @@ Du är själv ansvarig för dina egna beslut och slutsatser. På sätt och vis k
 :::
 
 ## Senaste artiklar
+* [Sårvård](./Sårvård/sårvård.md)
 * [Appendicit](kirurgi/appendicit.md)
-* [Sårvård](./sårvård/sårvård.md)
+
 
 ## Blogg
 ::: info [<ye>[Hippokrates Lärljunge]</ye>](hippokrates-lärljunge/hippokrates-lärljunge.md)  
