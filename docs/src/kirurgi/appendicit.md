@@ -7,7 +7,7 @@ layout: doc
 
 # Appendicit 
 
-## <gr> Epidemiologi </gr>
+## EPIDEMIOLOGI
 
 | <bl> Sjukdom  </bl>          | <bl> Incidens / 100 000 </bl>   |    <bl> Fall / år </bl>     |
 | -------------                 | :-----------:                   |     :---------------:       |
@@ -16,9 +16,9 @@ layout: doc
 
 ![graf-appendicit](graf-appendicit.png)
 
-## <gr> Undersökningar </gr>
+## UNDERSÖKNINGAR
 
-### <ye> Anamnes </ye>
+###  Anamnes 
 
 |  Undersökning             | LR +                       | LR -                          |
 | -------------             | :--------------------:     |    :--------------------:     |
@@ -33,7 +33,7 @@ layout: doc
 _Artikel av Roland Andersson et al, "Meta-analysis of the clinical and laboratory diagnosis of appendicitis, 2003."_
 :::
 
-### <ye> Status </ye>
+###  Status 
 
 ::: danger Stor variation av resultat förekommer mellan studier som forskat om bedside kliniska undersökningar. Eftersom det är personberoende och subjektivt förekommer stor variation i hur man undersöker och de slutsatser man drar. Här presenteras ett komposit från en akademisk källa.
 :::
@@ -51,7 +51,7 @@ _Artikel av Roland Andersson et al, "Meta-analysis of the clinical and laborator
 _Boken av Steven McGee "Evidence-based physical diagnosis, 5th edition, 2022."_
 ::: 
 
-### <ye> Lab </ye>
+###  Lab 
 
 |  Undersökning                      | LR +                       | LR -                              |
 | -------------                      | :--------------------:     |    :--------------------:         |
@@ -70,7 +70,7 @@ _Boken av Steven McGee "Evidence-based physical diagnosis, 5th edition, 2022."_
 _Artikel av Roland Andersson et al, "Meta-analysis of the clinical and laboratory diagnosis of appendicitis, 2003."_
 :::
 
-### <ye> Scoringsystem </ye>
+###  Scoringsystem 
 
 ::: info I sverige används huvudsakligen Appendicits Inflammation Response (AIR) score som är ett validerat poängbaserat verktyg och kan användas som beslutsfattande underlag. Den är designad för att identifiera komplicerad appendicit. Jämfört med Alvarado score inkluderar denna CRP och har i studier visat sig ha högre träffsäkerhet.
 :::
@@ -95,7 +95,7 @@ _Nationellt vårdprogram för akut appendicit, 2024._
 _Jennings et al. Cost-effectiveness of imaging protocols for suspected appendicitis._
 :::
 
-### <ye> Bilddiagnostik </ye>
+###  Bilddiagnostik 
 
 ::: info Hög träffsäkerhet för appendicit. Kan vara av stort värde vid flera differentialdiagnoser, > 40 års ålder, och symptomduration > 3 dygn (risk för abscess som kan behandlas konservativt).
 :::
@@ -141,7 +141,7 @@ _Jennings et al. Cost-effectiveness of imaging protocols for suspected appendici
 _Nationellt vårdprogram för akut appendicit, 2024._
 :::
 
-### <ye> Diagnostiskt och beslutsfattande flödesschema </ye>
+###  Diagnostiskt och beslutsfattande flödesschema 
 
 ![algortim-app](algoritm-app.png)
 

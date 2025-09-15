@@ -11,9 +11,9 @@ Sårklassifikation, sårhantering, suturering, antibiotika. Denna korta artikel 
 Som källa används huvudsakligen _Rosens Emergency Medicine, 10th ed, chapter 50_. 
 :::
 
-## <gr> Hudbiologi </gr>
+## HUDBIOLOGI 
 
-### <ye> Anatomi </ye> ###
+###  Anatomi 
 ::: details Hudanatomi
 ![hudanatomi](hudanatomi.jpg)
 :::
@@ -22,13 +22,13 @@ Som källa används huvudsakligen _Rosens Emergency Medicine, 10th ed, chapter 5
 | -------------                             | :----------------------            | 
 | <gr> **Epidermis** </gr>                  | <ul><li>Ytterst</li><li>Skyddande barriär</li><li>Flera lager</li></ul>         | 
 | <ye> **Dermis** </ye>                     | <ul><li>Vävnadsstyrka</li><li>Elasticitet</li><li>Kärl, nerver, hårfolliklar, och körtlar</li></ul>       | 
-| <re> **Subkutis (hypodermis)** </re>      | <ul><li>Fett och bindväv</li><li>Insulation</li><li>Energilager</li><li>Stötdämpning</li></ul>        | 
+| <re> **Subkutis (hypodermis)** </re>      | <ul><li>Fett och bindväv</li><li>Insulation</li><li>Energilager</li><li>Stötdämpning</li><li>Större kärl och nerver</li></ul>        | 
 
 ::: danger FASCIOR
 Viktigt att ytlig och djup fascia rengörs och debrideras ordentligt. Här finns hög risk för att infektion utvecklas och sprids. Dessa kan snabbt övergå till allvarliga infektioner. Om djupa fascian är skadad skall denna repareras innan sårförslutning.
 :::
 
-### <ye> Läkningsfaser </ye> ###
+###  Läkningsfaser 
 ::: details Graf
 ![woundphases](woundphases.png)
 Källa: “SKIN FUNCTION AND WOUND HEALING PHYSIOLOGY.” (2006).
@@ -47,7 +47,7 @@ Källa: “SKIN FUNCTION AND WOUND HEALING PHYSIOLOGY.” (2006).
 </ul>
 :::
 
-### <ye>  Hudens spänningslinjer (Langerlinjer eller Skin tension lines) </ye> ###
+###   Langerlinjer (Skin tension lines)
 ::: details Langerlinjer
 ![langerlines](langerlines2.jpg)
 
@@ -56,12 +56,12 @@ Källa: José María Arribas Blanco, Shabnan Habibi, Nuria Rodríguez Pata and J
 Sår som går rätvinkligt i förhållande till langerlinjerna producerar större ärr eftersom den högre tensionskraften försvårar läkningen. Det är därför fördelaktigt att vid kirurgiskt orsakade sår röra sig parallellt med langerlinjerna för att minimera ärrbildning.
 ![skin-tension](skin-tension.png)
 
-## <gr> Sårklassificering </gr>
+##  SÅRKLASSIFICERING 
 
 ::: info Det är av hög vikt att man lär sig kategorisera typen av sårskada man har framför sig. Beskedliga sår kan missbedömas och leda till djupa infektioner om man inte känner till riskfaktorer och sårmekanismer.
 :::
 
-### <ye>Surgical Wound Classification (SWC), Center for disease control (CDC)</ye> ###
+### Surgical Wound Classification (SWC), Center for disease control (CDC)
 
 | Sårklass                            | Fynd                                                                              | Infektionsrisk %<br>Surgical site infection (SSI)</br>
 | ---------------                     | :---------------                                                                |:-------------:   |
@@ -75,7 +75,7 @@ Sår som går rätvinkligt i förhållande till langerlinjerna producerar störr
 
 Vi kommer ägna oss huvudsakligen åt klass 3 och 4 sår då alla öppna oavsiktliga traumatiska sår betraktas som minst grad 3.
 
-### <ye> Traumatiska sårtyper </ye> ###
+###  Traumatiska sårtyper 
 
 | Typ | Mekanism | Djup | Risk |
 |:--|:-----|:--|:--|
@@ -86,19 +86,19 @@ Vi kommer ägna oss huvudsakligen åt klass 3 och 4 sår då alla öppna oavsikt
 | Penetration | Kniv, kulor | Djup | Intern organskada |
 | Kontusion | Trubbigt | Subkutant | Hematom |
 
-## <gr> Anamnes </gr>
+## ANAMNES 
 
 ::: info För att kunna prognosticera sårets läkningsförmåga och infektionsrisken behöver man ta en god sjukdomshistoria. Detta kan vara avgörande för vilka åtgärder man väljer.
 :::  
 
-### <ye> Tidigare / nuvarande sjukdomar / aktuellt </ye>
+###  Tidigare / nuvarande sjukdomar / aktuellt 
 
 - Perifer kärlsjukdom (ffa diabetes och claudicatio)
 - Immunosupprimerad
 - Främmande föremål
 - Tetanusstatus
 
-### <re> Riskfaktorer som ökar infektionsrisk </re>
+###  Riskfaktorer som ökar infektionsrisk 
 
 - Efter 6 - 12 timmar har man traditionellt betraktat ett sår som klass 4. Detta är omdebatterat idag då sårrengöring blivit så mycket bättre.
 - Krosskada: Ofta rejält skadad vävnad utöver huden. Minskat blodflöde till sårkanterna. Ökar bakteriebördan upp till 100 gånger.
@@ -109,12 +109,12 @@ Vi kommer ägna oss huvudsakligen åt klass 3 och 4 sår då alla öppna oavsikt
 - Kontaminering: Saliv, jord, feces.
 - Punktionsskada (bett, tagg)
 
-::: warning Viktiga beaktanden
-- Primärsutur ska ske inom 8 - 12h. Data pekar dock på att timingen inte är lika viktig som dom andra riskfaktorerna eftersom rengöring och debridering blivit så pass bra.
+::: warning VIKTIGA BEAKTANDEN
+- Primärsutur ska ske inom 8 - 12h. Data pekar dock på att timingen inte är lika viktig som dom andra riskfaktorerna eftersom rengöring och debridering blivit så pass bra. UpToDate tycker det går bra upp till 18 timmar.
 - Fina och rena ansiktssår kan primärförslutas > 24h efter skadan
 :::
 
-### <ye> Sårlokalisation </ye> 
+###  Sårlokalisation 
 
 Sårlokalisation är en av dom viktigaste faktorerna vid bedömning av infektionsrisk. Lår och framförallt underben har högst risk då kroniska sjukdomar ofta skadar kärl och hudstrukturen kring ankel och underben. Dåliga förutsättningar för sårläkning. Detta gör det särskilt riskabelt om kontamination föreligger.
 
@@ -126,32 +126,33 @@ Sårlokalisation är en av dom viktigaste faktorerna vid bedömning av infektion
 
 Risk för infektion: Underben > lår > armar > fötter > bröst > rygg > ansikte > skalp
 
-::: tip Det är den sammanvägda bedömningen med alla dessa faktorer som ska ligga till grund för klinikern om såret ska förslutas och om antibiotika är aktuellt.
+::: tip VÅGMÄSTARE
+Det är den sammanvägda bedömningen med alla dessa faktorer som ska ligga till grund för klinikern om såret ska förslutas och om antibiotika är aktuellt.
 :::
 
-## <gr> Status och Radiologi </gr>
+## STATUS & RADIOLOGI
 
-::: info Att förstå såret
+::: info ATT FÖRSTÅ SÅRET
 Ibland kan det vara klurigt att förstå såret och se den för vad den är; framförallt om den blöder och ändrar skepnad hela tiden. Hemostas kan därför blottgöra och förenkla såråskådningen. 
 
 På en sårskadad extremitet kan en blodtrycksmanschett  användas med fördel proximalt om såret samtidigt som man höjer extremiteten 1-2 minuter. Manschetten kan vara på 2 timmar om man så önskar, men sannolikt så kommer patienten vara i så pass mycket smärta att det är självbegränsande.
 ::: 
 
-::: tip Främmande föremål
+::: tip FRÄMMANDE FÖREMÅL
 Om man misstänker att ett föremål tagit sig in på djupet men man kan inte se eller palpera den så kan man med fördel nyttja olika typer av radiologi. Valet av bildmodalitet blir beroende på vad för objekt man misstänker. 
-- <ye><b>Slätröntgen</b></ye> 
+- <ye><b>SLÄTRÖNTGEN</b></ye> 
     <br> Metall 99%; Glas 75%;  Trä 7%.</br>
-- <ye><b>Skiktröntgen, CT </b></ye>
+- <ye><b>SKIKTRÖNTGEN, CT </b></ye>
     <br>Ser alla typer av främmande föremål vilket gör den golden standard. De uppenbara negativa aspekterna är strålning och kostnad.</br>
-- <ye><b>Ultraljud</b></ye>
+- <ye><b>ULTRALJUD</b></ye>
     <br>Bra men kan ibland ge dåligt resultat pga små föremål, luft, ödem, pus, blod, kalcifieringar.</br>
 :::
 
-## <gr>Handläggning</gr>
+## HANDLÄGGNING
 
 ::: info Nu kommer vi till den viktigaste delen i artikeln, nämligen hur vi stegvis handlägger ett sår.
 :::
-### <ye>Översikt</ye>
+### Översikt
 
 ```mermaid
 flowchart TD
@@ -165,5 +166,6 @@ flowchart TD
     
 ```
 
-### <ye>Lokalanestesi</ye>
-
+### Lokalanestesi
+#### <br>Val av lokalanestetikum</br>
+#### Injektionsteknik
