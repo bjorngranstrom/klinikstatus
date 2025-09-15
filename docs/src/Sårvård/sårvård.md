@@ -167,5 +167,41 @@ flowchart TD
 ```
 
 ### Lokalanestesi
+
 #### <br>Val av lokalanestetikum</br>
+::: info SÅRSKADOR PÅ AKUTEN
+MEPIVAKAIN (**Carbocain®**)  
+LIDOCAIN (**Xylocain®**)  
+:::
+
+| Typ | Anslagstid | Duration | Rimlig dos | 
+|:----|:----------|:--------|:------|
+| Mepivakain| <ul><li>Sekunder</li></ul>|<ul><li>1,5 - 4 h</li></ul>| <ul><li>1-20 ml (10 mg/ml)</li><li>5 mg/kg (maxdos)</li></ul>|
+| Lidokain| <ul><li>Sekunder</li></ul>|<ul><li>20-60 minuter</li><li>2-6 h (adrenalin)</li></ul>| <ul><li> 5-40 ml (10 mg/ml)</li><li>4 mg/kg (maxdos)</li><li>7 mg/kg (adrenalin)</li></ul>|
+
+::: details VARFÖR MEPIVAKAIN > LIDOKAIN
+* Liknande anslagstid
+* Längre duration
+* Samma potens
+* Mindre toxicitet
+* Ej beroende av adrenalin i lika hög grad
+:::
+
+::: danger ADRENALIN
+Fördröjer läkningsperioden. Ökar infektionsrisk. Om högrisksår med omfattande vävnadsskada: överväg avstå adrenalin.
+:::
+
+#### Allergi
+
+::: info 2 familjer inom lokalanestesi
+* Amider (Lidokain, Mepivakain, Bupivakain)  
+* Estrar (Prokain, Tetrakain, Benzokain)
+:::
+
+::: warning KORSREAGERAR INTE
+Vid osäkerhet om allergi, injicera 0,1 ml och utvärdera efter 30min
+:::
+
 #### Injektionsteknik
+
+#### Finger-tåblockad

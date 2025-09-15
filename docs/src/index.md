@@ -10,7 +10,7 @@ layout: doc
 
 ##  Vad är Klinikstatus 
 
-::: details <ye>TL;DR</ye> Mitt försök att effektivisera vården och bidra med konkret kunskap riktad till akuten.
+::: details <ye>TL;DR</ye> <br>Mitt försök att effektivisera vården och bidra med konkret kunskap riktad till akuten. Navigeras enklast från listvyn i vänster spalt. </br>
 Jag upplevde tidigt i min karriär som Akutläkare att det fanns ett stort bristmoment inom vården, och det var välgrundad resursanvändning. Mycket av blodprovstagningen gick på rutin, innan ens läkare träffat pat.
 
 CT används some rule-in/rule-out undersökning utan stark fog och ibland känns det som att den kliniska undersökningen blivit obsolet. Den ena är kostsam och skadlig; den andra gratis och direkt vårdande.
@@ -22,9 +22,6 @@ Detta är ju givetvis <re>DÅLIG</re> praxis!
 Här presenteras undersökningar för vanliga sjukdomar man stöter på i det akuta skedet och deras evidensgrad. Den huvudsakliga och viktigaste mätvariabeln är likelyhood ratio (LR) men andra vanliga begrepp som PPV och pre-test-probability begrundas också. 
 
 Slänger även in mer allomfattande kunskap allteftersom, det är ett läromoment för mig också.
-
-Navigeras enklast från listvyn i vänster spalt. 
-
 :::
 
 ::: details <re>Disclaimer</re>
@@ -44,6 +41,6 @@ Du är själv ansvarig för dina egna beslut och slutsatser. På sätt och vis k
 
 
 ## Blogg
-::: info [<ye>[Hippokrates Lärljunge]</ye>](hippokrates-lärljunge/hippokrates-lärljunge.md)  
+::: info [<ye>[HIPPOKRATES LÄRLJUNGE]</ye>](hippokrates-lärljunge/hippokrates-lärljunge.md)  
 Deliriska reflektioner från akutens frontlinje. Inlägg kommer ske sporadiskt. Fall presenteras där löpande.
 :::
