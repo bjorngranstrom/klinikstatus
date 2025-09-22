@@ -187,6 +187,9 @@ LIDOCAIN (**Xylocain®**)
 * Ej beroende av adrenalin i lika hög grad
 :::
 
+::: tip BUFFRA
+Carbocain är löst i en låg pH-lösning (pH 4,5 - 6). Agerar antimikrobiellt. Detta betyder också att det gör extra ont vid injektion. Man kan tillsätta 1-2 ml 0,6 M Natriumbikarbonat till 10 ml carbocain.
+:::
 ::: danger ADRENALIN
 Fördröjer läkningsperioden. Ökar infektionsrisk. Om högrisksår med omfattande vävnadsskada: överväg avstå adrenalin.
 :::
