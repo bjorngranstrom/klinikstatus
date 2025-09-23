@@ -207,4 +207,16 @@ Vid osäkerhet om allergi, injicera 0,1 ml och utvärdera efter 30min
 
 #### Injektionsteknik
 
-#### Finger-tåblockad
+::: details Skolans misslyckande
+Av någon bisarr orsak missade jag PM:et där det skall ha framgått att lokalanestesin INTE ska infiltreras i epidermis. Tyckte alltid det var lite märkligt att jag ofta jobbade mot så djävulskt mycket motstånd vid injektionsmomentet. Rent anatomiskt är detta mycket enkelt att förklara. Som beskrivet i denna artikels första del [Anatomi](#anatomi), finner vi sensoriska nervstruktur i dermis/subcutis och INTE i epidermis. Av mycket logiska skäl innebär detta givetvis att vi skall infiltrera djupa delen av dermis (mindre spridning) alternativt ytliga delen av subcutis (större spridning).  
+:::
+
+Ett bra nålval som har ett balanserat injektionsflöde (smärta kontra hastighet) är en 23 Gauge nål. I svenska termer motsvarar detta en blå nål. .
+
+När vi har en sårskada framför oss finns det två tillvägagångssätt. Antingen betraktas såret tillräkligt rent för att vi ska kunna injicera direkt i sårkanterna (förslagsvis ytliga delen av subcutis). Detta kommer vara majoriteten av sår och är mindre smärtsamt. I annat fall kan såret vara så skitigt att man kan riskera dra med sig smuts in i vävnaden. Detta vill vi absolut inte göra eftersom vi i princip gödslar med potentiellt infektionsmaterial.
+
+Om du sticker perkutant (via huden), se till att denna är rengjord, förslagsvis med tvål och vatten. Om du är lite ångestladdad kan man även, MED FÖRSIKTIGTHET, använda klorhexidin på frisk hud. Klorhexidin skadar öppna sårytor och förlänger läkning. Sen gör det sinnessjukt ont för patienten
+
+En generellt bra teknik är att man sticker in hela vägen längst med sårkanten tills man når basen av nålen. Därefter aspirerar man, backar långsamt, samtidigt som man injicerar lokalanestesi. Djupet bör vara ungefär 5 mm för att adekvat nå rätt del av dermis.
+
+#### Kort om finger-tåblockad
