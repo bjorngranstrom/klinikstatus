@@ -217,6 +217,16 @@ När vi har en sårskada framför oss finns det två tillvägagångssätt. Antin
 
 Om du sticker perkutant (via huden), se till att denna är rengjord, förslagsvis med tvål och vatten. Om du är lite ångestladdad kan man även, MED FÖRSIKTIGTHET, använda klorhexidin på frisk hud. Klorhexidin skadar öppna sårytor och förlänger läkning. Sen gör det sinnessjukt ont för patienten
 
-En generellt bra teknik är att man sticker in hela vägen längst med sårkanten tills man når basen av nålen. Därefter aspirerar man, backar långsamt, samtidigt som man injicerar lokalanestesi. Djupet bör vara ungefär 5 mm för att adekvat nå rätt del av dermis.
+En generellt bra teknik är att man sticker in hela vägen längst med sårkanten tills man når basen av nålen. Därefter aspirerar man, backar långsamt, samtidigt som man injicerar lokalanestesi. Djupet bör vara ungefär 5 mm för att adekvat nå rätt del av dermis/subcutis.
 
-#### Kort om finger-tåblockad
+#### Kort om finger-tåblockad och adrenalin
+
+::: info Sannolikt inte farlig
+Tes: Vasokonstriktion av endarterioler -> ischemi  
+Case studies från handkirurgi: Säkert med försiktig monitorering. Reverseras med lokalinjektion 0,5 - 2 mg subkutant phentolamin alternativt topikal nitroglycerin.
+
+Om det är svårt att ha blodfritt arbetsfält kan man överväga att tornikera fingret/tån på dess bas med exempelvis ett bandage.
+:::
+
+### Sårhantering
+
