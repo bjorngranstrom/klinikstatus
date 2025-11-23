@@ -215,8 +215,15 @@ a {
 /* Custom font size and color for Mermaid diagrams */
 .vp-doc .mermaid * {
   font-size: 15px !important;
-  fill: transparent !important;
+  fill: #000000ab !important;
   font-family: Arial, sans-serif !important;
+}
+
+.vp-doc .mermaid .node rect {
+  rx: 5 !important; /* Rounded corners */
+  ry: 5 !important; /* Rounded corners */
+  min-width: 150px !important; /* Increase width */
+  min-height: 80px !important; /* Adjust height to fit content */
 }
 
 

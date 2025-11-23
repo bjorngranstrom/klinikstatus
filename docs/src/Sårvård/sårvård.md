@@ -194,7 +194,7 @@ Carbocain är löst i en låg pH-lösning (pH 4,5 - 6). Agerar antimikrobiellt. 
 Fördröjer läkningsperioden. Ökar infektionsrisk. Om högrisksår med omfattande vävnadsskada: överväg avstå adrenalin.
 :::
 
-#### Allergi
+#### <br>Allergi</br>
 
 ::: info 2 familjer inom lokalanestesi
 * Amider (Lidokain, Mepivakain, Bupivakain)  
@@ -205,7 +205,7 @@ Fördröjer läkningsperioden. Ökar infektionsrisk. Om högrisksår med omfatta
 Vid osäkerhet om allergi, injicera 0,1 ml och utvärdera efter 30min
 :::
 
-#### Injektionsteknik
+#### <br>Injektionsteknik</br>
 
 ::: details Skolans misslyckande
 Av någon bisarr orsak missade jag PM:et där det skall ha framgått att lokalanestesin INTE ska infiltreras i epidermis. Tyckte alltid det var lite märkligt att jag ofta jobbade mot så djävulskt mycket motstånd vid injektionsmomentet. Rent anatomiskt är detta mycket enkelt att förklara. Som beskrivet i denna artikels första del [Anatomi](#anatomi), finner vi sensoriska nervstruktur i dermis/subcutis och INTE i epidermis. Av mycket logiska skäl innebär detta givetvis att vi skall infiltrera djupa delen av dermis (mindre spridning) alternativt ytliga delen av subcutis (större spridning).  
@@ -219,7 +219,7 @@ Om du sticker perkutant (via huden), se till att denna är rengjord, förslagsvi
 
 En generellt bra teknik är att man sticker in hela vägen längst med sårkanten tills man når basen av nålen. Därefter aspirerar man, backar långsamt, samtidigt som man injicerar lokalanestesi. Djupet bör vara ungefär 5 mm för att adekvat nå rätt del av dermis/subcutis.
 
-#### Kort om finger-tåblockad och adrenalin
+#### <br>Kort om finger-tåblockad och adrenalin</br>
 
 ::: info Sannolikt inte farlig
 Tes: Vasokonstriktion av endarterioler -> ischemi  
@@ -230,3 +230,66 @@ Om det är svårt att ha blodfritt arbetsfält kan man överväga att tornikera 
 
 ### Sårhantering
 
+::: info Efter man har framgångsrikt välsignat området med lokal analgesi kan sårtvätt börja. Plåga inte patienten i onödan.
+:::
+
+#### <br>Debridering och sårtvätt</br>
+
+::: info DEBRIDERING
+Debridering är i särklass ett av dom viktigaste momenten i sårvård. Om kroppsfrämmande föremål och partiklar missas i sår finns en skälig risk att ingen adekvat läkning sker samtidigt som infektionsrisken ökar dramatiskt. Utöver detta kan sårläkning ske på ett ofördelaktigt sätt vilket förändrar anatomin på ett estetiskt eller funktionellt olämpligt vis. 
+:::
+
+::: tip SÅRTVÄTT
+Efter man plockat bort större och uppenbara föroreningar kommer nästa viktiga steg, vilket är att man tvättar rent såret. Här kan man med fördel använda ljummet kranvatten blandat med tvål. Effektmässigt är kranvatten jämförbart med koksalt. Kranvatten är i princip gratis och lättillgängligt. Koksalt kan reserveras till kirurgiskt sterila sår; sårskador på akuten betraktas redan som kontaminerade. 
+
+Om man inte fysiskt skrubbar i såret ska ett spoltryck på 7 Psi uppnås, detta för att säkerställa att skräp och mikroorganismer sköljs bort utan att skada vävnaden ytterliggare. Ett enkelt sätt att säkerställa att man spolar rätt är att ansluta en 30 mL spruta med en 18G nål (rosa pvk eller röd uppdragningskanyl). Här rekommenderar jag att man använder PVK:n så man undviker skärande våld.
+:::
+
+::: warning HÅR
+Hår är något av ett gissel vad gäller sårskador. Hamnar i såret, är i vägen när man suturerar, och gör det onödigt svårt. 
+
+⭐ <gr>BÄST:</gr> Trimmer/sax.
+
+OKEJ: Vaselin/oljig substans på sårkant = agerar hårprodukt.
+
+🔴 <re>DÅLIG:</re> Rakhyvel. Skadar hårfolliklars infundibulum vilket skapar enkel bakterieacess. Infektionsrisk ökar 9-faldigt.
+:::
+
+### Sårförslutning
+
+#### <br>Primärförslutning</br> 
+
+- Ej infekterat  
+- Tid < 12-18 h (rena ansiktssår upp till 48h)
+
+#### Fördröjd primärförslutning
+
+```mermaid
+flowchart TD
+    A["Sår ⬆️ infektionsrisk"] --> B["Fördröjd primärförslutning"]
+    B --> C["
+- Debridering<br>
+- Rengöring"]
+    C --> D["
+- Lämnas öppen
+- Daglig spolning
+- Omläggningar"]
+    D --> |3-5 dagar| E["Primärförslutning"]  
+```
+::: info Bra att veta
+Samma läkningstid men dramatiskt reducerad infektionsrisk. Om extremitet, omlägges med skena. Oklart huruvida packning är fördelaktigt eller ej. Orsakar mer smärta utan uppenbar vinst. Återbesök 24h för sårkontroll och omläggningsbyte. 
+:::
+
+::: danger ANTIBIOTIKA GES INTE TILL DESSA SÅR
+:::
+
+
+### Suturering, stapling, limning
+
+Här inkluderas dom vanligaste och mest användbara suturteknikerna på en akutmottagning. Även kort info om häftning "stapling" samt sårlim.  
+- Enkelsutur (simple interrupted suture)
+- Stående madrass (Vertical mattress suture)
+- Liggande madrass (Horizontal mattress suture)
+- Fortlöpande (Running or continuous suture)
+
+#### 
