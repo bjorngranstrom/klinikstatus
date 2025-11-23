@@ -286,10 +286,34 @@ Samma läkningstid men dramatiskt reducerad infektionsrisk. Om extremitet, omlä
 
 ### Suturering, stapling, limning
 
-Här inkluderas dom vanligaste och mest användbara suturteknikerna på en akutmottagning. Även kort info om häftning "stapling" samt sårlim.  
-- Enkelsutur (simple interrupted suture)
-- Stående madrass (Vertical mattress suture)
-- Liggande madrass (Horizontal mattress suture)
-- Fortlöpande (Running or continuous suture)
+Här inkluderas de vanligaste och mest användbara sårförslutningsverktygen på en akutmottagning.
 
-#### 
+#### Suturer
+
+::: details Enkelsutur (simple interrupted suture)
+Den sutur du kommer använda absolut mest. 
+:::
+
+::: details Stående madrass (vertical mattress)
+:::
+
+::: details Liggande madrass (horizontal mattress)
+:::
+
+::: details Fortlöpande utan låsning (Continuous non-locking)
+![fortlöpande-sutur](fortlöpande-suturer.gif)
+![fortlöpande-slut](fortlöpande-slut.gif)
+:::
+
+#### Svåradapterade sår (Y, V, hundöra)
+
+::: details Y sår
+![hörnsutur (corner stitch)](ygif.gif)
+:::
+
+::: details V sår
+![madrass sutur](vgif.gif)
+:::
+
+
+Galea aponeurotica måste sutureras ihop med vicryl 3,4-0. Såret riskerar annars att öppnas upp efter primärsutur, eller inadekvat sårläkning med anatomisk avvikelse.
