@@ -284,36 +284,41 @@ Samma läkningstid men dramatiskt reducerad infektionsrisk. Om extremitet, omlä
 :::
 
 
-### Suturering, stapling, limning
+### Suturering, stapling, limning, SteriStrip
 
 Här inkluderas de vanligaste och mest användbara sårförslutningsverktygen på en akutmottagning.
 
 #### Suturer
 
-::: details Enkelsutur (simple interrupted suture)
-Den sutur du kommer använda absolut mest. 
+::: details Enkelsutur
+![enkelsutur](enkelsutur1.gif)
 :::
-
-::: details Stående madrass (vertical mattress)
+::: details Stående madrass
+![ståendemadrass](ståendemadrass.gif)
 :::
-
-::: details Liggande madrass (horizontal mattress)
+::: details Liggande madrass
+![liggandemadrass](liggandemadrass.gif)
 :::
-
-::: details Fortlöpande utan låsning (Continuous non-locking)
-![fortlöpande-sutur](fortlöpande-suturer.gif)
-![fortlöpande-slut](fortlöpande-slut.gif)
+::: details Fortlöpande utan låsning
+![fortlöpande](fortlöpande.gif)
 :::
-
-#### Svåradapterade sår (Y, V, hundöra)
-
-::: details Y sår
-![hörnsutur (corner stitch)](ygif.gif)
+::: details Y-sår
+![cornerstitchy](cornerstitchy.gif)
 :::
-
-::: details V sår
-![madrass sutur](vgif.gif)
+::: details V-sår                           
+![cornerstitchv](cornerstitchv.gif)
 :::
+::: details V-sår med liggande madrass
+![cornerstitch2](vshape.gif)
+:::
+Hundöra (Standing cone)          
+Hundöra (reclining cone)        
 
 
-Galea aponeurotica måste sutureras ihop med vicryl 3,4-0. Såret riskerar annars att öppnas upp efter primärsutur, eller inadekvat sårläkning med anatomisk avvikelse.
+#### Stapling
+
+#### Limning - DermaFlex
+
+#### Steristrip
+
+

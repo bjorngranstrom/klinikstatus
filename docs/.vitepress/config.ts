@@ -36,7 +36,7 @@ export default withMermaid(defineConfig({
   // Customizes the website theme and displayed core elements.
   themeConfig: {
     outline: {
-      level: 'deep',
+      level: [2, 3 ],
       label: 'Table of contents'
 
     },
