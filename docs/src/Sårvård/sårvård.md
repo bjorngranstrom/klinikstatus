@@ -283,42 +283,170 @@ Samma läkningstid men dramatiskt reducerad infektionsrisk. Om extremitet, omlä
 ::: danger ANTIBIOTIKA GES INTE TILL DESSA SÅR
 :::
 
+### Suturtyper
 
-### Suturering, stapling, limning, SteriStrip
+Vi använder i första hand syntetiska suturer eftersom dom är till sin yta glatt (låg friktion) men har också som regel mycket låg vävnadsreaktivitet. Detta gör dem lätta att knyta men lite svårare att hantera eftersom de gärna vill tillbaks till sin ursprungsform - "suture memory". Det är viktigt man knyter med god teknik för att de inte ska gå upp.
+
+::: details ETHILON
+- Nylon (polyamide)
+- Monofilament
+- Icke-absorberbar
+- Billig och i särklass den vanligaste suturen vi använder på akuten.
+:::
+
+::: details PROLENE
+- Prolene (polypropylene) 
+- Betraktas som den förfinade Ethilonsuturen
+- Mer slitstark, håller sin form, och lämpar sig för långvarig användning in vivo
+- Sällan indicerad på akuten
+- Dyrare per sutur
+:::
+
+::: details VICRYL
+- Polyglactin (vicryl)
+- Flätad multifilament -> Hög draghållfasthet
+- Svagt "suture memory"
+- 30% svagare efter 2 veckor; 50% svagare efter 3 veckor; 75% svagare efter 4 veckor; absorberad efter 2 månader
+:::
+
+### Suturering
 
 Här inkluderas de vanligaste och mest användbara sårförslutningsverktygen på en akutmottagning.
 
 #### Suturer
 
+::: warning Surgeon's knot
+Samtliga suturer låses med 2-1-1 teknik. Första vändningen bestämmer suturens styrka. 2 slag för att övervinna "suture memory". Andra låser knuten. Tredje för säkerhetsmarginal. Demonstrationsvideos på samtliga suturer.
+:::
+
 ::: details Enkelsutur
 ![enkelsutur](enkelsutur1.gif)
+_Lämpar sig till i princip alla sår. Du kommer använda denna sutur i > 90% av såren du stöter på._
 :::
+
 ::: details Stående madrass
 ![ståendemadrass](ståendemadrass.gif)
+_Vid djupare sår där resorberbartråd inte behövs._
 :::
+
 ::: details Liggande madrass
 ![liggandemadrass](liggandemadrass.gif)
+_Vid sår där man vill sprida ut suturtensionen för att undvika att man drar igenom svag och skör hud. Lämpar sig bra för V-formade sår._
 :::
+
 ::: details Fortlöpande utan låsning
 ![fortlöpande](fortlöpande.gif)
+_Kan används för raka lacerationer med låg infektionsrisk. Sparar tid. Nackdel är att man måste klippa bort hela tråden vid minsta problem som kräver sårrevision._
 :::
+
 ::: details Y-sår
 ![cornerstitchy](cornerstitchy.gif)
+_Corner stitch._
 :::
+
 ::: details V-sår                           
 ![cornerstitchv](cornerstitchv.gif)
+_Corner stitch._
 :::
+
 ::: details V-sår med liggande madrass
 ![cornerstitch2](vshape.gif)
+_Liggande madrass istället för corner stitch._
 :::
-Hundöra (Standing cone)          
-Hundöra (reclining cone)        
 
 
-#### Stapling
+::: info STAPLING
+Fungerar bra på fina och hyfsat raka lacerationer. Tidsvinst och billigare. Lägre infektionsrisk.
+:::
 
-#### Limning - DermaFlex
+::: tip PRAKTISK PATIENTINFORMATION SUTUR
+- Duscha går bra
+- Bada inte -> ökar risk för infektion
+- Skrubba inte 
+- Suturer tas bort hos distriktssköterska, sårlokalisation avgör tid
+- Informera om infektion
+:::
 
-#### Steristrip
+#### Suturtabell
+
+| Lokal | Storlek | Längd (dagar) |
+|:------|:--------|:------:|
+| Ansikte |4-0, 5-0  |5-7   |
+| Huvud, skalp | 3-0 | 7-10   |
+| Thorax, buk, övre extr | 3-0, 4-0 | 10-12 |
+| Rygg, nedre extr |  3-0, 4-0|14-17  |
+
+#### Limning
+
+::: details DermaFlex
+Låg tröskel för användning på barn. Sannolikt underanvänt på akuten. Lämpar sig på följande:
+- < 6 cm sår
+- Sår med god hemostas, limmet fäster annars inte
+- Gärna inte djupare än 1 cm
+- Sårkanterna måste ha låg spänning, annars hög risk för att limmet släpper under läkning
+- Låg dynamisk plats, ie INTE ÖVER LEDER, händer
+- Stelnar efter 95 sekunder
+- Försvinner efter 7 dagar
+- LIM + SteriStrip är en kombination guld värd. Slitningssår, exempelvis hos äldre med tunn kortisonbehandlad hud så kan detta vara ett mycket bra alternativ.
+:::
+
+::: tip PRAKTISK PATIENTINFORMATION LIM
+- Duscha går bra
+- Bada inte -> ökar risk för infektion och kan lösgöra limmet
+- Skrubba inte -> risk för att mekaniskt skrubba bort limmet
+- Försvinner av sig självt efter 7 dagar
+- Informera om infektion
+:::
+
+
+### OMLÄGGNING
+
+Med tanke på att vi får nästan noll utbildning vad gäller såromläggning utgör detta alltför ofta ett problem när omvårdnadspersonal frågar "experten" vad för typ av förband som ska användas för respektive sår. Dessa förband finns tillgängliga på akuten. Kortfattade videodemonstrationer.
+
+::: details Sårtejp "SteriStrip"
+Vävnadsstödjande. Funkar till dom flesta sårskadorna. Kan utgöra primärbehandling hos barn och äldre.
+![steristrip](steristrip.gif)
+:::
+
+::: details Lättabsorberande vattentätt plåster
+Standardförband. Lämpar sig till majoriteten av sårskador. Ej adekvat vid ordentligt vätskande sår. Fångar vätska och orsakar maceration.
+![vattentättplåster](vattentättplåster.gif)
+:::
+
+::: details Absorberande förband
+Används på sår som förväntas vätska större volymer som exempelvis:
+- Venösa bensår
+- Diabetesrelaterade bensår
+- Brännskador, delhudengagemang
+- Sår vid lymfödem
+
+Viktigt att undvika maceration.
+![absorberandeförband](absorberandeförband.gif)
+:::
+
+::: details Silicone would contact layer "Sipro"
+Används på större sårytor med skör hud där förbandet riskerar att torka in i såret. Detta gelliknande förband läggs som en skyddande barriär ovanpå såret varvid förbandet läggs ovanpå. Transporterar exusdat effektivt till förbandet. Kan vara på så länge den släpper igenom vätska
+![sipro](sipro.gif)
+:::
+
+
+#### Specialförband
+::: details Gel fibre dressing "Exufiber"
+Gelbildande förband som lämpar sig till kraftigt vätskande sår som typiskt ses vid diabetes, tryck, och kirurgiska sår. Vid vätskekontakt omvandlas förbandet till en gel som agerar som en inkapslande vätskebarriär. Passar till djupa sårhålor.
+![exufiber](exufiber.gif)
+:::
+
+
+::: details Vätsketransporterande "Mepilex transfer" 
+Transporterar bort stor mängd vätska till täckförbandet. Förhindrar maceration.
+![mepilextransfer](mepilextransfer.gif)
+:::
+
+
+
+
+
+
+
 
 
