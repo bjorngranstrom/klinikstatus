@@ -403,7 +403,14 @@ Låg tröskel för användning på barn. Sannolikt underanvänt på akuten. Läm
 
 Med tanke på att vi får nästan noll utbildning vad gäller såromläggning utgör detta alltför ofta ett problem när omvårdnadspersonal frågar "experten" vad för typ av förband som ska användas för respektive sår. Dessa förband finns tillgängliga på akuten. Kortfattade videodemonstrationer.
 
-::: details Sårtejp "SteriStrip"
+::: tip PRINCIPER
+Skapa optimal sårläkningsmiljö -> värna om makrofager och fibroblaster
+- Omläggning ska hålla såret fuktigt, goda förutsättningar för epitelialisering. Ett torrt sår bildar ett hårt och tjockt callus med signifikant minskad epitelialisering.
+- Vid vätskande sår och omläggning som "fångar" trans/exsudat uppstår maceration som hämmar sårläkning och ökar infektionsrisk. Hornlagret blir överhydrerat, svullet, och försvagat rent strukturellt -> Dålig såradaptation. Detta förlänger sårläkning, ökar smärtan, och förstorar såret.
+- Behöver vara permeabel för gas då O2 är essentiel för epitelialisering 
+:::
+
+::: details Sårtejp "SteriStrip" 
 Vävnadsstödjande. Funkar till dom flesta sårskadorna. Kan utgöra primärbehandling hos barn och äldre.
 ![steristrip](steristrip.gif)
 :::
@@ -442,11 +449,44 @@ Transporterar bort stor mängd vätska till täckförbandet. Förhindrar macerat
 ![mepilextransfer](mepilextransfer.gif)
 :::
 
+## ANTIBIOTIKA
 
+Antibiotika har tidigare varit godtyckligt och har ofta getts i småkurer i profylaktiskt syfte. Denna praxis har i princip helt dött ut då studier visar ingen vinst samtidigt som det driver resistens. Av denna orsak måste individanpassning stå i centrum där sårmekanism, lokalisation, riskfaktorer, och grad av kontamination utgör viktiga beaktanden.
 
+::: warning PROFYLAKTISK ANTIBIOTIKA 
+METAANALYS:
 
+1700 patienter inkluderades med exklusion av bitsår -> AB vs INTE AB -> Ingen signifikant skillnad vad gäller infektionsrisk!
 
+Källa: Rosen's textbook of Medical Emergency.
 
+En intressant reflektion är att det saknas RCT:er för AB-profylax
+:::
 
+### Riskfaktorer och överväganden
 
+- Diabetes mellitus
+- Obesitas
+- Malnutrition
+- Kronisk njursjukdom
+- Hög ålder
+- Steroider
 
+::: info När det kan vara klokt att ge AB-profylax:
+
+- Stor kontaminering (använd sunt förnuft!)
+- Omfattande krosskador -> Mycket icke-viabel vävnad -> hög infektionsrisk
+- Immunsuppresion
+:::
+
+### Öppna frakturer, ledskador, skottsår
+
+I dessa fall SKA antibiotika ges då den potentiella infektionen betraktas som farlig med risk för permanenta skador på viktiga strukturer. Tillstånd vi är rädda för: septisk artrit, osteit, djupa mjukdelsinfektioner (fasciit, abscesser)
+
+::: warning PROSPEKTIV RCT
+Visar minskad infektionsfrekvens. Tid till antibiotika var den viktigaste faktorn för gott utfall.
+- Öppen fraktur utan mjukdelsskada (avulsion, krosskada, devitalisering) = AB i 24 h
+- Öppen komminut fraktur alt omfattande mjukdelsskada = AB i 72 h
+:::
+
+### Bitsår och punktion
