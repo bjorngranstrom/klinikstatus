@@ -490,3 +490,15 @@ Visar minskad infektionsfrekvens. Tid till antibiotika var den viktigaste faktor
 :::
 
 ### Bitsår och punktion
+
+Vid dessa sårtyper behöver man sänka tröskeln för AB-användning. Särskilt kattbett.
+
+#### Katt
+- Djup punktion -> Svårt att rengöra adekvat
+- Upp till 40% blir infekterade
+- AB är särskilt viktigt vid handsår men gäller egentligen för alla kattbett
+::: tip ANTIBIOTIKAVAL
+Typiska bakterier är strep-, stafylokocker, och pasturella multocida. Tidsaspekten och infektionsgraden är viktig för antibiotikaval. Vid infektion som utvecklas < 24h ska strep/pasturella i första hand misstänkas och då ges:
+><ye>Pencillin V 1-1,6 g x 3 (barn: 25 mg/kg x 3) i 7-10 dagar</ye>
+- Om det i
+:::
