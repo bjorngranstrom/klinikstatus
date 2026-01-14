@@ -18,11 +18,11 @@ Som källa används huvudsakligen _Rosens Emergency Medicine, 10th ed, chapter 5
 ![hudanatomi](hudanatomi.jpg)
 :::
 
-|  Hudlager                                 | Egenskaper                  | 
-| -------------                             | :----------------------            | 
-| <gr> **Epidermis** </gr>                  | <ul><li>Ytterst</li><li>Skyddande barriär</li><li>Flera lager</li></ul>         | 
-| <ye> **Dermis** </ye>                     | <ul><li>Vävnadsstyrka</li><li>Elasticitet</li><li>Kärl, nerver, hårfolliklar, och körtlar</li></ul>       | 
-| <re> **Subkutis (hypodermis)** </re>      | <ul><li>Fett och bindväv</li><li>Insulation</li><li>Energilager</li><li>Stötdämpning</li><li>Större kärl och nerver</li></ul>        | 
+| Hudlager                             | Egenskaper                                                                                                                    |
+|--------------------------------------|:------------------------------------------------------------------------------------------------------------------------------|
+| <gr> **Epidermis** </gr>             | <ul><li>Ytterst</li><li>Skyddande barriär</li><li>Flera lager</li></ul>                                                       |
+| <ye> **Dermis** </ye>                | <ul><li>Vävnadsstyrka</li><li>Elasticitet</li><li>Kärl, nerver, hårfolliklar, och körtlar</li></ul>                           |
+| <re> **Subkutis (hypodermis)** </re> | <ul><li>Fett och bindväv</li><li>Insulation</li><li>Energilager</li><li>Stötdämpning</li><li>Större kärl och nerver</li></ul> |
 
 ::: danger FASCIOR
 Viktigt att ytlig och djup fascia rengörs och debrideras ordentligt. Här finns hög risk för att infektion utvecklas och sprids. Dessa kan snabbt övergå till allvarliga infektioner. Om djupa fascian är skadad skall denna repareras innan sårförslutning.
@@ -33,12 +33,12 @@ Viktigt att ytlig och djup fascia rengörs och debrideras ordentligt. Här finns
 ![woundphases](woundphases.png)
 Källa: “SKIN FUNCTION AND WOUND HEALING PHYSIOLOGY.” (2006).
 :::
-|  Tid från skada                       | Processer                                                               | Sårkarakteristika
-| -------------                          | :--------------------                                                   | :---   
-|<ye> 0-1 d HEMOSTAS</ye>                |  <ul><li>Vasokonstriktion</li><li>Koagulation</li><li>Fibrinnät </li></ul>| <ul><li>Mycket instabilt</li><li> Hög risk att det öppnas </li></ul>  
-| <re>1-3 d INFLAMMATION</re>       |  <ul><li>Vasodilatation</li><li> Migrering av WBC</li><li> Frisättning tillväxtfaktorer</li></ul> | <ul><li> Rubor, calor, tumor</li><li> Svagt och instabilt</li><li>Fibrinnät som skyddar</li></ul>  
-| <bl>3-7 d PROLIFERATION</bl>      |    <ul><li>Angiogenes</li><li>Fibroblastaktivitet</li><li>Re-epitelialisering</li><li>Såret krymper</li></ul>  | <ul><li>Granulationsvävnad, röd, lättblödande</li><li>Fortsatt svagt sår men har integritet</li></ul>
-| <gr>> 2 v REMODELLERING</gr>      | <ul><li>Cross-linking av kollagen</li><li>Hämning angiogenes</li></ul>        | <ul><li> Ärrbildning</li><li>< 3 veckor: < 20% ursprungsstyrka</li><li>< 4 mån: 60% av ursprungsstyrka</li><li> Hållfasthet når totalt 80% från ursprunget</li></ul>   
+| Tid från skada               | Processer                                                                                                  | Sårkarakteristika                                                                                                                                                    |
+|------------------------------|:-----------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <ye> 0-1 d HEMOSTAS</ye>     | <ul><li>Vasokonstriktion</li><li>Koagulation</li><li>Fibrinnät </li></ul>                                  | <ul><li>Mycket instabilt</li><li> Hög risk att det öppnas </li></ul>                                                                                                 |
+| <re>1-3 d INFLAMMATION</re>  | <ul><li>Vasodilatation</li><li> Migrering av WBC</li><li> Frisättning tillväxtfaktorer</li></ul>           | <ul><li> Rubor, calor, tumor</li><li> Svagt och instabilt</li><li>Fibrinnät som skyddar</li></ul>                                                                    |
+| <bl>3-7 d PROLIFERATION</bl> | <ul><li>Angiogenes</li><li>Fibroblastaktivitet</li><li>Re-epitelialisering</li><li>Såret krymper</li></ul> | <ul><li>Granulationsvävnad, röd, lättblödande</li><li>Fortsatt svagt sår men har integritet</li></ul>                                                                |
+| <gr>> 2 v REMODELLERING</gr> | <ul><li>Cross-linking av kollagen</li><li>Hämning angiogenes</li></ul>                                     | <ul><li> Ärrbildning</li><li>< 3 veckor: < 20% ursprungsstyrka</li><li>< 4 mån: 60% av ursprungsstyrka</li><li> Hållfasthet når totalt 80% från ursprunget</li></ul> |
 
 ::: info Epitelialisering
 <ul>
@@ -77,14 +77,14 @@ Vi kommer ägna oss huvudsakligen åt klass 3 och 4 sår då alla öppna oavsikt
 
 ###  Traumatiska sårtyper 
 
-| Typ | Mekanism | Djup | Risk |
-|:--|:-----|:--|:--|
-| Abrasion (skrapsår)| Hudskrapning/hudflåning | Ytlig | Infektion|
-| Laceration <br>(Kött-, skär-, rivsår) </br>| Trubbig, slitning, skärning | Ytlig - djup | Blödning/infektion|
-| Avulsion (Avslitning, degloving)| Kraftig slitning | Djup | Stor vävnads förlust |
-| Punktion (puncture) | Bett, taggar, nålar | Djup | Infektion |
-| Penetration | Kniv, kulor | Djup | Intern organskada |
-| Kontusion | Trubbigt | Subkutant | Hematom |
+| Typ                                         | Mekanism                    | Djup         | Risk                 |
+|:--------------------------------------------|:----------------------------|:-------------|:---------------------|
+| Abrasion (skrapsår)                         | Hudskrapning/hudflåning     | Ytlig        | Infektion            |
+| Laceration <br>(Kött-, skär-, rivsår) </br> | Trubbig, slitning, skärning | Ytlig - djup | Blödning/infektion   |
+| Avulsion (Avslitning, degloving)            | Kraftig slitning            | Djup         | Stor vävnads förlust |
+| Punktion (puncture)                         | Bett, taggar, nålar         | Djup         | Infektion            |
+| Penetration                                 | Kniv, kulor                 | Djup         | Intern organskada    |
+| Kontusion                                   | Trubbigt                    | Subkutant    | Hematom              |
 
 ## ANAMNES 
 
@@ -118,11 +118,11 @@ Vi kommer ägna oss huvudsakligen åt klass 3 och 4 sår då alla öppna oavsikt
 
 Sårlokalisation är en av dom viktigaste faktorerna vid bedömning av infektionsrisk. Lår och framförallt underben har högst risk då kroniska sjukdomar ofta skadar kärl och hudstrukturen kring ankel och underben. Dåliga förutsättningar för sårläkning. Detta gör det särskilt riskabelt om kontamination föreligger.
 
-| Lokalisation | Infektionsrisk efter suturering |
-| :---|:----:|
-| Ansikte + skalp | < 4% |
-| Torso + andra extremiteter | > 10% |
-| Lår/underben | <re><b>> 20%</b></re> |
+| Lokalisation               | Infektionsrisk efter suturering |
+|:---------------------------|:-------------------------------:|
+| Ansikte + skalp            |              < 4%               |
+| Torso + andra extremiteter |              > 10%              |
+| Lår/underben               |      <re><b>> 20%</b></re>      |
 
 Risk för infektion: Underben > lår > armar > fötter > bröst > rygg > ansikte > skalp
 
@@ -174,10 +174,10 @@ MEPIVAKAIN (**Carbocain®**)
 LIDOCAIN (**Xylocain®**)  
 :::
 
-| Typ | Anslagstid | Duration | Rimlig dos | 
-|:----|:----------|:--------|:------|
-| Mepivakain| <ul><li>Sekunder</li></ul>|<ul><li>1,5 - 4 h</li></ul>| <ul><li>1-20 ml (10 mg/ml)</li><li>5 mg/kg (maxdos)</li></ul>|
-| Lidokain| <ul><li>Sekunder</li></ul>|<ul><li>20-60 minuter</li><li>2-6 h (adrenalin)</li></ul>| <ul><li> 5-40 ml (10 mg/ml)</li><li>4 mg/kg (maxdos)</li><li>7 mg/kg (adrenalin)</li></ul>|
+| Typ        | Anslagstid                 | Duration                                                  | Rimlig dos                                                                                 |
+|:-----------|:---------------------------|:----------------------------------------------------------|:-------------------------------------------------------------------------------------------|
+| Mepivakain | <ul><li>Sekunder</li></ul> | <ul><li>1,5 - 4 h</li></ul>                               | <ul><li>1-20 ml (10 mg/ml)</li><li>5 mg/kg (maxdos)</li></ul>                              |
+| Lidokain   | <ul><li>Sekunder</li></ul> | <ul><li>20-60 minuter</li><li>2-6 h (adrenalin)</li></ul> | <ul><li> 5-40 ml (10 mg/ml)</li><li>4 mg/kg (maxdos)</li><li>7 mg/kg (adrenalin)</li></ul> |
 
 ::: details VARFÖR MEPIVAKAIN > LIDOKAIN
 * Liknande anslagstid
@@ -369,12 +369,12 @@ Fungerar bra på fina och hyfsat raka lacerationer. Tidsvinst och billigare. Lä
 
 #### Suturtabell
 
-| Lokal | Storlek | Längd (dagar) |
-|:------|:--------|:------:|
-| Ansikte |4-0, 5-0  |5-7   |
-| Huvud, skalp | 3-0 | 7-10   |
-| Thorax, buk, övre extr | 3-0, 4-0 | 10-12 |
-| Rygg, nedre extr |  3-0, 4-0|14-17  |
+| Lokal                  | Storlek  | Längd (dagar) |
+|:-----------------------|:---------|:-------------:|
+| Ansikte                | 4-0, 5-0 |      5-7      |
+| Huvud, skalp           | 3-0      |     7-10      |
+| Thorax, buk, övre extr | 3-0, 4-0 |     10-12     |
+| Rygg, nedre extr       | 3-0, 4-0 |     14-17     |
 
 #### Limning
 
