@@ -25,29 +25,6 @@ layout: doc
 | 4 Lokalstatus       | <gr>"Lokalstatus"</gr>        |                         |                            |
 | 4 EKG-tolkning      | <gr>"EKG"</gr>                |                         |                            |
 
-### RÖNTGEN
-
-| SLÄTRÖNTGEN       | DT                       |
-|-------------------|--------------------------|
-| "Röntgen lungor"  | "DT buk med kontrast"    |
-| "Röntgen axelled" | "DT thorax med kontrast" |
-| "Röntgen handled" | "DT lungemboli"          |
-| "Röntgen höftled" | "DT hjärna nativ"        |
-| "Röntgen knäled"  | "DT skalltrauma"         |
-| "Röntgen fotled"  | "DT aorta"               |
-|                   | "DT urinvägsöversikt"    |
-|                   | "Coronarangiografi"      |
-
-
-### BLODPROVER
-
-| Prov            | SÄG                           |
-|-----------------|-------------------------------|
-| PNA;CRP;Vgas    | <gr>"Snabbprover akuten"</gr> |
-| CRP,Blodst,Vgas | <gr>"Basprover akuten"</gr>   |
-| Basprv,trop     | <gr>"Hjärtprover akuten"</gr> |
-| Basprv,leverst  | <gr>"Bukprover akuten"</gr>   |
-
 
 <div style="display: flex; gap: 2rem; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 300px;">
@@ -90,3 +67,5 @@ layout: doc
     </table>
   </div>
 </div>
+
+[Ladda ner färgkodad LATHUND i PDF](./tik-print.pdf)
