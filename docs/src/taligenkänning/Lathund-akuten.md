@@ -68,4 +68,4 @@ layout: doc
   </div>
 </div>
 
-[Ladda ner färgkodad LATHUND i PDF](tik-print.pdf)
+<a href="/tik-print.pdf" download="Lathund-Akuten.pdf">Ladda ner färgkodad LATHUND i PDF</a>
