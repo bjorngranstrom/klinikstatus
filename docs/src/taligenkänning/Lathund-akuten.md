@@ -68,4 +68,4 @@ layout: doc
   </div>
 </div>
 
-<a href="tik.pdf" target="_blank">Ladda ner lathund</a>
+<a href="/klinikstatus/tik.pdf" target="_blank">Ladda ner lathund</a>
