@@ -1,6 +1,8 @@
 import { defineConfig } from 'vitepress';
 import { generateSidebar } from 'vitepress-sidebar';
 import { withMermaid } from 'vitepress-plugin-mermaid';
+import { copyFileSync, mkdirSync } from 'fs';
+import { dirname } from 'path';
 
 // https://vitepress.dev/reference/site-config
 export default withMermaid(defineConfig({
@@ -30,6 +32,19 @@ export default withMermaid(defineConfig({
   base: '/klinikstatus/',
   title: "Klinikstatus",
   description: "Yes",
+
+  // Build hook to copy PDFs
+  buildEnd() {
+    const sourceFile = 'docs/src/taligenkänning/tik.pdf';
+    const destFile = 'docs/.vitepress/dist/taligenkänning/tik.pdf';
+    try {
+      mkdirSync(dirname(destFile), { recursive: true });
+      copyFileSync(sourceFile, destFile);
+      console.log('✓ Copied tik.pdf to dist');
+    } catch (e) {
+      console.error('Failed to copy PDF:', e);
+    }
+  },
 
 
 
