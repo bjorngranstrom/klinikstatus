@@ -68,4 +68,4 @@ layout: doc
   </div>
 </div>
 
-[LATHUND](tik.pdf)
+<iframe src="./filename.pdf" style="width: 100%; height: 800px; border: 1px solid #ccc;"></iframe>
