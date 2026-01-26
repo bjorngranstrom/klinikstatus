@@ -69,3 +69,5 @@ layout: doc
 </div>
 
 <iframe src="./tik.pdf" style="width: 100%; height: 800px; border: 1px solid #ccc;"></iframe>
+
+[LATHUND](tik.pdf)
