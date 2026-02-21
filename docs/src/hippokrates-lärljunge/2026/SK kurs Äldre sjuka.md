@@ -70,7 +70,7 @@ _"Från nationellt vårdprogram för palliativvård"_
 :::
 
 ::: details 2. ÄR PATIENTENS FÖRSÄMRADE TILLSTÅND FÖRVÄNTAT?
-- Är förväntat om försämringen är till följd av svår grundsjukdom med successiv fördärv.
+- Är förväntat om försämringen är till följd av svår grundsjukdom med successivt fördärv.
 :::
 
 ::: details 3. HAR BEHANDLINGSBARA TILLSTÅND ÖVERVÄGTS?
@@ -88,7 +88,7 @@ _"Från nationellt vårdprogram för palliativvård"_
 
 - <gr> ABSOLUT GFR: </gr> Använd på överviktiga -> Många underbehandlas! Stor kroppsvolym -> falskt ↓GFR vid relativ uträkning!
 - <gr> NOAK OCH BLÖDNING: </gr> Gör slemhinnor signifikant mer lättblödande! Tag alltid detta i beaktning inför insättning. Exempelvis kan det vara motiverat att använda heparin/waran vid slemhinnecancer/tarmcancer.
-- <gr> RISK FÖR VTE MED AK-BEH: </gr> Inga absoluta siffror med risken är minimal. Undantag pankreasmalignitet.
+- <gr> RISK FÖR VTE MED AK-BEH: </gr> Inga absoluta siffror men risken betraktas som minimal. Undantag pankreasmalignitet.
 - <gr> COMPARTMENT: </gr> DVT -> Stasat ben -> AK-behandling -> Ökande smärta och svullnad -> Blödning? -> Ultraljud för att bekräfta -> Hematom? -> JA? -> Compartment -> Akutbehandling
 - <gr> "TROMBSPETS KAN INTE VISUALISERAS":</gr>
     - Orsak till att vidareutreda med CT buk:
@@ -107,7 +107,7 @@ _"Från nationellt vårdprogram för palliativvård"_
 - <gr>SEGMENTELL LE:</gr> Betraktas som bifynd i första hand om pat. ej har symptom typiska vid LE.
 - <gr>MORTALITET VID HÖFTFRAKTUR:</gr> Dubbleras varje dag man väntar på höftoperation.
 - <gr> ARTÄREMBOLI OCH HEPARIN: </gr> Ingen evidens att det minskar artärtromber som vid exempelvis förmaksflimmer.
-- <gr> REDUCERAD NOAK: </gr> Dåligt VTE-skydd -> överväg byta till waran/heparin om mycket slemhinnerblödningar eg tarmblödning.
+- <gr> REDUCERAD NOAK: </gr> Dåligt VTE-skydd -> överväg byta till waran/heparin om mycket slemhinneblödningar eg tarmblödning.
 - <gr> DDIMER: </gr> 
     - Fibrinogen: trombin+faktor XIII-> Fibrin: Fibrinolys -> Plasmin (bryter ned fibrin)-> D-Dimerfragment  
     - Halveringstid 6-8 timmar.
@@ -121,7 +121,7 @@ _"Från nationellt vårdprogram för palliativvård"_
 
 ### AKUT KONFUSION (DELIRIUM)
 
-_Utmärkande för delirium är kort debut (timmar-dagar) med fluktuerande grad över dygnet och blir ofast sämre nattetid. Ofta föreligger en uppmärksamhetsstörning i form av svårighet att hålla fokus. Perceptionsstörning samt agitation/apati förekommer._
+_Utmärkande för delirium är kort debut (timmar-dagar) med fluktuerande grad över dygnet och blir oftast sämre nattetid. Ofta föreligger en uppmärksamhetsstörning i form av svårighet att hålla fokus. Perceptionsstörning samt agitation/apati förekommer._
 
 - <gr> SYMMETRISK MOTORIK: </gr> Sällan strukturell hjärnskada.
 - <gr> PARTIELLT ANFALL: </gr> Delirium kan ibland yttra sig som partiellt anfall. Det är inte fel att ge Keppra, förslagsvis 2 gram då detta inte är skadligt.
@@ -145,3 +145,4 @@ _Utmärkande för delirium är kort debut (timmar-dagar) med fluktuerande grad �
     - Mycoplasma
 - <gr> PcG: </gr> Täcker streptokocker samt 70% av HIF
 - <gr> BLODODLING UTAN FEBER: </gr> Man ska absolut blododla vid misstanke om allvarlig infektion. Optimalt fönster hade varit att blododla 3 timmar innan man utvecklar feber då kroppen rustar för anfall mot bakteremi.
+- <gr> MENINGIT: </gr> Ungefär 100 per år drabbas. Sällsynd tillstånd. 90% FEBER; 60% HUVUDVÄRK; 45% NACKSTEL.
