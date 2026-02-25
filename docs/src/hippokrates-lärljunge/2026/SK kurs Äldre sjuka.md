@@ -145,4 +145,69 @@ _Utmärkande för delirium är kort debut (timmar-dagar) med fluktuerande grad �
     - Mycoplasma
 - <gr> PcG: </gr> Täcker streptokocker samt 70% av HIF
 - <gr> BLODODLING UTAN FEBER: </gr> Man ska absolut blododla vid misstanke om allvarlig infektion. Optimalt fönster hade varit att blododla 3 timmar innan man utvecklar feber då kroppen rustar för anfall mot bakteremi.
-- <gr> MENINGIT: </gr> Ungefär 100 per år drabbas. Sällsynd tillstånd. 90% FEBER; 60% HUVUDVÄRK; 45% NACKSTEL.
+- <gr> MENINGIT: </gr> Ungefär 100 per år drabbas. Sällsynt tillstånd. 90% FEBER; 60% HUVUDVÄRK; 45% NACKSTEL.
+
+### AKUT RESPIRATORISK INSUFFICIENS
+
+- <gr>PERSPEKTIV AV AKUTHET vid O2-brist:</gr> 
+    - 95%:  10  kPa
+    - 90%:  7,3 kPa
+    - 80%:  5,3 kPa "kan gå hela natten"
+    - 70%:  4   kPa "timmar"
+    - 2,5 kPa är minimum för överlevnad
+
+- <gr> CPAP-INSTÄLLNINGAR: </gr>
+    - Vi peepar sjävla 4 cm H2O
+    - Bra att börja på 8cm H2O vid CPAP/NIV
+    
+- <gr> ANDNINGSUNDERSTÖD: </gr>IPAP - EPAP = Ju större desto lättare andningsarbete "tryckunderstöd".
+- <gr> HÖGFLÖDESGRIMMA: </gr> Max 4 cm H2O. Dålig för hyperkapné + hypoventilation. CPAP/NIV!!!!
+- <gr> TIDALVOLYM:</gr> 6-8 ml/kg
+- <gr>HUR MKT SKA PAT ANDAS?:</gr> AF x TV = X mL/min
+- <gr> SUG?:</gr> Höga biljud + desaturering + dålig hostfunktion
+    1. Inhalera 3-5 mg NaCl + 2,5ml Combivent
+    2. Preoxygenera
+    3. Glidslem
+    4. Avancera via näsa, kurverad ända på sugkateter vit strl 12 Ch --> 1-2 decimeter
+
+    ### MALNUTRITION
+
+    - <gr> SUBSTITUERING TIDIGT: </gr>Kalium, Fosfat, Magnesium, och Tiamin. Järn ges med försiktighet då det förbrukar fosfat.
+
+    ### GASTRO
+
+- <gr>DIVERTIKULOS VANLIG BLÖDNINGSORSAK:</gr>
+    - 40%
+    - "Färskt blod och koagler"
+    - Spontant bättre 1-2 dygn
+
+- <gr> IBD: </gr>
+    - Frekvent blodiga diarrér
+    - Ont i buk? Ileus?
+    - Infektion som diff? --> PCR
+    - Överväg alltid innohep vid skov pga hög trombosrisk
+    - Odlingar
+
+- <gr> ENCEFALOPATI-TRIGGERS: </gr>
+    - Dehydrering
+    - Förstoppning -> Laktulos
+    - Infektion -> Spontant bakteriell peritonit -> Xifaxan alt flagyl
+    - Intox
+    - GI-blödning
+
+- <gr> ESOFAGUSVARICER: </gr>
+    - Glypressin 2mg /4h
+    - Antibiotika, cefotaxim -> Oklar evidens
+    - Nexium IV 40-80mg
+    - V-sond
+    - Akut Gastroskopi
+    - Permissiv hypotension MAP > 65
+
+- <gr> LEVERCIRROS: </gr>
+    - Dåligt CRP-svar, tolkas med försiktighet ffa om infektion misstänks
+    - Habituellt lågt BT (vasodilatation)
+    - PK går inte att korrelera med blödningsrisk
+        - Högt PK MEN låga blödningsfaktorer
+        - Ofta lågt TPK pga splenomegali, lågt TPO, etyl
+        - TPK bättre prov att värdera blödningsrisk
+
