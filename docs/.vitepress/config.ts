@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress';
 import { generateSidebar } from 'vitepress-sidebar';
 import { withMermaid } from 'vitepress-plugin-mermaid';
-import { copyFileSync, mkdirSync } from 'fs';
+import { copyFileSync, existsSync, mkdirSync } from 'fs';
 import { dirname } from 'path';
 
 // https://vitepress.dev/reference/site-config
@@ -35,14 +35,42 @@ export default withMermaid(defineConfig({
 
   // Build hook to copy PDFs
   buildEnd() {
-    const sourceFile = 'docs/src/taligenkänning/tik.pdf';
-    const destFile = 'docs/.vitepress/dist/taligenkänning/tik.pdf';
-    try {
-      mkdirSync(dirname(destFile), { recursive: true });
-      copyFileSync(sourceFile, destFile);
-      console.log('✓ Copied tik.pdf to dist');
-    } catch (e) {
-      console.error('Failed to copy PDF:', e);
+    const filesToCopy = [
+      {
+        source: 'docs/src/taligenkänning/tik.pdf',
+        destination: 'docs/.vitepress/dist/taligenkänning/tik.pdf',
+        label: 'tik.pdf'
+      },
+      {
+        source: 'docs/public/robots.txt',
+        destination: 'docs/.vitepress/dist/robots.txt',
+        label: 'robots.txt'
+      },
+      {
+        source: 'docs/public/sitemap.xml',
+        destination: 'docs/.vitepress/dist/sitemap.xml',
+        label: 'sitemap.xml'
+      },
+      {
+        source: 'docs/public/google26f115ee6d94ab70.html',
+        destination: 'docs/.vitepress/dist/google26f115ee6d94ab70.html',
+        label: 'google verification file'
+      }
+    ];
+
+    for (const file of filesToCopy) {
+      try {
+        if (!existsSync(file.source)) {
+          console.warn(`Skipped ${file.label}: source file not found (${file.source})`);
+          continue;
+        }
+
+        mkdirSync(dirname(file.destination), { recursive: true });
+        copyFileSync(file.source, file.destination);
+        console.log(`✓ Copied ${file.label} to dist`);
+      } catch (e) {
+        console.error(`Failed to copy ${file.label}:`, e);
+      }
     }
   },
 
