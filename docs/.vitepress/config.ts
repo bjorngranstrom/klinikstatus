@@ -37,8 +37,8 @@ export default withMermaid(defineConfig({
   buildEnd() {
     const filesToCopy = [
       {
-        source: 'docs/src/taligenkänning/tik.pdf',
-        destination: 'docs/.vitepress/dist/taligenkänning/tik.pdf',
+        source: 'docs/src/taligenkanning/tik.pdf',
+        destination: 'docs/.vitepress/dist/taligenkanning/tik.pdf',
         label: 'tik.pdf'
       },
       {
@@ -100,7 +100,7 @@ export default withMermaid(defineConfig({
 
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Hippokrates Lärljunge', link: 'hippokrates-lärljunge/hippokrates-lärljunge.md' },
+      { text: 'Hippokrates Lärljunge', link: 'hippokrates-larljunge/hippokrates-larljunge.md' },
       { text: 'Om', link: 'om.md' },
       { text: 'Kontakt', link: 'kontakt.md' },
       { text: 'Källkod', link: 'https://github.com/bjorngranstrom/klinikstatus' }
@@ -117,7 +117,7 @@ export default withMermaid(defineConfig({
       hyphenToSpace: true,
       useTitleFromFileHeading: false,
       useTitleFromFrontmatter: true,
-      useFolderTitleFromIndexFile: false,
+      useFolderTitleFromIndexFile: true,
       useFolderLinkFromIndexFile: false,
       sortMenusByName: true,
       excludeFilesByFrontmatter: false,
