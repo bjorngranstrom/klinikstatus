@@ -71,3 +71,13 @@ Intraindividuell variation 11%.
 :::
 
 Totala mängd vita blodkroppar i cirkulationen. Utgörs av lymfocyter, monocyter, samt neutrofila, eosinofila, och basofila granulocyter. Normalt finns ungefär lika stor andel i marginalpoolen längs väggarna i mindre vener som i cirkulationspoolen. Förändringar i LPK beror oftast på variationen i antalet neutrofila granulocyter. Hög intraindividuell variation.
+
+Stiger vid många tillstånd. T.ex. infektion, inflammation, kirurgisk stress, trauma, kortisonbehandling, fysisk ansträgning, rökning, etc.
+
+<gr>KLINISK ANVÄNDBARHET</gr>
+- Ska tolkas med försiktighet och aldrig isolerat. Eftersom LPK kan stiga av så många orsaker, sjuka som normala, gör den provet högst osäkert för att bedöma farliga infektioner eller andra farliga tillstånd.
+- Låg sensitivitet och specificitet för att särskilja på allvarlig bakteriell infektion och självläkande virala tillstånd.
+- Ett normalt LPK utesluter inte infektion och ett högt LPK bekräftar inte bakteriell infektion.
+- Hos barn leder LPK ofta till många falskt negativa (missade diagnoser) och falskt positiva (onödiga åtgärder/bildundersökningar).<Ref label="1" citation="Kemps, N. et al (2024)." url="https://doi.org/10.1136/archdischild-2024-327493"/> Ska således enbart användas vid specifika frågeställningar snarare än screening för allvarliga infektioner.
+- Betydligt sämre prov än CRP för "rule-in" och "rule-out". Tillför marginell ökning för CRP:s prediktiva värde.
+- Har ett stort värde vid diagnostik av blodmalignitet och benmärgsinsufficiens i kombination med B-celler (diff).

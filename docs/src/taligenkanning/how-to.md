@@ -1,7 +1,7 @@
 ---
 
 # https://vitepress.dev/reference/default-theme-home-page
-title: Taligenkänning – How-to
+title: HOW TO
 description: Kort manual med användbara kommandon för Taligenkänning Dragon Medical One DMO
 layout: doc
 ---
