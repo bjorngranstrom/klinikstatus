@@ -4,7 +4,7 @@ description: Korta sammanfattningar med high yield information om vanliga prover
 layout: doc
 ---
 
-# BLODSTATUS
+# Blodstatus
 
 ::: info Inkluderar Hb, MCV, MCH, MCHC, Erc, och Leukocyter.
 :::
