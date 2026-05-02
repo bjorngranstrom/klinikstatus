@@ -1,3 +1,3 @@
 ---
-title: Sårvård
+title: Sårvård på akuten
 ---
