@@ -1,5 +1,5 @@
 ---
-title: 2. Positivt prediktivt värde (PPV)
+title: 2. Positivt prediktivt värde
 description: Viktig kunskap om medicinsk statistik
 layout: doc
 next: {

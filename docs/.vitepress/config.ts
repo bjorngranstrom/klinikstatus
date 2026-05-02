@@ -125,7 +125,7 @@ export default withMermaid(defineConfig({
 
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Hippokrates Lärljunge', link: 'hippokrates-larljunge/hippokrates-larljunge.md' },
+      { text: 'Hippokrates Lärljunge', link: 'hippokrates-larljunge/index.md' },
       { text: 'Om', link: 'om.md' },
       { text: 'Kontakt', link: 'kontakt.md' },
       { text: 'Källkod', link: 'https://github.com/bjorngranstrom/klinikstatus' }

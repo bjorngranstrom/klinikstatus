@@ -1,6 +1,6 @@
 ---
 title: Blodstatus
-description: Korta sammanfattningar med high yield information om vanliga prover på akuten och hur man tolkar.
+description: Information angående blodstatus.
 layout: doc
 ---
 

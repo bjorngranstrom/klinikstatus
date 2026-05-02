@@ -1,5 +1,5 @@
 ---
-title: 3. Pretest probability (PTP)
+title: 3. Pretest probability
 description: Viktig kunskap om medicinsk statistik
 layout: doc
 next: {

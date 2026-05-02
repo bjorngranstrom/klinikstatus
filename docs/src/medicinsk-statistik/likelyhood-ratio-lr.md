@@ -1,5 +1,5 @@
 ---
-title: 4. Likelyhood ratio (LR)
+title: 4. Likelyhood ratio
 description: Viktig kunskap om medicinsk statistik
 layout: doc
 next: {
