@@ -23,7 +23,7 @@ Vänder sig till er som använder Nuance's Dragon Medical One.
 
 <div style="max-width: 800px; margin-bottom: 2rem;">
   <video controls style="width: 100%; aspect-ratio: 16/9; object-fit: contain;">
-    <source src="./tikexempel.mp4" type="video/mp4">
+    <source src="./taligenkanning-media/tikexempel.mp4" type="video/mp4">
   </video>
 </div>
 
@@ -37,7 +37,7 @@ Först skapar jag akutens besöksanteckning med enbart röstkommandot "akutantec
 
 <div style="max-width: 800px; margin-bottom: 2rem;">
   <video controls style="width: 100%; aspect-ratio: 16/9; object-fit: contain;">
-    <source src="./röntgen-exempel.mp4" type="video/mp4">
+    <source src="./taligenkanning-media/röntgen-exempel.mp4" type="video/mp4">
   </video>
 </div>
 
@@ -54,7 +54,7 @@ Först måste vi hitta COSMICS lathund för deras kortkommandon AKA hotkeys. Vid
 #### Hur man hittar COSMICS lathund för kortkommandon
 <div style="max-width: 800px; margin-bottom: 2rem;">
   <video controls style="width: 100%; aspect-ratio: 16/9; object-fit: contain;">
-    <source src="./kortkommandomanual.mp4" type="video/mp4">
+    <source src="./taligenkanning-media/kortkommandomanual.mp4" type="video/mp4">
   </video>
 </div>
 
@@ -79,7 +79,7 @@ Den viktigste hotkey:n är ALT + SHIFT + BOKSTAV som vi kommer använda för att
 #### Hur ALT + SHIFT + BOKSTAV funkar
 <div style="max-width: 800px; margin-bottom: 2rem;">
   <video controls style="width: 100%; aspect-ratio: 16/9; object-fit: contain;">
-    <source src="./navigering-mall.mp4" type="video/mp4">
+    <source src="./taligenkanning-media/navigering-mall.mp4" type="video/mp4">
   </video>
 </div>
 
@@ -90,7 +90,7 @@ Nu har vi egentligen redskapen för att skapa ett macro vi kan bruka för enkel 
 #### Steg-för-steg exempel för att hoppa till rubrik "Aktuellt"
 <div style="max-width: 800px; margin-bottom: 2rem;">
   <video controls style="width: 100%; aspect-ratio: 16/9; object-fit: contain;">
-    <source src="./skapa-macro.mp4" type="video/mp4">
+    <source src="./taligenkanning-media/skapa-macro.mp4" type="video/mp4">
   </video>
 </div>
 
@@ -98,6 +98,6 @@ Nu har vi egentligen redskapen för att skapa ett macro vi kan bruka för enkel 
 
 <div style="max-width: 800px; margin-bottom: 2rem;">
   <video controls style="width: 100%; aspect-ratio: 16/9; object-fit: contain;">
-    <source src="./avanceratmacro.mp4" type="video/mp4">
+    <source src="./taligenkanning-media/avanceratmacro.mp4" type="video/mp4">
   </video>
 </div>

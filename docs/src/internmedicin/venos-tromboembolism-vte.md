@@ -20,7 +20,7 @@ layout: doc
 | <ye> **VTE (cancer)** </ye>   | <ye> **400** </ye>              |   <ye>  **-**   </ye>       |
 | Influensa (jämförelse)        | 5000                            |     500 000                 |
 
-![graf-vte](graf-vte-alla.png)
+![graf-vte](vte-media/graf-vte-alla.png)
 _**Graf 1.** Incidens av VTE (ICD I26 + I80) /100 000 invånare vid olika åldrar i Sverige 2022. Källa: Socialstyrelsen.se_
 
 * VTE < 16 år  = < 1 /100 000  Ovanligt 

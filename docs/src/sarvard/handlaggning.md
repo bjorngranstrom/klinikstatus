@@ -245,37 +245,37 @@ Samtliga suturer låses med 2-1-1 teknik. Första vändningen bestämmer suturen
 :::
 
 ::: details Enkelsutur
-![enkelsutur](enkelsutur1.gif)
+![enkelsutur](sarvard-media/enkelsutur1.gif)
 _Lämpar sig till i princip alla sår. Du kommer använda denna sutur i > 90% av såren du stöter på._
 :::
 
 ::: details Stående madrass
-![ståendemadrass](ståendemadrass.gif)
+![ståendemadrass](sarvard-media/ståendemadrass.gif)
 _Vid djupare sår där resorberbartråd inte behövs._
 :::
 
 ::: details Liggande madrass
-![liggandemadrass](liggandemadrass.gif)
+![liggandemadrass](sarvard-media/liggandemadrass.gif)
 _Vid sår där man vill sprida ut suturtensionen för att undvika att man drar igenom svag och skör hud. Lämpar sig bra för V-formade sår._
 :::
 
 ::: details Fortlöpande utan låsning
-![fortlöpande](fortlöpande.gif)
+![fortlöpande](sarvard-media/fortlöpande.gif)
 _Kan används för raka lacerationer med låg infektionsrisk. Sparar tid. Nackdel är att man måste klippa bort hela tråden vid minsta problem som kräver sårrevision._
 :::
 
 ::: details Y-sår
-![cornerstitchy](cornerstitchy.gif)
+![cornerstitchy](sarvard-media/cornerstitchy.gif)
 _Corner stitch._
 :::
 
 ::: details V-sår                           
-![cornerstitchv](cornerstitchv.gif)
+![cornerstitchv](sarvard-media/cornerstitchv.gif)
 _Corner stitch._
 :::
 
 ::: details V-sår med liggande madrass
-![cornerstitch2](vshape.gif)
+![cornerstitch2](sarvard-media/vshape.gif)
 _Liggande madrass istället för corner stitch._
 :::
 
@@ -337,12 +337,12 @@ Skapa optimal sårläkningsmiljö -> värna om makrofager och fibroblaster
 
 ::: details Sårtejp "SteriStrip" 
 Vävnadsstödjande. Funkar till dom flesta sårskadorna. Kan utgöra primärbehandling hos barn och äldre.
-![steristrip](steristrip.gif)
+![steristrip](sarvard-media/steristrip.gif)
 :::
 
 ::: details Lättabsorberande vattentätt plåster
 Standardförband. Lämpar sig till majoriteten av sårskador. Ej adekvat vid ordentligt vätskande sår. Fångar vätska och orsakar maceration.
-![vattentättplåster](vattentättplåster.gif)
+![vattentättplåster](sarvard-media/vattentättplåster.gif)
 :::
 
 ::: details Absorberande förband
@@ -353,24 +353,24 @@ Används på sår som förväntas vätska större volymer som exempelvis:
 - Sår vid lymfödem
 
 Viktigt att undvika maceration.
-![absorberandeförband](absorberandeförband.gif)
+![absorberandeförband](sarvard-media/absorberandeförband.gif)
 :::
 
 ::: details Silicone would contact layer "Sipro"
 Används på större sårytor med skör hud där förbandet riskerar att torka in i såret. Detta gelliknande förband läggs som en skyddande barriär ovanpå såret varvid förbandet läggs ovanpå. Transporterar exusdat effektivt till förbandet. Kan vara på så länge den släpper igenom vätska
-![sipro](sipro.gif)
+![sipro](sarvard-media/sipro.gif)
 :::
 
 
 #### Specialförband
 ::: details Gel fibre dressing "Exufiber"
 Gelbildande förband som lämpar sig till kraftigt vätskande sår som typiskt ses vid diabetes, tryck, och kirurgiska sår. Vid vätskekontakt omvandlas förbandet till en gel som agerar som en inkapslande vätskebarriär. Passar till djupa sårhålor.
-![exufiber](exufiber.gif)
+![exufiber](sarvard-media/exufiber.gif)
 :::
 
 
 ::: details Vätsketransporterande "Mepilex transfer" 
 Transporterar bort stor mängd vätska till täckförbandet. Förhindrar maceration.
-![mepilextransfer](mepilextransfer.gif)
+![mepilextransfer](sarvard-media/mepilextransfer.gif)
 :::
 

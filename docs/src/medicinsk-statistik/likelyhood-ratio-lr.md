@@ -31,7 +31,7 @@ _eller_
 LR (-)      =       $\frac{\Large{\text{Specificitet}}}{\Large{\text{1 - Sensitivitet}}}$
 
 ::: details Bayes factor (bild)
-![bayes-factor](Bayes-factor.png)
+![bayes-factor](medicinsk-statistik-media/Bayes-factor.png)
 _Tagen från youtubekanalen 3Blue1Brown under standard youtube license._
 :::
 

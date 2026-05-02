@@ -68,4 +68,4 @@ layout: doc
   </div>
 </div>
 
-[LADDA NER LATHUND PDF](tik.pdf)
+[LADDA NER LATHUND PDF](taligenkanning-media/tik.pdf)

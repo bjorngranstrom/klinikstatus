@@ -21,7 +21,7 @@ Som källa används huvudsakligen _Rosens Emergency Medicine, 10th ed, chapter 5
 
 ###  Anatomi 
 ::: details Hudanatomi
-![hudanatomi](hudanatomi.jpg)
+![hudanatomi](sarvard-media/hudanatomi.jpg)
 :::
 
 | Hudlager                             | Egenskaper                                                                                                                    |
@@ -36,7 +36,7 @@ Viktigt att ytlig och djup fascia rengörs och debrideras ordentligt. Här finns
 
 ###  Läkningsfaser 
 ::: details Graf
-![woundphases](woundphases.png)
+![woundphases](sarvard-media/woundphases.png)
 Källa: “SKIN FUNCTION AND WOUND HEALING PHYSIOLOGY.” (2006).
 :::
 | Tid från skada               | Processer                                                                                                  | Sårkarakteristika                                                                                                                                                    |
@@ -55,12 +55,12 @@ Källa: “SKIN FUNCTION AND WOUND HEALING PHYSIOLOGY.” (2006).
 
 ###   Langerlinjer (Skin tension lines)
 ::: details Langerlinjer
-![langerlines](langerlines2.jpg)
+![langerlines](sarvard-media/langerlines2.jpg)
 
 Källa: José María Arribas Blanco, Shabnan Habibi, Nuria Rodríguez Pata and José Ramón Castello - (2016). "Integrated Activities in Primary Care – Minor Surgery in Family Medicine". 
 :::
 Sår som går rätvinkligt i förhållande till langerlinjerna producerar större ärr eftersom den högre tensionskraften försvårar läkningen. Det är därför fördelaktigt att vid kirurgiskt orsakade sår röra sig parallellt med langerlinjerna för att minimera ärrbildning.
-![skin-tension](skin-tension.png)
+![skin-tension](sarvard-media/skin-tension.png)
 
 ##  SÅRKLASSIFICERING 
 

@@ -64,7 +64,7 @@ Samma principer som på PPV appliceras på NPV.
 
 _Följande grafer är tagna från en artikel skriven av Suzanne Ekelund "Why D-dimer tests cannot be used to exclude venous thromboembolism in patients with high pretest probability"._
 
-![graph-PPV-NPV](graph-PPV-NPV.png)
+![graph-PPV-NPV](medicinsk-statistik-media/graph-PPV-NPV.png)
 
 Grafen visar entydigt att när prevalens ökar eller minskar påverkar detta dramatiskt PPV och NPV. Pilarna visar värdena för en undersökning med 90% sensitivitet och 90% specifictet. Ta din tid att verkligen förstå grafen, detta utgör kruxet i att förstå dessa begreppt. 
 
@@ -74,7 +74,7 @@ NPV är en kvot som illustrerar en undersöknings prediktiva förmåga. Denna ka
 
 __<gr> Vad har sensitivitet för betydelse för NPV? </gr>__
 
-![graph-sens](graph-sens.png)
+![graph-sens](medicinsk-statistik-media/graph-sens.png)
 
 Med ökande sensitivitet minskar mängden falskt negativa eftersom fler äkta positiva föreligger. Detta har då en mitigerande effekt vid höga prevalenser och NPV. Motsatsen är givetvis sann för PPV, _i.e vid hög specificitet minskar mängden falskt positiva och därför ökar PPV._
 
@@ -86,7 +86,7 @@ Wells score har flera stratifieringsmodeller. "Three-tier model" beskriver low r
 
 Estimeringar från Spanish national consensus visar att prevalensen av lungemboli i low-pretest probability grupper är 10%, i moderate-pretest probability är 25%, och i high-pretest probability är >60%.
 
-![graph-PE](graph-PE.png)
+![graph-PE](medicinsk-statistik-media/graph-PE.png)
 
 Här ser vi att om man använder D-dimer som har en sensitivitet på 95% vid högriskgruppen, där prevalensen estimerats till 60%,  får vi ett NPV på ca 87%. Alltså i 13% av fallen får vi ett falskt negativt värde med potentiellt livshotande komplikationer. FDA har som kriterie att ett NPV på minst 97% för att använda D-Dimer som rule-out-undersökning. Med den logiken ska egentligen D-Dimer endast användas på låg- och medelrisk patienter, vilket är dagens praxis!
 
