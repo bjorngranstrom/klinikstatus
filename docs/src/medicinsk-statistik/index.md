@@ -1,5 +1,5 @@
----
-title: Medicinsk statistik
+﻿---
+title: <ye>Medicinsk statistik</ye>
 description: Översikt för medicinsk statistik.
 ---
 

@@ -14,7 +14,7 @@ layout: doc
 | <ye> **Appendicit** </ye>     | <ye> **120** </ye>              |   <ye>  **11 000**   </ye>  |
 | Influensa (jämförelse)        | 5000                            |     500 000                 |
 
-![graf-appendicit](graf-appendicit.png)
+![graf-appendicit](./appendicit/graf-appendicit.png)
 
 ## UNDERSÖKNINGAR
 
@@ -75,7 +75,7 @@ _Artikel av Roland Andersson et al, "Meta-analysis of the clinical and laborator
 ::: info I sverige används huvudsakligen Appendicits Inflammation Response (AIR) score som är ett validerat poängbaserat verktyg och kan användas som beslutsfattande underlag. Den är designad för att identifiera komplicerad appendicit. Jämfört med Alvarado score inkluderar denna CRP och har i studier visat sig ha högre träffsäkerhet.
 :::
 
-![tabell-air](tabell-air.png)
+![tabell-air](./appendicit/tabell-air.png)
 
 |  Undersökning      | Sensitivitet (%)          | NPV (%)                       | Specificitet (%)                 | PPV (%)                   |
 | -------------      | :-----------:             | :--------------------:    | :--------------------:         |    :--------------------:       |
@@ -143,7 +143,7 @@ _Nationellt vårdprogram för akut appendicit, 2024._
 
 ###  Diagnostiskt och beslutsfattande flödesschema 
 
-![algortim-app](algoritm-app.png)
+![algortim-app](./appendicit/algoritm-app.png)
 
 
 

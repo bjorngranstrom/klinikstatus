@@ -138,7 +138,7 @@ export default withMermaid(defineConfig({
       documentRootPath: 'docs',
       scanStartPath: 'src',
       collapsed: true,
-      capitalizeFirst: true,
+      capitalizeFirst: false,
       hyphenToSpace: true,
       useTitleFromFileHeading: false,
       useTitleFromFrontmatter: true,

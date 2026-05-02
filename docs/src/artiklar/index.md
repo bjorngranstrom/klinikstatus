@@ -1,5 +1,5 @@
----
-title: Artiklar
+﻿---
+title: <ye>Artiklar</ye>
 description: Sammanfattning och kritik av relevanta och intressanta artiklar
 layout: doc
 ---

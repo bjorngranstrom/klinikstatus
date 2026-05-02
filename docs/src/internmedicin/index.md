@@ -1,5 +1,5 @@
----
-title: Internmedicin
+﻿---
+title: <re>Internmedicin</re>
 description: Översikt för internmedicinska artiklar.
 ---
 

@@ -1,5 +1,5 @@
----
-title: Sårvård på akuten
+﻿---
+title: <bl2>Sårvård på akuten</bl2>
 next: {
     text: '1. Hudbiologi och Klassificering',
     link: 'sarvard/hudbiologi'

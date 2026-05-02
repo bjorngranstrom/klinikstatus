@@ -1,5 +1,5 @@
----
-title: Hippokrates Lärljunge
+﻿---
+title: <ye>Hippokrates Lärljunge</ye>
 description: Blogg och reflektioner från akutens frontlinje.
 layout: doc
 ---

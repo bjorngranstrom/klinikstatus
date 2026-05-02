@@ -249,12 +249,15 @@ a {
 /* Custom colors for text spans */
 
 gr { color: #30a46c }
+gr2 { color: #2b9133 }
 re { color: #C70039 }
 re2 { color: #B53311}
 ye { color: #D6AB1E }
+ye2 { color: #e8f16b }
 bl { color: #0CDFF2 }
-bl2 { color: #3C72DF}
+bl2 { color: #3080db}
 pu { color: #D61EDE }
+pu2 { color: #de1e8e }
 
 /* Custom font sizes for headings */
 .vp-doc h1 {

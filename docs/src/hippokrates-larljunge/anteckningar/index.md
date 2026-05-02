@@ -1,4 +1,4 @@
----
+﻿---
 title: Anteckningar
 description: Anteckningar från SK-kurser, föreläsningar, och vad jag finner intressant.
 layout: doc
