@@ -29,7 +29,7 @@ export default withMermaid(defineConfig({
 
   // changes source markdown directory to /src
   srcDir: 'src',
-  base: '/klinikstatus/',
+  base: '/',
   title: "Klinikstatus",
   description: "Yes",
 
