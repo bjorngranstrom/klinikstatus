@@ -1,5 +1,5 @@
 ---
-title: Sårvård
+title: Sårvård på akuten
 description: Översikt och handläggning av traumatiska sår, klassificering, behandling och tips för kliniker.
 layout: doc
 ---

@@ -1,6 +1,7 @@
 {
   "type": "module",
   "devDependencies": {
+    "@types/node": "^25.6.0",
     "markdown-it-mathjax3": "^4.3.2",
     "mermaid": "^11.11.0",
     "sidebar": "^1.0.2",
