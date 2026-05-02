@@ -8,7 +8,7 @@ next: {
 }
 ---
 
-# Sårvård på akuten
+# SÅRVÅRD PÅ AKUTEN
 
 ::: info Översiktlig kunskap och handläggning av traumatiskt orsakade sår. 
 Sårklassifikation, sårhantering, suturering, antibiotika. Denna artikelserie ska ge klinikern en känsla för enklare sårhantering på akuten.  
