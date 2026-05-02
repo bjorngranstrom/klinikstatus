@@ -42,6 +42,16 @@ export default withMermaid(defineConfig({
         label: 'tik.pdf'
       },
       {
+        source: 'docs/public/incisionsset.pdf',
+        destination: 'docs/.vitepress/dist/sarvard/incisionsset.pdf',
+        label: 'incisionsset.pdf'
+      },
+      {
+        source: 'docs/public/suturset.pdf',
+        destination: 'docs/.vitepress/dist/sarvard/suturset.pdf',
+        label: 'suturset.pdf'
+      },
+      {
         source: 'docs/public/robots.txt',
         destination: 'docs/.vitepress/dist/robots.txt',
         label: 'robots.txt'
