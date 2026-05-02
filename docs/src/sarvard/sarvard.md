@@ -11,7 +11,11 @@ Sårklassifikation, sårhantering, suturering, antibiotika. Denna korta artikel 
 Som källa används huvudsakligen _Rosens Emergency Medicine, 10th ed, chapter 50_. 
 :::
 
+[INCISIONSSET OCH PATIENTINSTRUKTION PDF](incisionsset.pdf) <br>
+[SUTURSET OCH PATIENTINSTRUKTION PDF](suturset.pdf)
+
 ## HUDBIOLOGI 
+
 
 ###  Anatomi 
 ::: details Hudanatomi
