@@ -1,8 +1,8 @@
 import { defineConfig } from 'vitepress';
 import { generateSidebar } from 'vitepress-sidebar';
 import { withMermaid } from 'vitepress-plugin-mermaid';
-import { copyFileSync, existsSync, mkdirSync } from 'fs';
-import { dirname } from 'path';
+import { copyFileSync, existsSync, mkdirSync, readdirSync } from 'fs';
+import { dirname, join, relative } from 'path';
 
 // https://vitepress.dev/reference/site-config
 export default withMermaid(defineConfig({
@@ -33,24 +33,39 @@ export default withMermaid(defineConfig({
   title: "Klinikstatus",
   description: "Yes",
 
-  // Build hook to copy PDFs
+  // Build hook to copy static files and every PDF under docs/src
   buildEnd() {
+    const srcRoot = 'docs/src';
+    const distRoot = 'docs/.vitepress/dist';
+
+    const collectPdfFiles = (directory: string): string[] => {
+      const entries = readdirSync(directory, { withFileTypes: true });
+      const files: string[] = [];
+
+      for (const entry of entries) {
+        const fullPath = join(directory, entry.name);
+
+        if (entry.isDirectory()) {
+          files.push(...collectPdfFiles(fullPath));
+          continue;
+        }
+
+        if (entry.isFile() && entry.name.toLowerCase().endsWith('.pdf')) {
+          files.push(fullPath);
+        }
+      }
+
+      return files;
+    };
+
+    const pdfFilesToCopy = collectPdfFiles(srcRoot).map((source) => ({
+      source,
+      destination: join(distRoot, relative(srcRoot, source)),
+      label: relative(srcRoot, source).replace(/\\/g, '/')
+    }));
+
     const filesToCopy = [
-      {
-        source: 'docs/src/taligenkanning/tik.pdf',
-        destination: 'docs/.vitepress/dist/taligenkanning/tik.pdf',
-        label: 'tik.pdf'
-      },
-      {
-        source: 'docs/src/sarvard/incisionsset.pdf',
-        destination: 'docs/.vitepress/dist/sarvard/incisionsset.pdf',
-        label: 'incisionsset.pdf'
-      },
-      {
-        source: 'docs/src/sarvard/suturset.pdf',
-        destination: 'docs/.vitepress/dist/sarvard/suturset.pdf',
-        label: 'suturset.pdf'
-      },
+      ...pdfFilesToCopy,
       {
         source: 'docs/public/robots.txt',
         destination: 'docs/.vitepress/dist/robots.txt',

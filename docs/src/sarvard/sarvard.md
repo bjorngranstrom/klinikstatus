@@ -551,3 +551,4 @@ Om behov inneliggande vård pga omfattande infektion
 - Upp till 12% infektionsrisk. Om genomgående skada är risken 24%.
 - AB bör ges vid genomgående skada. 
 ><ye>Penicillin V 500 mg x 2 i 5 dagar</ye>
+
