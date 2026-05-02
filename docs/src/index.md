@@ -36,11 +36,11 @@ Du är själv ansvarig för dina egna beslut och slutsatser. På sätt och vis k
 :::
 
 ## Senaste artiklar
-* [Sårvård](./sarvard/sarvard.md)
+* [Sårvård](./sarvard/index.md)
 * [Appendicit](kirurgi/appendicit.md)
 
 
 ## Blogg
 ::: info [<ye>[HIPPOKRATES LÄRLJUNGE]</ye>](hippokrates-larljunge/hippokrates-larljunge.md)  
-Deliriska reflektioner från akutens frontlinje. Inlägg kommer ske sporadiskt. Fall presenteras där löpande.
+Deliriska reflektioner från akutens frontlinje. Inlägg kommer ske sporadiskt. Fall presenteras löpande. Kanske podcast.
 :::
