@@ -29,7 +29,7 @@ layout: doc
 | Duration > 48h         | 0.49 | 1.20 |
 
 
-<Ref label="[Roland et al. 2004]" citation=" Meta-analysis of the clinical and laboratory diagnosis of appendicitis" url="https://doi.org/10.1002/bjs.4464" />
+<Ref label="[Roland et al.]" citation=" Meta-analysis of the clinical and laboratory diagnosis of appendicitis, 2004" url="https://doi.org/10.1002/bjs.4464" />
 
 
 ###  Status 
@@ -47,7 +47,7 @@ layout: doc
 | Per rektum                | Icke signifikant | Icke signifikant | Icke signifikant | Icke signifikant |
 
 
-<Ref label="Steven McGee. 2022" citation="Evidence-based physical diagnosis, 5th edition." url="" />
+<Ref label="Steven McGee." citation="Evidence-based physical diagnosis, 5th edition, 2022." url="" />
 
 ###  Lab 
 
@@ -65,7 +65,7 @@ layout: doc
 | PMN > 85%                          |        3.8         |          0.6           |
 
 
-<Ref label="[Roland et al. 2004]" citation=" Meta-analysis of the clinical and laboratory diagnosis of appendicitis" url="https://doi.org/10.1002/bjs.4464" />
+<Ref label="[Roland et al.]" citation=" Meta-analysis of the clinical and laboratory diagnosis of appendicitis, 2004" url="https://doi.org/10.1002/bjs.4464" />
 
 ###  Scoringsystem 
 
@@ -89,17 +89,18 @@ layout: doc
 ::: info Hög träffsäkerhet för appendicit. Kan vara av stort värde vid flera differentialdiagnoser, > 40 års ålder, och symptomduration > 3 dygn (risk för abscess som kan behandlas konservativt).
 :::
 
-<Ref label="Jennings et al" citation="Cost-effectiveness of imaging protocols for suspected appendicitis. 2020" url="https://doi.org/10.1542/peds.2019-1352" :superscript="false" fontSize="14px"/> gjorde en hypotetisk kostnadsanalys av olika bildmodaliteter och deras kostnader på appendicit hos barn. Här används publicerad data om sensitivitet/specificitet, amerikanska kostnader, och livskvalitetsmått (QALY). 
+<Ref label="Jennings et al" citation="Cost-effectiveness of imaging protocols for suspected appendicitis, 2020" url="https://doi.org/10.1542/peds.2019-1352" :superscript="false" fontSize="16px"/> gjorde en hypotetisk kostnadsanalys av olika bildmodaliteter och deras kostnader på appendicit hos barn. Här används publicerad data om sensitivitet/specificitet, amerikanska kostnader, och livskvalitetsmått (QALY). 
 - <16% pretestprobability är bilddiagnostik <re>INTE</re> kostnadseffektiv och leder till överdiagnostik. 
 - \>95% PTP är <re>direktoperation</re> det kostnadseffektiva. 
 - I mellangrupper föreslås protokollet: Ultraljud -> DT enbart om appendix ej kan visualiseras <re>OCH</re> indirekta inflammatoriska tecken.
 
-Detta är något som också berörs i det <Ref label="nationella vårdprogrammet" citation="Nationellt vårdprogram för akut appendicit, 2024." url="https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardprogram/nationellt-vardprogram-for-akut-appendicit2.pdf" :superscript="false" fontSize="14px"/> under punkt 8 "Bilddiagnostik".
+Detta är något som också berörs i det <Ref label="nationella vårdprogrammet" citation="Nationellt vårdprogram för akut appendicit, 2024." url="https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardprogram/nationellt-vardprogram-for-akut-appendicit2.pdf" :superscript="false" fontSize="16px"/> under punkt 8 "Bilddiagnostik" och sammanfattas:
 
 ::: danger Bilddiagnostik är ett omdebatterat ämne för att rule in/out appendicit. En patient med hög sannoliket (AIR > 8p) för sjukdom så kan bilddiagnostik sällan helt utesluta appendicit eller behovet av diagnostisk laparoskopi. Vid låg sannolikhet (AIR < 4) finns risk för överdiagnostik eller upptäckt av icke behandlingskrävande appendicit. De med intermediär risk (AIR = 4-8p) är de som har störst nytta av vidare bilddiagnostik när den kliniska bilden är oklar.
 :::
 
 **<ye>Ultraljud</ye>** är alltid försthandsvalet hos barn/gravida eftersom UL inte har hälsovådlig strålning. Är användarberoende och uttalad bukfetma försvårar undersökningen.
+
 ::: details Ultraljudsfynd
 1. Appendix kan visualiseras med diameter > 6 mm. För varje mm ökar sannolikheten. 
 2. Lokal ömhet över appendix. 
@@ -111,6 +112,7 @@ Detta är något som också berörs i det <Ref label="nationella vårdprogrammet
 :::
 
 **<ye>CT</ye>** kan med fördel användas på äldre och kvinnor men har skadlig joniserande strålning samt njurbelastande kontrast. Kan med fördel utföras med lågdos CT på 3 mSv, ger inte försämrad diagnostik. Svårt att särskilja komplicerad från okomplicerad appendicit utan LPK, feber, och vätska i RLQ.
+
 ::: details Indikationer för CT
 1. Lång anamnes (3-5 dagar)
 2. Oklar diagnos med påverkad patient där flera differentialdiagnoser finns.
@@ -133,16 +135,13 @@ Detta är något som också berörs i det <Ref label="nationella vårdprogrammet
 | Lågdos CT med kontrast |        95        |        95        |  19  |
 | MR                     |        95        |        93        | 13.5 |
 
-::: details Källa 
-_Nationellt vårdprogram för akut appendicit, 2024._
-:::
+<Ref label="[Nationella vårdprogrammet]" citation="Nationellt vårdprogram för akut appendicit, 2024." url="https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardprogram/nationellt-vardprogram-for-akut-appendicit2.pdf" :superscript="false" fontSize="12px"/>
 
 ###  Diagnostiskt och beslutsfattande flödesschema 
 
 ![algortim-app](./appendicitmedia/algoritm-app.png)
 
+<Ref label="[Nationella vårdprogrammet]" citation="Nationellt vårdprogram för akut appendicit, 2024." url="https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardprogram/nationellt-vardprogram-for-akut-appendicit2.pdf" :superscript="false" fontSize="12px"/>
 
+## HANDLÄGGNINGSFÖRSLAG
 
-::: details Källa 
-_Nationellt vårdprogram för akut appendicit, 2024._
-:::

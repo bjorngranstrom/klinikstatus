@@ -59,7 +59,7 @@
 
   /* Increase base font size for the whole site */
 body {
-    font-size: 14px !important; /* Adjusts the main body's font size */
+    font-size: 16px !important; /* Adjusts the main body's font size */
   }
 
 /**
@@ -161,8 +161,8 @@ Custom block
  * -------------------------------------------------------------------------- */
 
  :root {
-   --vp-custom-block-font-size: 14px !important;
-   --vp-custom-block-code-font-size: 14px;
+   --vp-custom-block-font-size: 16px !important;
+   --vp-custom-block-code-font-size: 16px;
  
     --vp-custom-block-info-border: #30a46c42 !important;
     --vp-custom-block-info-text: #30a46c !important;
