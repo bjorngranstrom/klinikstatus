@@ -1,21 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://bjorngranstrom.github.io/klinikstatus/</loc></url>
-  <url><loc>https://bjorngranstrom.github.io/klinikstatus/om</loc></url>
-  <url><loc>https://bjorngranstrom.github.io/klinikstatus/kontakt</loc></url>
-  <url><loc>https://bjorngranstrom.github.io/klinikstatus/laboratorieanalyser/blodstatus</loc></url>
-  <url><loc>https://bjorngranstrom.github.io/klinikstatus/taligenkanning/how-to</loc></url>
-  <url><loc>https://bjorngranstrom.github.io/klinikstatus/taligenkanning/lathund-akuten</loc></url>
-  <url><loc>https://bjorngranstrom.github.io/klinikstatus/sarvard/sarvard</loc></url>
-  <url><loc>https://bjorngranstrom.github.io/klinikstatus/internmedicin/erysipelas</loc></url>
-  <url><loc>https://bjorngranstrom.github.io/klinikstatus/internmedicin/venos-tromboembolism-vte</loc></url>
-  <url><loc>https://bjorngranstrom.github.io/klinikstatus/kardiologi/stemi</loc></url>
-  <url><loc>https://bjorngranstrom.github.io/klinikstatus/kirurgi/appendicit</loc></url>
-  <url><loc>https://bjorngranstrom.github.io/klinikstatus/medicinsk-statistik/sensitivitet-och-specificitet</loc></url>
-  <url><loc>https://bjorngranstrom.github.io/klinikstatus/medicinsk-statistik/positivt-prediktivt-varde-ppv</loc></url>
-  <url><loc>https://bjorngranstrom.github.io/klinikstatus/medicinsk-statistik/pretest-probability-ptp</loc></url>
-  <url><loc>https://bjorngranstrom.github.io/klinikstatus/medicinsk-statistik/likelyhood-ratio-lr</loc></url>
-  <url><loc>https://bjorngranstrom.github.io/klinikstatus/medicinsk-statistik/fagans-nomogram</loc></url>
-  <url><loc>https://bjorngranstrom.github.io/klinikstatus/hippokrates-larljunge/hippokrates-larljunge</loc></url>
-  <url><loc>https://bjorngranstrom.github.io/klinikstatus/hippokrates-larljunge/2026/sk-kurs-aldre-sjuka</loc></url>
+  <!-- Main -->
+  <url><loc>https://www.klinikstatus.se/</loc></url>
+  <url><loc>https://www.klinikstatus.se/om</loc></url>
+  <url><loc>https://www.klinikstatus.se/kontakt</loc></url>
+
+  <!-- Artiklar -->
+  <url><loc>https://www.klinikstatus.se/artiklar/</loc></url>
+  <url><loc>https://www.klinikstatus.se/artiklar/2026/crp-lpk</loc></url>
+
+  <!-- Barn -->
+  <url><loc>https://www.klinikstatus.se/barn/</loc></url>
+  <url><loc>https://www.klinikstatus.se/barn/trauma</loc></url>
+
+  <!-- Hippokrates Lärljunge -->
+  <url><loc>https://www.klinikstatus.se/hippokrates-larljunge/</loc></url>
+  <url><loc>https://www.klinikstatus.se/hippokrates-larljunge/lista</loc></url>
+  <url><loc>https://www.klinikstatus.se/hippokrates-larljunge/anteckningar/</loc></url>
+  <url><loc>https://www.klinikstatus.se/hippokrates-larljunge/anteckningar/2026/sk-kurs-aldre-sjuka</loc></url>
+  <url><loc>https://www.klinikstatus.se/hippokrates-larljunge/blogg/</loc></url>
+  <url><loc>https://www.klinikstatus.se/hippokrates-larljunge/blogg/2026/rant1</loc></url>
+
+  <!-- Infektion -->
+  <url><loc>https://www.klinikstatus.se/infektion/</loc></url>
+  <url><loc>https://www.klinikstatus.se/infektion/pneumoni</loc></url>
+
+  <!-- Internmedicin -->
+  <url><loc>https://www.klinikstatus.se/internmedicin/</loc></url>
+  <url><loc>https://www.klinikstatus.se/internmedicin/erysipelas</loc></url>
+  <url><loc>https://www.klinikstatus.se/internmedicin/venos-tromboembolism-vte</loc></url>
+
+  <!-- Kardiologi -->
+  <url><loc>https://www.klinikstatus.se/kardiologi/</loc></url>
+  <url><loc>https://www.klinikstatus.se/kardiologi/stemi</loc></url>
+
+  <!-- Kirurgi -->
+  <url><loc>https://www.klinikstatus.se/kirurgi/</loc></url>
+  <url><loc>https://www.klinikstatus.se/kirurgi/appendicit</loc></url>
+
+  <!-- Laboratorieanalyser -->
+  <url><loc>https://www.klinikstatus.se/laboratorieanalyser/</loc></url>
+  <url><loc>https://www.klinikstatus.se/laboratorieanalyser/blodstatus</loc></url>
+  <url><loc>https://www.klinikstatus.se/laboratorieanalyser/leverstatus</loc></url>
+
+  <!-- Medicinsk statistik -->
+  <url><loc>https://www.klinikstatus.se/medicinsk-statistik/</loc></url>
+  <url><loc>https://www.klinikstatus.se/medicinsk-statistik/sensitivitet-och-specificitet</loc></url>
+  <url><loc>https://www.klinikstatus.se/medicinsk-statistik/positivt-prediktivt-varde-ppv</loc></url>
+  <url><loc>https://www.klinikstatus.se/medicinsk-statistik/pretest-probability-ptp</loc></url>
+  <url><loc>https://www.klinikstatus.se/medicinsk-statistik/likelyhood-ratio-lr</loc></url>
+  <url><loc>https://www.klinikstatus.se/medicinsk-statistik/fagans-nomogram</loc></url>
+
+  <!-- Sårvård -->
+  <url><loc>https://www.klinikstatus.se/sarvard/</loc></url>
+  <url><loc>https://www.klinikstatus.se/sarvard/antibiotika</loc></url>
+  <url><loc>https://www.klinikstatus.se/sarvard/handlaggning</loc></url>
+  <url><loc>https://www.klinikstatus.se/sarvard/hudbiologi</loc></url>
+  <url><loc>https://www.klinikstatus.se/sarvard/listor-och-patientinfo</loc></url>
+
+  <!-- Taligenkänning -->
+  <url><loc>https://www.klinikstatus.se/taligenkanning/</loc></url>
+  <url><loc>https://www.klinikstatus.se/taligenkanning/how-to</loc></url>
+  <url><loc>https://www.klinikstatus.se/taligenkanning/lathund-akuten</loc></url>
+
+  <!-- Urologi -->
+  <url><loc>https://www.klinikstatus.se/urologi/</loc></url>
+  <url><loc>https://www.klinikstatus.se/urologi/njursten</loc></url>
 </urlset>
