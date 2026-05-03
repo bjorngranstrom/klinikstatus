@@ -143,5 +143,5 @@ Detta är något som också berörs i det <Ref label="nationella vårdprogrammet
 
 <Ref label="[Nationella vårdprogrammet]" citation="Nationellt vårdprogram för akut appendicit, 2024." url="https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardprogram/nationellt-vardprogram-for-akut-appendicit2.pdf" :superscript="false" fontSize="12px"/>
 
-## HANDLÄGGNINGSFÖRSLAG
+## INLÄGGNINGSMALL
 
