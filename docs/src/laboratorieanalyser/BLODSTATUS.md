@@ -2,6 +2,14 @@
 title: 1. Blodstatus
 description: Information angående blodstatus.
 layout: doc
+prev: {
+    text: 'Laboratorieanalyser',
+    link: 'laboratorieanalyser/index.md'
+}
+next: {
+    text: 'Leverstatus',
+    link: 'laboratorieanalyser/leverstatus.md'
+}
 ---
 
 # Blodstatus

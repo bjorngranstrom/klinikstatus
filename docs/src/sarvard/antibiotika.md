@@ -6,8 +6,6 @@ layout: doc
 
 # ANTIBIOTIKA
 
-## ANTIBIOTIKA VID SÅRSKADOR
-
 Antibiotika har tidigare varit godtyckligt och har ofta getts i småkurer i profylaktiskt syfte. Denna praxis har i princip helt dött ut då studier visar ingen vinst samtidigt som det driver resistens. Av denna orsak måste individanpassning stå i centrum där sårmekanism, lokalisation, riskfaktorer, och grad av kontamination utgör viktiga beaktanden.
 
 ::: warning PROFYLAKTISK ANTIBIOTIKA 

@@ -2,6 +2,10 @@
 title: 2. Leverstatus
 description: Information angående leverstatus.
 layout: doc
+prev: {
+    text: 'Blodstatus',
+    link: 'laboratorieanalyser/blodstatus.md'
+}
 ---
 
 # Leverstatus

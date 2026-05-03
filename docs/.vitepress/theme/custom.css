@@ -1,6 +1,7 @@
 /* .vitepress/public/custom.css */
 :root {
 
+
 /**
  * Colors: Background
  *
@@ -16,12 +17,11 @@
  *   the page. Used for things like "carbon ads" or "table".
  * -------------------------------------------------------------------------- */
 
-
     --vp-c-bg: #ffffff;
     --vp-c-bg-alt: #f6f6f7;
     --vp-c-bg-elv: #ffffff;
     --vp-c-bg-soft: #f6f6f7;
-  }
+}
   
   html[data-theme="dark"] {
     --vp-c-bg: #272727a6;
@@ -59,7 +59,7 @@
 
   /* Increase base font size for the whole site */
 body {
-    font-size: 18px !important; /* Adjusts the main body's font size */
+    font-size: 14px !important; /* Adjusts the main body's font size */
   }
 
 /**
@@ -161,7 +161,7 @@ Custom block
  * -------------------------------------------------------------------------- */
 
  :root {
-   --vp-custom-block-font-size: 16px !important;
+   --vp-custom-block-font-size: 14px !important;
    --vp-custom-block-code-font-size: 14px;
  
     --vp-custom-block-info-border: #30a46c42 !important;
@@ -237,13 +237,21 @@ a {
 }
 /* Change font size and color of table data cells */
 .vp-doc table td {
-  font-size: 16px !important; /* Adjust as needed */
+  font-size: 14px !important; /* Adjust as needed */
   color: #c4bcbc !important; /* Change to your desired color */
 }
 
 /* Ändra fontstorlek i disclaimer */
 .disclaimer-text {
   font-size: 14px !important; /* Adjust as needed */
+}
+
+/* Smaller text for example source. Use it with 
+<p class="small-text"> 
+XXX 
+</p>*/
+.small-text {
+  font-size: 12px !important; /* Adjust as needed */
 }
 
 /* Custom colors for text spans */
@@ -258,6 +266,7 @@ bl { color: #0CDFF2 }
 bl2 { color: #559ae9}
 pu { color: #D61EDE }
 pu2 { color: #d63995 }
+wh { color: #ffffff }
 
 /* Custom font sizes for headings */
 .vp-doc h1 {

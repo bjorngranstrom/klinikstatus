@@ -1,6 +1,6 @@
 <template>
   <span class="ref-wrapper" @mouseenter="show" @mouseleave="hide">
-    <sup class="ref-link">[{{ label }}]</sup>
+    <component :is="superscript ? 'sup' : 'span'" class="ref-link" :style="{ fontSize: fontSize }">{{ label }}</component>
     <div v-show="showTooltip" class="ref-tooltip">
       <a v-if="url" :href="url" target="_blank" rel="noopener noreferrer" @click.stop>{{ citation }}</a>
       <span v-else>{{ citation }}</span>
@@ -14,7 +14,15 @@ import { ref } from 'vue'
 const props = defineProps({
   label: String,
   citation: String,
-  url: String
+  url: String,
+  superscript: {
+    type: Boolean,
+    default: true
+  },
+  fontSize: {
+    type: String,
+    default: '12px'
+  }
 })
 
 const showTooltip = ref(false)
@@ -39,8 +47,8 @@ const hide = () => {
 }
 
 .ref-link {
-  color: #0066cc;
-  cursor: help;
+  color: #30a46c;
+  font-size: 12px;
   font-weight: bold;
 }
 
@@ -49,23 +57,23 @@ const hide = () => {
   bottom: 130%;
   left: 50%;
   transform: translateX(-50%);
-  background: #222;
-  color: white;
+  background: #2c2c2c;
+  color: #30a46c !important;
   padding: 6px 10px;
   border-radius: 4px;
-  font-size: 13px;
+  font-size: 12px !important;
   white-space: nowrap;
   z-index: 10000;
   pointer-events: auto;
 }
 
 .ref-tooltip a {
-  color: #64b5f6;
-  text-decoration: underline;
+  color: #30a46c;
+  text-decoration: underline !important;
   cursor: pointer;
 }
 
 .ref-tooltip a:hover {
-  color: #90caf9;
+  color: #90a7e6 !important;
 }
 </style>
