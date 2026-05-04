@@ -6,7 +6,8 @@ description: Förklarar vad hemsidan är till för.
 layout: doc
 ---
 
-# Akutläkarens digitala handbok
+![Banner](./public/bannericon.png)
+
 
 ::: details Mitt försök att effektivisera vården och bidra med konkret kunskap riktad till akuten. Navigeras enklast från listvyn i vänster spalt.
 
