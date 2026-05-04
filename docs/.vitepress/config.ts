@@ -11,7 +11,8 @@ export default withMermaid(defineConfig({
   ignoreDeadLinks: true, // Ignores dead links in the documentation
   // This object ensures custom CSS edit
   head: [
-    ['link', { rel: 'stylesheet', href: '/custom.css' }]
+    ['link', { rel: 'stylesheet', href: '/custom.css' }],
+    ['link', { rel: 'icon', type: 'image/png', href: '/favicon.png' }]
   ],
 
   // Force dark mode on first visit
@@ -103,6 +104,7 @@ export default withMermaid(defineConfig({
 
   // Customizes the website theme and displayed core elements.
   themeConfig: {
+    logo: '/favicon.png',
     outline: {
       level: [2, 3 ],
       label: 'Table of contents'
