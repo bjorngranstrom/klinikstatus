@@ -1,14 +1,16 @@
-// .vitepress/theme/index.js
+// .vitepress/theme/index.ts
 import './custom.css'
+import type { Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
 import Ref from './components/Ref.vue'
 import CustomFooter from './components/CustomFooter.vue'
-
-export default {
+const theme: Theme = {
   ...DefaultTheme,
   Layout: CustomFooter,
   enhanceApp({ app }) {
     app.component('Ref', Ref)
   }
 }
+
+export default theme
 

@@ -6,7 +6,7 @@ description: Förklarar vad hemsidan är till för.
 layout: doc
 ---
 
-![Banner](./public/bannericon.png)
+![Banner](/bannericon.png)
 
 
 ::: details Mitt försök att effektivisera vården och bidra med konkret kunskap riktad till akuten. Navigeras enklast från listvyn i vänster spalt.

@@ -13,6 +13,7 @@ prev: {
 ::: info Inkluderar Bilirubin, ALAT, ASAT, GGT, ALP, pankreasamylas. Ibland PK/APTT som tillägg.
 :::
 
+
 ### Bilirubin
 
 ::: info Referensvärden
