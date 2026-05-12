@@ -25,19 +25,14 @@
       "      <tr>",
 
       // Column headers — tab stops 2 and 3
-      "        <th>${2:Column 1}</th>",
-      "        <th>${3:Column 2}</th>",
+      "        <th>${2:C1}</th>",
 
       "      </tr>",
       "    </thead>",
       "    <tbody>",
 
       // Starter rows — tab stops 4-7. Add more <tr> lines to add more rows.
-      "      <tr><td>${4:Row1Col1}</td><td>${5:Row1Col2}</td></tr>",
-      "      <tr><td>${6:Row2Col1}</td><td>${7:Row2Col2}</td></tr>",
-
-      // $0 = final cursor position after all tab stops are filled
-      "      <tr><td>$0</td><td></td></tr>",
+      "      ${3:Row/Col?}",
 
       "    </tbody>",
       "  </table>",
@@ -55,7 +50,9 @@
     "scope": "markdown",
     "description": "Insert 1 HTML table row with 1 column",
     "body": [
-      "<tr><td>$0</td></tr>"
+      "<tr>",
+        "<td>$0</td>",
+      "</tr>"
     ]
   },
 
@@ -65,7 +62,10 @@
     "scope": "markdown",
     "description": "Insert 1 HTML table row with 2 columns",
     "body": [
-      "<tr><td>${1:Col1}</td><td>$0</td></tr>"
+      "<tr>",
+        "<td>${1:Col1}</td>",
+          "<td>$0</td>",
+      "</tr>"
     ]
   },
 
@@ -75,7 +75,11 @@
     "scope": "markdown",
     "description": "Insert 1 HTML table row with 3 columns",
     "body": [
-      "<tr><td>${1:Col1}</td><td>${2:Col2}</td><td>$0</td></tr>"
+      "<tr>",
+        "<td>${1:Col1}</td>",
+          "<td>${2:Col2}</td>",
+            "<td>$0</td>",
+      "</tr>"
     ]
   },
 
@@ -85,7 +89,12 @@
     "scope": "markdown",
     "description": "Insert 1 HTML table row with 4 columns",
     "body": [
-      "<tr><td>${1:Col1}</td><td>${2:Col2}</td><td>${3:Col3}</td><td>$0</td></tr>"
+      "<tr>",
+        "<td>${1:Col1}</td>",
+          "<td>${2:Col2}</td>",
+            "<td>${3:Col3}</td>",
+              "<td>$0</td>",
+      "</tr>"
     ]
   }
 }
