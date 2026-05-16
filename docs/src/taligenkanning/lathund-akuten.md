@@ -15,7 +15,7 @@ Det går även att ställa in hotkey för denna funktion. Gå in under alternati
 
 ### JOURNAL
 
-I kronologisk ordning. Varje ord/mening är det talade kommandot. Peka över respektive kommando för att mer information.
+I kronologisk ordning. Varje ord/mening är det talade kommandot. Peka över respektive kommando för mer information.
 
 <div style="display: flex; gap: 2rem; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 300px;">
@@ -90,7 +90,69 @@ I kronologisk ordning. Varje ord/mening är det talade kommandot. Peka över res
   </div>
 </div>
 
+### LÄKEMEDEL
 
+Varje kommando ska börja med "Ordinera" följt av kommando i tabellen. Exempelvis, om du vill ordinera bensylpenicillin 3g x 3 säger du: "Ordinera bensyl pc tredos". Detta gäller för ALLA läkemedel.
+
+<div style="flex: 1; min-width: 300px;">
+  <!---<h3>LÄKEMEDEL</h3>--->
+  <table>
+    <thead>
+      <tr>
+        <th>ANTIBIOTIKA</th>
+        <th>SMÄRTA</th>
+        <th>ÖVRIGT</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>IV</td>
+           <td>Col2</td>
+              <td></td>
+      </tr>
+      <tr>
+       <td><Ref label="Bensyl PC tredos" citation="3g x 3 tv normaldos" url="" :superscript="false" fontSize="1em"/></td>
+         <td>Col2</td>
+           <td></td>
+      </tr>
+      <tr>
+        <td><Ref label="Bensyl PC fyrdos" citation="3g x 4 tv högdos" url="" :superscript="false" fontSize="1em"/></td>
+           <td>Col2</td>
+             <td></td>
+      </tr>
+      <tr>
+        <td><Ref label="Pip taz endos" citation="Engångsdos 4g" url="" :superscript="false" fontSize="1em"/></td>
+           <td>Col2</td>
+             <td></td>
+      </tr>
+      <tr>
+        <td><Ref label="Pip taz tvådos" citation="GFR <30 : 4g x 2 tv (reducerad)" url="" :superscript="false" fontSize="1em"/></td>
+          <td>Col2</td>
+           <td></td>
+      </tr>
+      <tr>
+        <td><Ref label="Pip taz tredos" citation="GFR 30-50 : 4g x 3 tv (standard)" url="" :superscript="false" fontSize="1em"/></td>
+           <td>Col2</td>
+              <td></td>
+      </tr>
+      <tr>
+       <td><Ref label="Pip taz fyrdos" citation="GFR >50 : 4g x 4 tv (högdos)" url="h" :superscript="false" fontSize="1em"/></td>
+         <td>Col2</td>
+            <td></td>
+      </tr>
+      <tr>
+      <td>Per os</td>
+      <td>Col2</td>
+      <td></td>
+      </tr>
+      <tr>
+      <td><Ref label="1" citation="Source" url="https://example.com" :superscript="true" fontSize="1em"/></td>
+      <td>Col2</td>
+      <td></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 [LADDA NER LATHUND PDF](taligenkanning-media/tik.pdf)
 
