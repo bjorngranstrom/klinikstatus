@@ -1,15 +1,9 @@
 {
   "Create HTML Table": {
-    // Trigger word — type this in a .md file then press Tab to expand
-    "prefix": "create table",
-
-    // Only activates inside markdown files
+    "prefix": "table",
     "scope": "markdown",
-
-    // Description shown in the VS Code autocomplete dropdown
     "description": "Insert a standard HTML table with a heading, two column headers and starter rows",
 
-    // The actual text that gets inserted. Each string is one line.
     // ${1:...} is a tab stop — press Tab to jump between them.
     // The text after the colon is the placeholder that gets replaced when you type.
     // $0 is where the cursor ends up after you have filled in all tab stops.
@@ -95,6 +89,162 @@
             "<td>${3:Col3}</td>",
               "<td>$0</td>",
       "</tr>"
+    ]
+  },
+
+  // CREATE VITEPRESS TABLE
+  "Create VitePress Table": {
+    "prefix": "vtable",
+    "scope": "markdown",
+    "description": "Insert a standard VitePress table with a heading, two column headers and starter rows",
+    "body": [
+      "| ${1:Column 1} | ${2:Column 2} |",
+      "| --- | --- |",
+      "| ${3:Row 1, Col 1} | ${4:Row 1, Col 2} |",
+      "| ${5:Row 2, Col 1} | ${6:Row 2, Col 2} |",
+      "$0"
+    ]
+  },
+
+
+  "VitePress Frontmatter": {
+    "prefix": "frontmatter",
+    "body": [
+      "---",
+      "title: ${1:Title}",
+      "description: ${2:Description}",
+      "layout: doc",
+      "prev: {",
+      "    text: '${3:Previous Page}',",
+      "    link: '${4:folder/page}'",
+      "}",
+      "next: {",
+      "    text: '${5:Next Page}',",
+      "    link: '${6:folder/page}'",
+      "}",
+      "---",
+      "",
+      "# ${1:Title}",
+      "$0"
+    ],
+    "description": "Standard VitePress frontmatter template"
+  },
+
+
+  "VitePress Frontmatter Minimal": {
+    "prefix": "frontmattermini",
+    "body": [
+      "---",
+      "title: ${1:Title}",
+      "description: ${2:Kort beskrivning}",
+      "layout: doc",
+      "---",
+      "",
+      "# ${1:Title}",
+      "$0"
+    ],
+    "description": "Minimal frontmatter for new pages"
+  },
+
+// ── VitePress index links ────────────────────────────────────────────────
+
+"VitePress Index Links": {
+    "prefix": "indexlinks",
+    "body": [
+      "- [${1:1. Rubrik}](${2:sida-1})",
+      "- [${3:2. Rubrik}](${4:sida-2})",
+      "- [${5:3. Rubrik}](${6:sida-3})",
+      "$0"
+    ],
+    "description": "Quick link list for section index pages"
+  },
+
+
+
+  // ── Article template ────────────────────────────────────────────────
+"Article Template Mini": {
+    "prefix": "article",
+    "body": [
+      "---",
+      "title: ${1:Diagnos}",
+      "description: ${2:Kort introduktion till ${1:Diagnos}.}",
+      "layout: doc",
+      "prev: {",
+      "    text: '${3:Foregande sida}',",
+      "    link: '${4:laboratorieanalyser/index.md}'",
+      "}",
+      "next: {",
+      "    text: '${5:Nasta sida}',",
+      "    link: '${6:laboratorieanalyser/nasta-sida.md}'",
+      "}",
+      "---",
+      "",
+      "# ${1:Diagnos}",
+      "",
+      "## EPIDEMIOLOGI",
+      "",
+      "${7:Kort epidemiologisk sammanfattning.}",
+      "",
+      "## UNDERSÖKNINGAR",
+      "",
+      "### Anamnes",
+      "${8:Nyckelfynd i anamnes.}",
+      "",
+      "### Status",
+      "${9:Nyckelfynd i status.}",
+      "",
+      "### Lab",
+      "${10:Relevanta laboratorieprover och tolkning.}",
+      "",
+      "### Bilddiagnostik",
+      "${11:När bilddiagnostik ar indicerad och varfor.}",
+      "",
+      "### Diagnostiskt och beslutsfattande flödesschema",
+      "${12:Beskriv övergripande handläggning.}",
+      "$0"
+    ],
+    "description": "Compact article template"
+  },
+
+
+
+  // TEMPLATE FOR SCIENTIFIC ARTICLE BREAKDOWN
+  "Add article template": {
+    "prefix": "artblog",
+    "scope": "markdown",
+    "description": "Insert a scientific article template with sections and subsections",
+    "body": [
+      "---",
+      "title: ${1:Title of the article}",
+      "description: ${2:Kort introduktion}",
+      "layout: doc",
+      "prev: {",
+      "    text: '${3:Foregande sida}',",
+      "    link: '${4:laboratorieanalyser/index.md}'",
+      "}",
+      "next: {",
+      "    text: '${5:Nasta sida}',",
+      "    link: '${6:laboratorieanalyser/nasta-sida.md}'",
+      "}",
+      "---",
+      "",
+      "# ARTIKELNS TITEL",
+      "",
+      "INTRODUKTION",
+      "",
+      "#### MATERIAL / STUDIE",
+      "Kort om studiedesign, population, och länk till artikeln.",
+      "| PICO         | INNEHÅLL                                                        |",
+      "|--------------|-----------------------------------------------------------------|",
+      "| POPULATION   | Patienter med akut buk på akuten.                               |",
+      "| INTERVENTION | Använda CRP och LPK som triageprover.                           |",
+      "| COMPARISON   | Klinisk undersökning utan CRP/LPK.                              |",
+      "| OUTCOME      | Provernas förmåga att särskilja på akut vs icke akut bukåkomma. |",
+      "PICOSPECIFIC QUESTION",
+      "",
+      "VAD GÖR DENNA STUDIE BRA?",
+      "",
+      "$0"
     ]
   }
 }

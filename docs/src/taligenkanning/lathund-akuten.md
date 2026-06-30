@@ -73,12 +73,12 @@ I kronologisk ordning. Varje ord/mening är det talade kommandot. Peka över res
          <tr>
          <td><Ref label="4.1 Till hjärta" citation="Tar dig till hjärta" url="" :superscript="false" fontSize="1em"/></td>
           <td><Ref label="12. Ultraljud akut" citation="Tar dig till Ultraljud akut med standardtext" url="" :superscript="false" fontSize="1em"/></td>
-            <td></td>
+            <td><Ref label="20. Diagnoskod" citation="Text till sekreterare" url="" :superscript="false" fontSize="1em"/></td>
         </tr>
         <tr>
         <td><Ref label="5. Lungor" citation="Tar dig till lungor och skriver ut normalt lungstatus" url="" :superscript="false" fontSize="1em"/></td>
           <td><Ref label="12.1 Till ultraljud akut" citation="Tar dig till ultraljud akut" url="" :superscript="false" fontSize="1em"/></td>
-            <td></td>
+            <td><Ref label="21. IB" citation="Förfyller IB-anteckning. Gör detta sist då navigering i journalen blir felaktig efter detta moment" url="" :superscript="false" fontSize="1em"/></td>
         </tr>
         <tr>
         <td><Ref label="5.1 Till lungor" citation="Tar dig till lungor" url="" :superscript="false" fontSize="1em"/></td>
@@ -146,7 +146,7 @@ Varje kommando ska börja med "Ordinera" följt av kommando i tabellen. Exempelv
       <td></td>
       </tr>
       <tr>
-      <td><Ref label="1" citation="Source" url="https://example.com" :superscript="true" fontSize="1em"/></td>
+      <td><Ref label="" citation="Source" url="https://example.com" :superscript="true" fontSize="1em"/></td>
       <td>Col2</td>
       <td></td>
       </tr>
@@ -154,6 +154,6 @@ Varje kommando ska börja med "Ordinera" följt av kommando i tabellen. Exempelv
   </table>
 </div>
 
-[LADDA NER LATHUND PDF](taligenkanning-media/tik.pdf)
+[EJ UPPDATERAD PDF](taligenkanning-media/tik.pdf)
 
 
