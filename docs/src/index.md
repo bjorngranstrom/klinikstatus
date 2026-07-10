@@ -19,6 +19,7 @@ Slänger även in mer allomfattande kunskap allteftersom, det är ett läromomen
 :::
 
 ## Senaste artiklar
+* [Artikel om CRP och LPK vid AKUT BUK](./artiklar/2026/crp-lpk.md)
 * [Laboratorieanalyser](./laboratorieanalyser/)
 * [Sårvård](./sarvard/index.md)
 * [Appendicit](kirurgi/appendicit.md)

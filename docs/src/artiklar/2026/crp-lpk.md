@@ -29,3 +29,16 @@ Vad som ansågs vara AKUT och ICKE AKUT
 ![TABELL](./crp-lpk-media/finaldiagnoses.png)
 
 I majoriteten av patienterna togs CRP (93,9%), LPK (89%), och båda tillsammans (82,9%).
+
+Studien konkluderar att CRP och LPK är inadekvata tester att använda som triageinstrument för att selektera fram bilddiagnostik hos patienter med akutbuk, detta trots duration > 48h. Det principiella problemet är att proverna ensamma men också tillsammans har dålig sensitivitet, framförallt vid ökande tröskelvärden. Specificiteten blir bättre vid högre tröskelvärden men på signifikant bekostnad av sensitiviteten.
+
+Vid CRP > 50 + LPK > 15 fick man det hösta PPV (85,5%) men missar också störst andel urgent cases (85,3%). Som regel blir specificiteten mycket bra vid LPK > 15 och CRP > 50 (> 95%) vilket gör testerna bra för rule in (SpIn). Tyvärr missas för många urgent cases och kan således inte användas som rule-out (SnOut).
+
+![Tabell 2](./crp-lpk-media/crplpktable.png)
+
+#### SVAGHET
+Den viktigaste svagheten i studien är det faktum att proverna inte är sammankopplade med en klinisk undersökning. En studie som utforskar ett triagesystem med översiktligt bukstatus och vitalparametrar kan med all sannolikhet göra proverna betydligt mer användbara för att snabbt motivera bilddiagnostik.
+
+::: info BOTTOM LINE
+Högkvalitativ studie. CRP och LPK kan inte användas som ensamt instrument för att motivera bilddiagnostik. En viktig takeaway är att durationen av symptomdebut hade föga påverkan på provernas prediktiva förmåga för urgent cases.
+:::
