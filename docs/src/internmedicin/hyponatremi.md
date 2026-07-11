@@ -32,10 +32,53 @@ Detta är ett mycket sällsynt tillstånd och drabbar uppskattningsvis 3-10 pat/
 
 Vid den akuta bedömningen är det av stor vikt att man särskiljer på typer av hyponatremi då detta styr utredning och behandling. Kategorier, utredning, och behandling utvärderas översiktligt i denna artikel från akutens perspektiv.
 
+## KLINIK
+
+| Allvarlighetsgrad | Plasmanatrium mmol/L |
+|-------------------|:--------------------:|
+| Lätt              |       130-134        |
+| Måttlig           |       125-129        |
+| Svår              |        < 125         |
+
+
+
+| Allvarlighetsgrad | Symptom                                             |
+|-------------------|-----------------------------------------------------|
+| Lätt              | Illamående, kräkningar, huvudvärk, svaghet, anorexi |
+| Måttlig           | Konfusion, desorientering, gångataxi                |
+| Svår              | Kramp, koma, tydligt påverkat allmäntillstånd       |
+
+Symptomen är avgörande för bedömningen av svårighetsgraden. Man kan exempelvis ha ett P-Na på 123 utan uppenbara symptom men ett värde på 128 och ha neurologisk påverkan. En förklaring är sannolikt att den absoluta majoriteten är kroniskt orsakade hyponatremier där kroppen haft gott om tid för att anpassa sig.
+
+
+
 ## TYPER AV HYPONATREMI
 
-### Anamnes
-Nyckelfynd i anamnes.
+1. [Hypovolem hyponatremi](https://) 
+2. [Hypervolem hyponatremi](https://) "Blöt på utsidan, men torr på insidan"
+3. [Euvolem hyponatremi](https://) "Sjuklig vattenretention"
+4. [Pseudohyponatremi och spädningshyponatremi](https://) "Hyperlipidemi och hyperglykemi"
+
+### Hypovolem hyponatremi
+
+Beskrivs som "Hyponatremi med dehydrering". Här har vi samtidiga förluster av natrium och total body water (TBW). Natriumförlusterna överstiger vattnets i proportion. Det måste alltså finnas något som aktivt orsakar förlusterna av natriumet utöver njuren. Detta inkluderar:
+1. Svettning (långdistanslöpare), diarré (gastroenterit), kräkningar
+2. THIRD SPACING: Ileus, brännskador, abdominell sepsis, pankreatit
+
+::: info THIRD SPACING
+"Gömd hypovolemi med ADH-medierad vattenretenion". Vatten fastnar extravasalt tillföljd av patologi. Kroppen blir intravasalt uttorkad och aktiverar RAAS och ADH. Vatten retineras i högre proportion än natrium varför natrium späds ut. Patienterna är "wet on the outside but dry on the inside".
+
+Ileus <ye>➨</ye> ↑ tarmsekretioner + ↑ inflammatorisk vätska i tarm <ye>➨</ye> Sekvestering av vätska i tarmlumen <ye>➨</ye> ↓ intravasal vätska <ye>➨</ye> 
+Hypovolemi <ye>➨</ye> ↑ ADH + ↑ Na-retention <ye>➨</ye> ↑↑↑ Vatten + ↑ Na <ye>➨</ye> Natrium späds ut
+:::
+ 
+::: warning Exempelscenario
+Maratonlöpare springer ett lopp <ye>➨</ye> Förlust av natrium och vatten via svettning <ye>➨</ye> Låg effektiv cirkulerande volym <ye>➨</ye> Baroreceptorer signalerar <ye>➨</ye> ADH frigörs <ye>➨</ye> Späder ut natrium
+:::
+
+Dessa patienter blir sjukare av hypoton vätska eftersom det fortsätter späda ut natriumet. Njurarna har svårt att göra sig av med överskottsvätskan pga ADH-påslaget. 
+
+Man kan ibland behöva differentiera dessa från njurförluster som orsakas av diuretika, addisons, renal tubulär acidos. U-Na hjälper oss differentiera diagnostiskt.
 
 ### Status
 Nyckelfynd i status.
