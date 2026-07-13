@@ -50,7 +50,7 @@ Vid den akuta bedömningen är det av stor vikt att man särskiljer på typer av
 
 Symptomen är avgörande för bedömningen av svårighetsgraden. Man kan exempelvis ha ett P-Na på 123 utan uppenbara symptom men ett värde på 128 och ha neurologisk påverkan. En förklaring är sannolikt att den absoluta majoriteten är kroniskt orsakade hyponatremier där kroppen haft gott om tid för att anpassa sig.
 
-
+Akut hyponatremi ....
 
 ## TYPER AV HYPONATREMI
 
@@ -80,14 +80,3 @@ Dessa patienter blir sjukare av hypoton vätska eftersom det fortsätter späda 
 
 Man kan ibland behöva differentiera dessa från njurförluster som orsakas av diuretika, addisons, renal tubulär acidos. U-Na hjälper oss differentiera diagnostiskt.
 
-### Status
-Nyckelfynd i status.
-
-### Lab
-Relevanta laboratorieprover och tolkning.
-
-### Bilddiagnostik
-När bilddiagnostik ar indicerad och varfor.
-
-### Diagnostiskt och beslutsfattande flödesschema
-Beskriv övergripande handläggning.
