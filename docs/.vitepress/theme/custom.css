@@ -198,11 +198,11 @@ html[data-theme="dark"] {
   --vp-custom-block-info-code-bg: #3dd68c !important;
 }
 
- /* Customizes links with <a> tag. 
- */
+/* Customizes links with <a> tag. */
 a {
-  text-decoration: none !important; /* Removes underline*/
-  color: #30a46c !important; /* Change to your desired color */
+  text-decoration: underline !important;
+  text-underline-offset: 0.12em;
+  color: #30a46c !important;
 }
 
 /* Mermaid flowchartdiagram centering */

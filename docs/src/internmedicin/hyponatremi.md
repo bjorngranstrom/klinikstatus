@@ -16,7 +16,7 @@ next: {
 
 ## BAKGRUND
 
-Defineras som P-Na < 135 mmol/L. Förekommer upp till 15-30% av sjukhusvårdade patienter. Dessa pat. har en ökat mortalitet som är relaterad till hyponatremigraden. <Ref label="[1]" citation="Hyponatremi - Internetmedicin" url="https://www.internetmedicin.se/endokrinologi-och-diabetologi/hyponatremi" :superscript="true" fontSize="0.5em"/>
+Defineras som P-Na < 135 mmol/L. Förekommer upp till 15-30% av sjukhusvårdade patienter och är den vanligaste elektrolytrubbningen. Dessa pat. har en ökad mortalitet som är relaterad till hyponatremigraden. 
 
 Hyponatremi ska i princip alltid utredas eftersom <re>allvarliga sjukdomar</re> kan ligga till grund för rubbningen. Behandlingen ska syfta till att åtgärda den underliggande orsaken samtidigt som man korrigerar försiktigt (beroende på akut/kronisk). 
 
@@ -27,10 +27,25 @@ De allra flesta är kroniska och kan åtgärdas under lugna förhållanden. Akut
 ::: danger Osmotiskt demyeliniseringssyndrom (ODS)
 Vid för snabb korrigering av P-Na riskerar man att utveckla ODS. Hjärncellerna har anpassat sig till låga natriumnivåer genom att minska osmotiskt aktiva partiklar i cellerna. Vid tillförsel av natrium ökar osmolaliteten i blodet vilket drar vätska till sig från cellerna. Vid för hastig korrigering skrumpnar framförallt oligodendrocyter som underhåller nervernas myelin. Dessa celler har dålig tolerans för membranstress och kan gå i nekros vilket leder till förlust av myelinet.
 
-Detta är ett mycket sällsynt tillstånd och drabbar uppskattningsvis 3-10 pat/år. <Ref label="[2]" citation="Incidence of osmotic demyelination syndrome in Sweden: A nationwide study" url="https://doi.org/10.1111/ane.13150" :superscript="true" fontSize="0.5em"/>
+Detta är ett mycket sällsynt tillstånd och drabbar uppskattningsvis 3-10 pat/år. <Ref label="1" citation="Incidence of osmotic demyelination syndrome in Sweden: A nationwide study" url="https://doi.org/10.1111/ane.13150" :superscript="true" fontSize="0.5em"/>
 :::
 
 Vid den akuta bedömningen är det av stor vikt att man särskiljer på typer av hyponatremi då detta styr utredning och behandling. Kategorier, utredning, och behandling utvärderas översiktligt i denna artikel från akutens perspektiv.
+
+## EPIDEMIOLOGI
+
+Ett estimat är att prevalensen inom populationen är kring 5% och att ungefär 2-10% of patienterna på akuten har hyponatremi.<Ref label="2" citation="Hyponatremia StatPearls" url="https://www.ncbi.nlm.nih.gov/books/NBK470386/" :superscript="true" fontSize="0.5em"/> Som tumregel kan man utgå ifrån att ca 1/6 av patienter som läggs in har en hyponatremi. 85% är kroniska och 15% är akuta. <Ref label="3" citation="IVA-riktlinje VG-region" url="https://mellanarkiv-offentlig.vgregion.se/alfresco/s/archive/stream/public/v1/source/available/SOFIA/SKAS9696-242963441-51/SURROGATE/Hyponatremi%20-%20behandling%20vid%20intensivv%c3%a5rd.pdf" :superscript="true" fontSize="0.5em"/>
+
+Från internationellt material kan man utläsa följande data i fördelningen av hyponatremityper:
+
+| TYP        | ANDEL, % | ORSAKER                                     |
+|------------|:--------:|---------------------------------------------|
+| Euvolem    |    50    | SIADH, läkemedel, endokrin                  |
+| Hypervolem |    20    | Hjärtsvikt, levercirros, nefrotiskt syndrom |
+| Hypovolem  |    20    | Diarrér, diuretika, dehydrering             |
+| Annat      |   <10    | Polydipsi, addison's, potomani              |
+
+
 
 ## KLINIK
 
@@ -50,7 +65,7 @@ Vid den akuta bedömningen är det av stor vikt att man särskiljer på typer av
 
 Symptomen är avgörande för bedömningen av svårighetsgraden. Man kan exempelvis ha ett P-Na på 123 utan uppenbara symptom men ett värde på 128 och ha neurologisk påverkan. En förklaring är sannolikt att den absoluta majoriteten är kroniskt orsakade hyponatremier där kroppen haft gott om tid för att anpassa sig.
 
-Akut hyponatremi ....
+Akut hyponatremi brukar orsaka symptom som anorexi, illamående och kräkningar, samt generell svaghetskänsla. Dessa står i proportion till hur snabbt natrium sjunker och till vilken grad. Allvarliga symptom kan förväntas vid en minskning < 120 inom 24-48 h. Här kan man se kramp, koma, och inklämning. 
 
 ## TYPER AV HYPONATREMI
 
@@ -80,3 +95,11 @@ Dessa patienter blir sjukare av hypoton vätska eftersom det fortsätter späda 
 
 Man kan ibland behöva differentiera dessa från njurförluster som orsakas av diuretika, addisons, renal tubulär acidos. U-Na hjälper oss differentiera diagnostiskt.
 
+
+
+## KÄLLOR
+
+1. <gr>Rosen's textbook of Medical Emergency - Hyponatremia</gr>
+2. [Internetmedicin - Hyponatremi](https://www.internetmedicin.se/endokrinologi-och-diabetologi/hyponatremi)
+3. [Vårdprogram Hyponatremi](https://endokrinologforeningen.se/nyheter/svenska-vardprogrammet-for-hyponatremi-ar-uppdaterat/)
+4. <gr>Diverse externa källor som refereras specifikt till i löpande text.</gr>

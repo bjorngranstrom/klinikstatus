@@ -21,7 +21,7 @@ const props = defineProps({
   },
   fontSize: {
     type: String,
-    default: '12px'
+    default: '0.5em'
   }
 })
 
@@ -80,7 +80,7 @@ const hide = () => {
 
 .ref-link {
   color: #30a46c;
-  font-size: 12px;
+  font-size: 0.5em;
   font-weight: bold;
 }
 
