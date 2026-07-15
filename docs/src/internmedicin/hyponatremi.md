@@ -24,7 +24,7 @@ De allra flesta är kroniska och kan åtgärdas under lugna förhållanden. Akut
 1. <ye>Akut grav hyponatremi (P-Na < 115 + < 48h duration) med neurologisk påverkan</ye>
 2. <ye>Kronisk hyponatremi P-Na < 120 + neurologisk påverkan</ye>
 
-::: danger Osmotiskt demyeliniseringssyndrom (ODS)
+::: details Osmotiskt demyeliniseringssyndrom (ODS)
 Vid för snabb korrigering av P-Na riskerar man att utveckla ODS. Hjärncellerna har anpassat sig till låga natriumnivåer genom att minska osmotiskt aktiva partiklar i cellerna. Vid tillförsel av natrium ökar osmolaliteten i blodet vilket drar vätska till sig från cellerna. Vid för hastig korrigering skrumpnar framförallt oligodendrocyter som underhåller nervernas myelin. Dessa celler har dålig tolerans för membranstress och kan gå i nekros vilket leder till förlust av myelinet.
 
 Detta är ett mycket sällsynt tillstånd och drabbar uppskattningsvis 3-10 pat/år. <Ref label="1" citation="Incidence of osmotic demyelination syndrome in Sweden: A nationwide study" url="https://doi.org/10.1111/ane.13150" :superscript="true" fontSize="0.5em"/>
@@ -80,24 +80,45 @@ Akut hyponatremi brukar orsaka symptom som anorexi, illamående och kräkningar,
 
 ## TYPER AV HYPONATREMI
 
-1. [Euvolem hyponatremi](https://) "Sjuklig vattenretention"
-2. [Hypovolem hyponatremi](https://) 
-3. [Hypervolem hyponatremi](https://) "Blöt på utsidan, men torr på insidan"
-4. [Pseudohyponatremi och spädningshyponatremi](https://) "Hyperlipidemi och hyperglykemi"
+1. [Euvolem hyponatremi](#euvolem-hyponatremi) "Sjuklig vattenretention"
+2. [Hypovolem hyponatremi](#hypovolem-hyponatremi) 
+3. [Hypervolem hyponatremi](#hypervolem-hyponatremi) "Blöt på utsidan, men torr på insidan"
+4. [Iso- och hyperosmolär hyponatremi](#iso-och-hyperosmolar-hyponatremi) "Hyperlipidemi och hyperglykemi"
 
 ### Euvolem hyponatremi
 
-Den vanligaste typen av hyponatremi på akuten. Den karaktäriseras av en reell ökning av total body water (TBW) och en samtidig utspädning/förlust av natrium. Detta drabbar framförallt äldre som ofta har polyfarmaci i form av diuretika och antidepressivum. 
+Den vanligaste typen av hyponatremi på akuten. Den karaktäriseras av en lätt ökning av total body water (TBW) extracellulärt med en samtidig utspädning/förlust av natrium. Detta drabbar framförallt äldre som ofta har polyfarmaci i form av diuretika och antidepressivum. 
 
-Denna typ av hyponatremi är nästan alltid
+Denna typ av hyponatremi är oftast kronisk eller har en okänd duration. I praktiken handläggs dessa alltså som kroniska hyponatremier såtillsvida orsaken inte är tillförsel av stora mängder hypoton vätska (eg vid TURP).
+
+ORSAKER:
+1. SIADH (vanligast)
+2. Thiaziddiuretika (SIADH-liknande)
+3. Psykogen polydipsi, grav hypotyreos, tillförsel av hypoton vätska
+
+#### SIADH (Syndrome of Inappropriate ADH secretion)
+
+Antidiuretiskt hormon (ADH) stiger till följd av intravasal hypovolemi (baroreceptorer) eller ökad serumosmolalitet (osmoreceptorer i hypothalamus). Insöndras via neurohypofysen. I njuren rekryteras aquaporiner i uppsamlingsrören vilket ökar vattenabsorption och minskar förmågan att koncentrera urin. Vid SIADH insöndras för mycket ADH i förhållande till serumosmolalitet. Ett annat sett att se det är att ADH insöndras oberoende av kroppens vattenbehov.
+
+Eftersom serumosmolaliteten minskar i förhållande till den intracellulära förflyttas vätska intracellulärt. Detta innebär att stor del av den ökade vätskevolymen befinner sig intracellulärt. Patienten kan således hålla sig euvolem lång tid innan dekompensering sker. Utöver detta utsöndras också natrium till följd av natriuretiska peptider som insöndras pga ökad volymbelastning på förmak och kammare. Detta gör att natrium både späds ut och förloras via njuren.
+
+| GRUPP         | ORSAKER                                                               |
+|---------------|-----------------------------------------------------------------------|
+| Läkemedel     | SSRI, TCA, neuroleptika, opioider, metotrexat, litium                 |
+| Malignitet    | Lunga, GI, prostata, lymfom, sarkom                                   |
+| CNS-sjukdomar | Pneumoni, lungabscess, tuberkulos, aspergillos, astma, cystisk fibros |
+
+<bl>Värt att lägga på minnet är att SIADH är en UTESLUTNINGSDIAGNOS!</bl>
 
 ### Hypovolem hyponatremi
 
-Beskrivs som "Hyponatremi med dehydrering". Här har vi samtidiga förluster av natrium och TBW. Natriumförlusterna överstiger vattnets i proportion. Det måste alltså finnas något som aktivt orsakar förlusterna av natriumet utöver njuren. Detta inkluderar:
+Beskrivs som "Hyponatremi med dehydrering". Här har vi samtidiga förluster av natrium och TBW. Natriumförlusterna överstiger vattnets i proportion. Det måste alltså finnas något som aktivt orsakar förlusterna av natriumet utöver njuren. Man delar in dessa som extrarenala och renala förluster.
+
+#### Extrarenala (U-Na <30 mmol/L)
 1. Svettning (långdistanslöpare), diarré (gastroenterit), kräkningar
 2. THIRD SPACING: Ileus, brännskador, abdominell sepsis, pankreatit
 
-::: info THIRD SPACING
+::: details THIRD SPACING
 "Gömd hypovolemi med ADH-medierad vattenretenion". Vatten fastnar extravasalt tillföljd av patologi. Kroppen blir intravasalt uttorkad och aktiverar RAAS och ADH. Vatten retineras i högre proportion än natrium varför natrium späds ut. Patienterna är "wet on the outside but dry on the inside".
 
 Ileus <ye>➨</ye> ↑ tarmsekretioner + ↑ inflammatorisk vätska i tarm <ye>➨</ye> Sekvestering av vätska i tarmlumen <ye>➨</ye> ↓ intravasal vätska <ye>➨</ye> 
@@ -108,9 +129,17 @@ Hypovolemi <ye>➨</ye> ↑ ADH + ↑ Na-retention <ye>➨</ye> ↑↑↑ Vatten
 Maratonlöpare springer ett lopp <ye>➨</ye> Förlust av natrium och vatten via svettning <ye>➨</ye> Låg effektiv cirkulerande volym <ye>➨</ye> Baroreceptorer signalerar <ye>➨</ye> ADH frigörs <ye>➨</ye> Späder ut natrium
 :::
 
+#### Renala (U-Na >30 mmol/L)
+
+1. Diuretika, MRA, ACEi/ARB, Binjurebarkssvikt, Saltförlorande nefropatier
+2. Osmotisk diures till följd av svält, diabetes, och ketoacidos
+
 Dessa patienter blir sjukare av hypoton vätska eftersom det fortsätter späda ut natriumet. Njurarna har svårt att göra sig av med överskottsvätskan pga ADH-påslaget. 
 
-Man kan ibland behöva differentiera dessa från njurförluster som orsakas av diuretika, addisons, renal tubulär acidos. U-Na hjälper oss differentiera diagnostiskt.
+### Hypervolem hyponatremi
+
+
+### Iso- och hyperosmolär hyponatremi
 
 
 
