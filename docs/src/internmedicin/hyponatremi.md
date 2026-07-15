@@ -34,7 +34,7 @@ Vid den akuta bedömningen är det av stor vikt att man särskiljer på typer av
 
 ## EPIDEMIOLOGI
 
-Ett estimat är att prevalensen inom populationen är kring 5% och att ungefär 2-10% of patienterna på akuten har hyponatremi.<Ref label="2" citation="Hyponatremia StatPearls" url="https://www.ncbi.nlm.nih.gov/books/NBK470386/" :superscript="true" fontSize="0.5em"/> Som tumregel kan man utgå ifrån att ca 1/6 av patienter som läggs in har en hyponatremi. 85% är kroniska och 15% är akuta. <Ref label="3" citation="IVA-riktlinje VG-region" url="https://mellanarkiv-offentlig.vgregion.se/alfresco/s/archive/stream/public/v1/source/available/SOFIA/SKAS9696-242963441-51/SURROGATE/Hyponatremi%20-%20behandling%20vid%20intensivv%c3%a5rd.pdf" :superscript="true" fontSize="0.5em"/>
+Ett estimat är att prevalensen inom populationen är kring 5% och att ungefär 3% av patienterna på akuten har hyponatremi.<Ref label="2" citation="Hyponatremia StatPearls" url="https://www.ncbi.nlm.nih.gov/books/NBK470386/" :superscript="true" fontSize="0.5em"/> <Ref label="3" citation="Epidemiology and characteristics of hyponatremia in the emergency department" url="https://doi.org/10.1016/j.ejim.2012.10.014" :superscript="true" fontSize="0.5em"/>
 
 Från internationellt material kan man utläsa följande data i fördelningen av hyponatremityper:
 
@@ -44,6 +44,17 @@ Från internationellt material kan man utläsa följande data i fördelningen av
 | Hypervolem |    20    | Hjärtsvikt, levercirros, nefrotiskt syndrom |
 | Hypovolem  |    20    | Diarrér, diuretika, dehydrering             |
 | Annat      |   <10    | Polydipsi, addison's, potomani              |
+
+En viktig reflektion att hämta från <Ref label="Olsson et al" citation="Epidemiology and characteristics of hyponatremia in the emergency department" url="https://doi.org/10.1016/j.ejim.2012.10.014" :superscript="false" fontSize="1em"/> är att det oftast finns 2-3 etiologier till hyponatremi. De ledande orsakerna är:
+
+| ORSAK                         | ANDEL, % |
+|-------------------------------|:--------:|
+| Tiaziddiuretika               |    17    |
+| SIADH                         |    17    |
+| Annan diuretika               |    14    |
+| Hypervolem                    |    11    |
+| Hypovolem pga kräkning/diarré |    10    |
+| Alkoholmissbruk               |    7     |
 
 
 
@@ -69,14 +80,20 @@ Akut hyponatremi brukar orsaka symptom som anorexi, illamående och kräkningar,
 
 ## TYPER AV HYPONATREMI
 
-1. [Hypovolem hyponatremi](https://) 
-2. [Hypervolem hyponatremi](https://) "Blöt på utsidan, men torr på insidan"
-3. [Euvolem hyponatremi](https://) "Sjuklig vattenretention"
+1. [Euvolem hyponatremi](https://) "Sjuklig vattenretention"
+2. [Hypovolem hyponatremi](https://) 
+3. [Hypervolem hyponatremi](https://) "Blöt på utsidan, men torr på insidan"
 4. [Pseudohyponatremi och spädningshyponatremi](https://) "Hyperlipidemi och hyperglykemi"
+
+### Euvolem hyponatremi
+
+Den vanligaste typen av hyponatremi på akuten. Den karaktäriseras av en reell ökning av total body water (TBW) och en samtidig utspädning/förlust av natrium. Detta drabbar framförallt äldre som ofta har polyfarmaci i form av diuretika och antidepressivum. 
+
+Denna typ av hyponatremi är nästan alltid
 
 ### Hypovolem hyponatremi
 
-Beskrivs som "Hyponatremi med dehydrering". Här har vi samtidiga förluster av natrium och total body water (TBW). Natriumförlusterna överstiger vattnets i proportion. Det måste alltså finnas något som aktivt orsakar förlusterna av natriumet utöver njuren. Detta inkluderar:
+Beskrivs som "Hyponatremi med dehydrering". Här har vi samtidiga förluster av natrium och TBW. Natriumförlusterna överstiger vattnets i proportion. Det måste alltså finnas något som aktivt orsakar förlusterna av natriumet utöver njuren. Detta inkluderar:
 1. Svettning (långdistanslöpare), diarré (gastroenterit), kräkningar
 2. THIRD SPACING: Ileus, brännskador, abdominell sepsis, pankreatit
 

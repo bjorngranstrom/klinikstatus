@@ -200,8 +200,7 @@ html[data-theme="dark"] {
 
 /* Customizes links with <a> tag. */
 a {
-  text-decoration: underline !important;
-  text-underline-offset: 0.12em;
+  text-decoration: none !important;
   color: #30a46c !important;
 }
 
