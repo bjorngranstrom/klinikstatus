@@ -161,7 +161,7 @@ Hyponatremin är ett felvärde, "reading error", till följd av förekomsten av 
 
 Totalnatrium och total body water är oförändrat men ett vattenskifte har skett till ECF till följd av en osmotiskt aktiv partikel som inte är natrium. Detta beror på hyperglykemi med associerade tillstånd hyperosmolärt hyperglykemiskt syndrom (HHS) och diabetisk ketoacidos (DKA). 
 
-<CorrectedSodium />
+[[Kalkylator korrigerat natrium]](../Verktyg/korrigeratnatrium.md)
 
 ## KÄLLOR
 
