@@ -138,10 +138,30 @@ Dessa patienter blir sjukare av hypoton vätska eftersom det fortsätter späda 
 
 ### Hypervolem hyponatremi
 
+Patienten är "torr på insidan men blöt på utsidan". Patienterna har oftast ödem, "blöt". Hyponatremin är samtidig som ECF är ökad. Beror på Natrium- + vattenretention där vatten > natrium. Totalnatrium sett till baslinjen är förhöjd men eftersom TBW är samtidigt rejält förhöjt sker en utspädningseffekt. Vätskeretentionen beror på hypoperfusion av njuren ➨ ↑ RAAS ➨ ↑ Aldosterone + ↑ Vattenabsorption.
+
+#### ORSAKER
+
+1. Hjärtsvikt
+2. Leversvikt med ascites
+3. Nefrotiskt syndrom
+4. Kronisk njursvikt
+
+U-Na bör vara lågt, med undantag njursjukdom, som följd av natriumretentionen.
 
 ### Iso- och hyperosmolär hyponatremi
 
+Dessa är mindre kliniskt signifikanta ur ett behandlingssperspektiv. 
 
+#### Isosomolär 
+
+Hyponatremin är ett felvärde, "reading error", till följd av förekomsten av stora partiklar i serum som inte bidrar till osmolaliteten relativt natrium. Inget vattenskifte sker. Orsaker inkluderar hypertriglyceridemi, hyperproteinemi, och bristande provtagningsteknik (ex nära infusioner).
+
+#### Hyperosmolär "translokations hyponatremi"
+
+Totalnatrium och total body water är oförändrat men ett vattenskifte har skett till ECF till följd av en osmotiskt aktiv partikel som inte är natrium. Detta beror på hyperglykemi med associerade tillstånd hyperosmolärt hyperglykemiskt syndrom (HHS) och diabetisk ketoacidos (DKA). 
+
+<CorrectedSodium />
 
 ## KÄLLOR
 

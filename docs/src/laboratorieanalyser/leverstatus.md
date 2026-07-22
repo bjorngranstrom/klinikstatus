@@ -56,3 +56,5 @@ Nedbrytningsprodukt av erytrocytens hemgrupp. Lipofil, transporteras med albumin
 - Sällsynt men allvarligt och måste utredas skyndsamt!
 - Delvis kolestatisk bild
 - <re>LÄKEMEDEL:</re> AMOXICILLIN, FLUKLOXACILLIN, IBUPROFEN, FENYTOIN, KARBAMAZEPIN, DIAZEPAM, FLUOXETIN, CYTOSTATIKA, HEPARIN, AMIODARON, CYKLOSPORIN, ÖSTROGENER, ANABOLA STEROIDER
+
+### ALAT

@@ -1,5 +1,7 @@
 /* .vitepress/public/custom.css */
 :root {
+  --ks-c-accent: #0f8f5b;
+  --ks-c-accent-strong: #0b6e46;
 
 
 /**
@@ -24,6 +26,8 @@
 }
   
   html[data-theme="dark"] {
+    --ks-c-accent: #3dd68c;
+    --ks-c-accent-strong: #30a46c;
     --vp-c-bg: #272727a6;
     --vp-c-bg-alt: #161618;
     --vp-c-bg-elv: #202127;
