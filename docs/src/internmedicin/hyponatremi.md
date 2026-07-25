@@ -169,10 +169,9 @@ Totalnatrium och total body water är oförändrat men ett vattenskifte har sket
 
 | ANAMNES      | PROVER              |
 |--------------|---------------------|
-| Tidsfärlopp  | P-Na + U-Na         |
+| Tidsförlopp  | P-Na + U-Na         |
 | Vätskebalans | S-Osm + U-Osm       |
 | Läkemedel    | Överväg hormonpanel |
-
 
 
 Kännetecknande för SIADH är euvolemi, låg S-osmolalitet <275, U-osm >100, förhöjt U-Na>30 (natriuretisk peptid), normal tyroidea-, njur-, och binjurebarksfunktion, ingen användning av diuretika senaste dagarna.
