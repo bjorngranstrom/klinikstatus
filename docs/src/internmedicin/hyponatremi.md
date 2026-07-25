@@ -25,7 +25,7 @@ De allra flesta är kroniska och kan åtgärdas under lugna förhållanden. Akut
 2. <ye>Kronisk hyponatremi P-Na < 120 + neurologisk påverkan</ye>
 
 ::: details Osmotiskt demyeliniseringssyndrom (ODS)
-Vid för snabb korrigering av P-Na riskerar man att utveckla ODS. Hjärncellerna har anpassat sig till låga natriumnivåer genom att minska osmotiskt aktiva partiklar i cellerna. Vid tillförsel av natrium ökar osmolaliteten i blodet vilket drar vätska till sig från cellerna. Vid för hastig korrigering skrumpnar framförallt oligodendrocyter som underhåller nervernas myelin. Dessa celler har dålig tolerans för membranstress och kan gå i nekros vilket leder till förlust av myelinet.
+Vid för snabb korrigering av P-Na riskerar man att utveckla ODS. Hjärncellerna har anpassat sig till låga natriumnivåer genom att minska osmotiskt aktiva partiklar i cellerna. Vid tillförsel av natrium ökar osmolaliteten i blodet vilket drar vätska till sig från cellerna. Vid för hastig korrigering skrumpnar framförallt oligodendrocyter som underhåller nervernas myelin. Dessa celler har dålig tolerans för membranstress och kan gå i nekros vilket leder till förlust av myelinet. Drabbar främst alkoholister och undernärda äldre.
 
 Detta är ett mycket sällsynt tillstånd och drabbar uppskattningsvis 3-10 pat/år. <Ref label="1" citation="Incidence of osmotic demyelination syndrome in Sweden: A nationwide study" url="https://doi.org/10.1111/ane.13150" :superscript="true" fontSize="0.5em"/>
 :::
@@ -162,6 +162,22 @@ Hyponatremin är ett felvärde, "reading error", till följd av förekomsten av 
 Totalnatrium och total body water är oförändrat men ett vattenskifte har skett till ECF till följd av en osmotiskt aktiv partikel som inte är natrium. Detta beror på hyperglykemi med associerade tillstånd hyperosmolärt hyperglykemiskt syndrom (HHS) och diabetisk ketoacidos (DKA). 
 
 [[Kalkylator korrigerat natrium]](../Verktyg/korrigeratnatrium.md)
+
+## DIAGNOSTIK
+
+![Utredningsalgoritm för hyponatremi](./hyponatremi-media/utredning.png)
+
+| ANAMNES      | PROVER              |
+|--------------|---------------------|
+| Tidsfärlopp  | P-Na + U-Na         |
+| Vätskebalans | S-Osm + U-Osm       |
+| Läkemedel    | Överväg hormonpanel |
+
+
+
+Kännetecknande för SIADH är euvolemi, låg S-osmolalitet <275, U-osm >100, förhöjt U-Na>30 (natriuretisk peptid), normal tyroidea-, njur-, och binjurebarksfunktion, ingen användning av diuretika senaste dagarna.
+
+## BEHANDLING
 
 ## KÄLLOR
 
