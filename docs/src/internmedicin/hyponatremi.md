@@ -20,6 +20,14 @@ next: {
 [[Kalkylator för natriumkorrigering vid hypovolem hyponatremi]](../Verktyg/vatskebehandling-hypovolem-hyponatremi.md)<br>
 [[Kalkylator korrigerat natrium vid hyperglycemi]](../Verktyg/korrigeratnatrium.md)
 
+::: warning VAD SOM BÖR GÖRAS PÅ AKUTEN
+1. Bestämma allvarlighetsgrad relaterad till symptom och bestämma vårdnivå
+2. Avgöra om den är akut eller kronisk
+3. Försöka avgöra vilken typ
+4. Påbörja utredning med prover
+5. Seponera eventuella läkemedel 
+6. Göra en behandlingsplan anpassad till rådande form av hyponatremi
+:::
 ## BAKGRUND
 
 Defineras som P-Na < 135 mmol/L. Förekommer upp till 15-30% av sjukhusvårdade patienter och är den vanligaste elektrolytrubbningen. Dessa pat. har en ökad mortalitet som är relaterad till hyponatremigraden. 
