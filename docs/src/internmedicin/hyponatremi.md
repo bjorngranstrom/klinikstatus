@@ -178,6 +178,47 @@ Kännetecknande för SIADH är euvolemi, låg S-osmolalitet <275, U-osm >100, f�
 
 ## BEHANDLING
 
+
+#### Vårdnivå
+
+Svår symptomgivande hyponatremi, e.g somnolens, kramp, etc., kräver intensivvård. IMA bör övervägas för patienter med risk för ODS vid korrigering eller annan behandling utöver vätskekarens där tät monitorering är viktig. Vid neurologiskt habitus kan de flesta handläggas på vanlig vårdavdelning. 
+
+#### Utlösande faktor
+
+Orsak till hyponatremi ska behandlas och läkemedel som kan bidra seponeras.
+
+### Svår hyponatremi 
+
+#### Svåra symptom
+
+På grund av låg osmolalitet i blodet dras vätska till celler som har högre osmolalitet. Detta leder till hjärnödem och är livshotande. I ett sånt läge är det indicerat med hyperton natriumklorid 3%.
+
+::: warning AKUTBEHANDLING
+100 ml natriumklorid 3% iv under 20 minuter. Kan upprepas 2 gånger med 20 minuters mellanrum. Målet är att snabbt korrigera tills symptomregress. En bolus på 100 ml höjer i snitt P-Na 2-4 mmol/L. Prover ska tas minst 2 gånger under första timmen.
+:::
+
+::: tip INGET 3% NaCl?
+Blanda 160 mmol Na (4 flaskor 10ml Addex-Natrium 4 mmol/ml) i 500 ml 0,9% NaCl.
+:::
+
+Den totala korrigeringen bör inte överstiga 6 mmol/L/24h. Denna tröskel kan sänkas till 4 mmol/L/24h om man har en ökad risk för ODS (alkoholister, malnutrition, hypokalemi, mycket lågt P-Na).
+
+#### Utan svåra symptom
+
+1. Hypervolem? <br><gr>Loopdiuretika. </gr>
+2. Euvolem? <br><gr>Vätskekarens</gr> 1 L/d. Här bör beaktning tas för patienter som har en nedsatt förmåga att utsöndra vatten, vilket gör behandlingen ineffektiv. För att estimera detta kan man räkna Urin/Plasma elektrolytkvot:
+
+    <div class="left-math">
+
+    $$
+    \mathrm{Kvot}=\frac{U\mathrm{-}Na+U\mathrm{-}K}{S\mathrm{-}Na}
+    $$
+    _Om ≥ 1 innebär låg sannolikhet att patienten kommer svara på vätskekarens. Tolvaptan bör övervägas, startdos 7,5 mg varje eller varannan dag. Tolvaptan ges ALDRIG samtidigt som vätskekarens pga risk för överkorrigering och risk för ODS. Diskutera med njurkonsult._
+    </div>
+
+3. Hypovolem?<br> Behandlas med isoton 0,9% NaCl. För att räkna ut ett 24-timmars mål på 6 mmol/L görs följande beräkning:
+
+
 ## KÄLLOR
 
 1. <gr>Rosen's textbook of Medical Emergency - Hyponatremia</gr>

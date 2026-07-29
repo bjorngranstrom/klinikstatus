@@ -231,12 +231,15 @@ a {
 
 
 /* Custom table font size */
-.vp-doc table,
-/* Change font size and color of table header row */
-.vp-doc table th{
+.vp-doc table {
   font-size: 18px !important;   /* Adjust size as needed */
-  color: #c4bcbc !important;    /* Change to your desired color */
-  background-color: transparent !important; /* Optional: header background */
+}
+
+/* Change font size and color of table header row */
+.vp-doc table th {
+  font-size: 18px !important;   /* Adjust size as needed */
+  color: #ddd9d9 !important;    /* Change to your desired color */
+  background-color: #233c47 !important; /* Optional: header background */
 }
 /* Change font size and color of table data cells */
 .vp-doc table td {
@@ -255,6 +258,12 @@ XXX
 </p>*/
 .small-text {
   font-size: 12px !important; /* Adjust as needed */
+}
+
+/* Left-align display math in scoped sections without changing global math layout */
+.vp-doc .left-math mjx-container[display="true"] {
+  text-align: left !important;
+  margin: 1rem 0 !important;
 }
 
 /* Custom colors for text spans */
