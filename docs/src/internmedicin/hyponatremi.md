@@ -14,6 +14,12 @@ next: {
 
 # Hyponatremi
 
+![Behandlingsschema](./hyponatremi-media/hyponatremibehandling.png)
+[[Vårdprogram hyponatremi 2024]](https://endokrinologforeningen.se/nyheter/svenska-vardprogrammet-for-hyponatremi-ar-uppdaterat/)
+
+[[Kalkylator för natriumkorrigering vid hypovolem hyponatremi]](../Verktyg/vatskebehandling-hypovolem-hyponatremi.md)<br>
+[[Kalkylator korrigerat natrium vid hyperglycemi]](../Verktyg/korrigeratnatrium.md)
+
 ## BAKGRUND
 
 Defineras som P-Na < 135 mmol/L. Förekommer upp till 15-30% av sjukhusvårdade patienter och är den vanligaste elektrolytrubbningen. Dessa pat. har en ökad mortalitet som är relaterad till hyponatremigraden. 
@@ -216,7 +222,16 @@ Den totala korrigeringen bör inte överstiga 6 mmol/L/24h. Denna tröskel kan s
     _Om ≥ 1 innebär låg sannolikhet att patienten kommer svara på vätskekarens. Tolvaptan bör övervägas, startdos 7,5 mg varje eller varannan dag. Tolvaptan ges ALDRIG samtidigt som vätskekarens pga risk för överkorrigering och risk för ODS. Diskutera med njurkonsult._
     </div>
 
-3. Hypovolem?<br> Behandlas med isoton 0,9% NaCl. För att räkna ut ett 24-timmars mål på 6 mmol/L görs följande beräkning:
+3. Hypovolem?<br> Behandlas med isoton 0,9% NaCl. För att räkna ut ett 24-timmars mål på 6 mmol/L kan denna kalkylator användas:
+
+    [[Natriumkorrigering vid hypovolem hyponatremi]](../Verktyg/vatskebehandling-hypovolem-hyponatremi.md)
+
+4. Hypovolem eller Euvolem? <br>
+    I detta skede kan man ge patienten 0,5-1 L 0,9% NaCl på 6-8 timmar och därefter provta. Om P-Na stiger är den hypovolem, om den minskar är den euvolem.
+
+### Monitorering
+
+Vid symptom bör provtagning tas generöst, gärna varje till varannan timme tills det att symptomen gått i regress och korrigeringstakten minskats. Mät vätska in och dygnsurin. Timdiures är en viktig markör, om denna plötsligt ökar kan det stå för att ADH-aktiviteten minskar som då kan leda till en för snabb korrigering.
 
 
 ## KÄLLOR

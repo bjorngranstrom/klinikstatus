@@ -41,7 +41,7 @@
 
       <label class="calc-checkbox">
         <input v-model="highOdsRisk" type="checkbox" />
-        Ökad risk för ODS (t.ex. alkoholöverkonsumtion, malnutrition, hypokalemi, mycket lågt P-Na)
+        Ökad risk för ODS (t.ex. kvinna, alkoholöverkonsumtion, malnutrition, hypokalemi, P-Na<120 mmol/L)
       </label>
 
       <p class="calc-result">
