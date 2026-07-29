@@ -263,7 +263,7 @@ const safetyTier = computed(() => {
   return {
     level: 'darkred',
     title: 'MYCKET HÖG RISK',
-    text: 'Över 8 mmol/L per 24 h innebar tydlig risk för överkorrektion och ODS.'
+    text: 'Över 8 mmol/L per 24 h innebär tydlig risk för överkorrektion och ODS.'
   }
 })
 
