@@ -219,7 +219,7 @@ Den totala korrigeringen bör inte överstiga 6 mmol/L/24h. Denna tröskel kan s
 
 #### Utan svåra symptom
 
-1. Hypervolem? <br><gr>Loopdiuretika. </gr>
+1. Hypervolem? <br><gr>Loopdiuretika och vätskekarens.</gr>
 2. Euvolem? <br><gr>Vätskekarens</gr> 1 L/d. Här bör beaktning tas för patienter som har en nedsatt förmåga att utsöndra vatten, vilket gör behandlingen ineffektiv. För att estimera detta kan man räkna Urin/Plasma elektrolytkvot:
 
     <div class="left-math">
@@ -235,7 +235,7 @@ Den totala korrigeringen bör inte överstiga 6 mmol/L/24h. Denna tröskel kan s
     [[Natriumkorrigering vid hypovolem hyponatremi]](../Verktyg/vatskebehandling-hypovolem-hyponatremi.md)
 
 4. Hypovolem eller Euvolem? <br>
-    I detta skede kan man ge patienten 0,5-1 L 0,9% NaCl på 6-8 timmar och därefter provta. Om P-Na stiger är den hypovolem, om den minskar är den euvolem.
+    I detta skede kan man ge patienten 0,5-1 L 0,9% NaCl på 6-8 timmar och därefter provta. Om P-Na stiger är den hypovolem, om den minskar är den euvolem. 1L 0,9% NaCl motsvarar ungefär 4-6 mmol/L Na.
 
 ### Monitorering
 
