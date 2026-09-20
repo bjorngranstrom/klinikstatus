@@ -92,7 +92,7 @@ I kronologisk ordning. Varje ord/mening är det talade kommandot. Peka över res
 
 ### LÄKEMEDEL
 
-Varje kommando ska börja med "Ordinera" följt av kommando i tabellen. Exempelvis, om du vill ordinera bensylpenicillin 3g x 3 säger du: "Ordinera bensyl pc tredos". Detta gäller för ALLA läkemedel.
+Varje kommando ska börja med "Ordinera" följt av kommando i tabellen. Exempelvis, om du vill ordinera bensylpenicillin 3g x 3 säger du: "Ordinera bensyl pc tredos". Detta gäller för ALLA läkemedel. Dubbelkolla alltid ordinationer.
 
 <div style="flex: 1; min-width: 300px;">
   <!---<h3>LÄKEMEDEL</h3>--->
@@ -107,27 +107,27 @@ Varje kommando ska börja med "Ordinera" följt av kommando i tabellen. Exempelv
     <tbody>
       <tr>
         <td>IV</td>
-           <td>Col2</td>
+           <td>IV/PO</td>
               <td></td>
       </tr>
       <tr>
-       <td><Ref label="Bensyl PC tredos" citation="3g x 3 tv normaldos" url="" :superscript="false" fontSize="1em"/></td>
-         <td>Col2</td>
-           <td></td>
+       <td><Ref label="Bensyl PC tredos" citation="3g x 3 tv standarddos" url="" :superscript="false" fontSize="1em"/></td>
+         <td><Ref label="Paracetamol" citation="1gx4 per os" url="" :superscript="false" fontSize="1em"/></td>
+           <td><Ref label="Ringer endos" citation="Engångsdos 1L ringer" url="" :superscript="false" fontSize="1em"/></td>
       </tr>
       <tr>
         <td><Ref label="Bensyl PC fyrdos" citation="3g x 4 tv högdos" url="" :superscript="false" fontSize="1em"/></td>
-           <td>Col2</td>
-             <td></td>
+           <td><Ref label="Morfin" citation="Morfin iv vb" url="" :superscript="false" fontSize="1em"/></td>
+             <td><Ref label="Ringer endos kväll" citation="Engångsdos till kvällen" url="" :superscript="false" fontSize="1em"/></td>
       </tr>
       <tr>
         <td><Ref label="Pip taz endos" citation="Engångsdos 4g" url="" :superscript="false" fontSize="1em"/></td>
-           <td>Col2</td>
+           <td><Ref label="Smärtpaket" citation="Paracetamol po + morfin iv vb" url="" :superscript="false" fontSize="1em"/></td>
              <td></td>
       </tr>
       <tr>
         <td><Ref label="Pip taz tvådos" citation="GFR <30 : 4g x 2 tv (reducerad)" url="" :superscript="false" fontSize="1em"/></td>
-          <td>Col2</td>
+          <td><Ref label="Toradol" citation="30mg toradol iv" url="" :superscript="false" fontSize="1em"/></td>
            <td></td>
       </tr>
       <tr>
@@ -153,6 +153,8 @@ Varje kommando ska börja med "Ordinera" följt av kommando i tabellen. Exempelv
     </tbody>
   </table>
 </div>
+
+### BESTÄLLNINGAR
 
 [EJ UPPDATERAD PDF](taligenkanning-media/tik.pdf)
 
